@@ -1,0 +1,1641 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="60.84181594848633" y="-136.96893310546875" yaw="-178.77273559570312" z="7.0014495849609375"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="60.84181594848633" y="-136.96893310546875" yaw="-178.77273559570312" z="7.0014495849609375"/>
+         <position x="58.84227752685547" y="-137.0117645263672" yaw="-178.77273559570312" z="6.680202960968018"/>
+      </waypoints>
+   </route>
+   <route id="1" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="239.16921997070312" y="121.36661529541016" yaw="271.3931884765625" z="0.7306484580039978"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="239.16921997070312" y="121.36661529541016" yaw="271.3931884765625" z="0.7306484580039978"/>
+         <position x="239.2178497314453" y="119.36720275878906" yaw="271.3931884765625" z="0.6896928548812866"/>
+      </waypoints>
+   </route>
+   <route id="2" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-57.15608596801758" y="-135.99598693847656" yaw="1.227264404296875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-57.15608596801758" y="-135.99598693847656" yaw="1.227264404296875" z="0.0"/>
+         <position x="-55.15654754638672" y="-135.95315551757812" yaw="1.227264404296875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="3" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-9.858356475830078" y="76.6278305053711" yaw="89.63745880126953" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-9.858356475830078" y="76.6278305053711" yaw="89.63745880126953" z="0.0"/>
+         <position x="-9.845701217651367" y="78.6277847290039" yaw="89.63745880126953" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="4" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="8.54091739654541" y="-81.81804656982422" yaw="-88.58645629882812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="8.54091739654541" y="-81.81804656982422" yaw="-88.58645629882812" z="0.0"/>
+         <position x="8.590254783630371" y="-83.81744384765625" yaw="-88.58645629882812" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="5" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-74.17578125" y="69.36214447021484" yaw="269.84375" z="0.8322466611862183"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-74.17578125" y="69.36214447021484" yaw="269.84375" z="0.8322466611862183"/>
+         <position x="-74.18123626708984" y="67.36215209960938" yaw="269.84375" z="0.8340105414390564"/>
+      </waypoints>
+   </route>
+   <route id="6" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-60.00479507446289" y="135.32757568359375" yaw="-1.2968021631240845" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-60.00479507446289" y="135.32757568359375" yaw="-1.2968021631240845" z="0.0"/>
+         <position x="-58.005306243896484" y="135.2823028564453" yaw="-1.2968021631240845" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="7" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="152.03492736816406" y="-20.490367889404297" yaw="270.9964599609375" z="0.4483265280723572"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="152.03492736816406" y="-20.490367889404297" yaw="270.9964599609375" z="0.4483265280723572"/>
+         <position x="152.0697021484375" y="-22.490066528320312" yaw="270.9964599609375" z="0.6136339902877808"/>
+      </waypoints>
+   </route>
+   <route id="8" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-53.86859893798828" y="-195.1375732421875" yaw="-6.6563720703125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-53.86859893798828" y="-195.1375732421875" yaw="-6.6563720703125" z="0.0"/>
+         <position x="-52.259521484375" y="-195.2657012939453" yaw="-2.4495697021484375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="9" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="206.32179260253906" y="-5.399016380310059" yaw="-179.14419555664062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="206.32179260253906" y="-5.399016380310059" yaw="-179.14419555664062" z="0.0"/>
+         <position x="204.322021484375" y="-5.428888320922852" yaw="-179.14419555664062" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="10" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="27.13456916809082" y="-134.1902313232422" yaw="1.227264404296875" z="0.6754833459854126"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="27.13456916809082" y="-134.1902313232422" yaw="1.227264404296875" z="0.6754833459854126"/>
+         <position x="29.134111404418945" y="-134.1473846435547" yaw="1.227264404296875" z="0.9019247889518738"/>
+      </waypoints>
+   </route>
+   <route id="11" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-65.83811950683594" y="181.99778747558594" yaw="231.09657287597656" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-65.83811950683594" y="181.99778747558594" yaw="231.09657287597656" z="0.0"/>
+         <position x="-66.83960723876953" y="180.70272827148438" yaw="233.4720001220703" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="12" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-77.67031860351562" y="71.3716812133789" yaw="269.84375" z="0.8241888284683228"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-77.67031860351562" y="71.3716812133789" yaw="269.84375" z="0.8241888284683228"/>
+         <position x="-77.67577362060547" y="69.37168884277344" yaw="269.84375" z="0.8322466611862183"/>
+      </waypoints>
+   </route>
+   <route id="13" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-85.01203918457031" y="-53.918758392333984" yaw="89.84373474121094" z="-0.6336459517478943"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-85.01203918457031" y="-53.918758392333984" yaw="89.84373474121094" z="-0.6336459517478943"/>
+         <position x="-85.00658416748047" y="-51.918766021728516" yaw="89.84373474121094" z="-0.6043376326560974"/>
+      </waypoints>
+   </route>
+   <route id="14" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="58.659950256347656" y="196.8846893310547" yaw="179.85702514648438" z="0.3828982412815094"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="58.659950256347656" y="196.8846893310547" yaw="179.85702514648438" z="0.3828982412815094"/>
+         <position x="56.65995788574219" y="196.88967895507812" yaw="179.85702514648438" z="0.33840107917785645"/>
+      </waypoints>
+   </route>
+   <route id="15" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-68.56183624267578" y="184.19581604003906" yaw="231.09657287597656" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-68.56183624267578" y="184.19581604003906" yaw="231.09657287597656" z="0.0"/>
+         <position x="-69.65208435058594" y="182.78598022460938" yaw="233.4720001220703" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="16" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="59.65121841430664" y="193.38221740722656" yaw="179.85702514648438" z="0.40514683723449707"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="59.65121841430664" y="193.38221740722656" yaw="179.85702514648438" z="0.40514683723449707"/>
+         <position x="57.65122604370117" y="193.38720703125" yaw="179.85702514648438" z="0.36064964532852173"/>
+      </waypoints>
+   </route>
+   <route id="17" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-6.35209846496582" y="77.60565948486328" yaw="89.63745880126953" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-6.35209846496582" y="77.60565948486328" yaw="89.63745880126953" z="0.0"/>
+         <position x="-6.339444160461426" y="79.60562133789062" yaw="89.63745880126953" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="18" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-79.72270202636719" y="-195.3987274169922" yaw="-232.1107177734375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-79.72270202636719" y="-195.3987274169922" yaw="-232.1107177734375" z="0.0"/>
+         <position x="-81.26753997802734" y="-193.25564575195312" yaw="-236.3175048828125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="19" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-138.7667236328125" y="130.73484802246094" yaw="40.59568405151367" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-138.7667236328125" y="130.73484802246094" yaw="40.59568405151367" z="0.0"/>
+         <position x="-137.07518005371094" y="132.06236267089844" yaw="35.65373992919922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="20" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-21.35931968688965" y="-138.72991943359375" yaw="-178.77273559570312" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-21.35931968688965" y="-138.72991943359375" yaw="-178.77273559570312" z="0.0"/>
+         <position x="-23.358861923217773" y="-138.77276611328125" yaw="-178.77273559570312" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="21" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="64.10881805419922" y="130.17747497558594" yaw="179.18280029296875" z="0.0035825532395392656"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="64.10881805419922" y="130.17747497558594" yaw="179.18280029296875" z="0.0035825532395392656"/>
+         <position x="62.1090202331543" y="130.20599365234375" yaw="179.18280029296875" z="0.0015124054625630379"/>
+      </waypoints>
+   </route>
+   <route id="22" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-135.91038513183594" y="-120.3808822631836" yaw="-51.97406005859375" z="0.8824123740196228"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-135.91038513183594" y="-120.3808822631836" yaw="-51.97406005859375" z="0.8824123740196228"/>
+         <position x="-134.69239807128906" y="-121.87152862548828" yaw="-49.52229309082031" z="0.8851525783538818"/>
+      </waypoints>
+   </route>
+   <route id="23" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="5.017314434051514" y="-80.90469360351562" yaw="-88.58645629882812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="5.017314434051514" y="-80.90469360351562" yaw="-88.58645629882812" z="0.0"/>
+         <position x="5.066651344299316" y="-82.90409088134766" yaw="-88.58645629882812" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="24" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-88.5065689086914" y="-51.90922164916992" yaw="89.84373474121094" z="-0.6043376326560974"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-88.5065689086914" y="-51.90922164916992" yaw="89.84373474121094" z="-0.6043376326560974"/>
+         <position x="-88.50111389160156" y="-49.90922927856445" yaw="89.84373474121094" z="-0.5750293135643005"/>
+      </waypoints>
+   </route>
+   <route id="25" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-76.96050262451172" y="-193.24923706054688" yaw="-232.1107177734375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-76.96050262451172" y="-193.24923706054688" yaw="-232.1107177734375" z="0.0"/>
+         <position x="-78.3551025390625" y="-191.31459045410156" yaw="-236.3175048828125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="26" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-19.99427604675293" y="130.92092895507812" yaw="178.7032012939453" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-19.99427604675293" y="130.92092895507812" yaw="178.7032012939453" z="0.0"/>
+         <position x="-21.993764877319336" y="130.96620178222656" yaw="178.7032012939453" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="27" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="138.73394775390625" y="-135.3002471923828" yaw="-178.77273559570312" z="8.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="138.73394775390625" y="-135.3002471923828" yaw="-178.77273559570312" z="8.0"/>
+         <position x="136.73440551757812" y="-135.34307861328125" yaw="-178.77273559570312" z="8.0"/>
+      </waypoints>
+   </route>
+   <route id="28" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="233.0225372314453" y="-57.75578308105469" yaw="91.39320373535156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="233.0225372314453" y="-57.75578308105469" yaw="91.39320373535156" z="0.0"/>
+         <position x="232.97390747070312" y="-55.756378173828125" yaw="91.39320373535156" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="29" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-148.9807586669922" y="-52.76736831665039" yaw="90.02984619140625" z="0.11460968106985092"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-148.9807586669922" y="-52.76736831665039" yaw="90.02984619140625" z="0.11460968106985092"/>
+         <position x="-148.98179626464844" y="-50.767372131347656" yaw="90.02984619140625" z="0.09671758115291595"/>
+      </waypoints>
+   </route>
+   <route id="30" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-84.65345764160156" y="77.56075286865234" yaw="89.84373474121094" z="0.7596718072891235"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-84.65345764160156" y="77.56075286865234" yaw="89.84373474121094" z="0.7596718072891235"/>
+         <position x="-84.64800262451172" y="79.56074523925781" yaw="89.84373474121094" z="0.7261000275611877"/>
+      </waypoints>
+   </route>
+   <route id="31" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="236.5458221435547" y="-58.670387268066406" yaw="91.39320373535156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="236.5458221435547" y="-58.670387268066406" yaw="91.39320373535156" z="0.0"/>
+         <position x="236.4971923828125" y="-56.670982360839844" yaw="91.39320373535156" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="32" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-74.5925064086914" y="-83.4372787475586" yaw="269.84375" z="-0.8283791542053223"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-74.5925064086914" y="-83.4372787475586" yaw="269.84375" z="-0.8283791542053223"/>
+         <position x="-74.59795379638672" y="-85.4372787475586" yaw="269.84375" z="-0.8064613342285156"/>
+      </waypoints>
+   </route>
+   <route id="33" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-78.08976745605469" y="-82.42774200439453" yaw="269.84375" z="-0.8374630808830261"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-78.08976745605469" y="-82.42774200439453" yaw="269.84375" z="-0.8374630808830261"/>
+         <position x="-78.09522247314453" y="-84.427734375" yaw="269.84375" z="-0.8180452585220337"/>
+      </waypoints>
+   </route>
+   <route id="34" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="28.548730850219727" y="-193.28564453125" yaw="1.4395599365234375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="28.548730850219727" y="-193.28564453125" yaw="1.4395599365234375" z="0.0"/>
+         <position x="30.5481014251709" y="-193.23541259765625" yaw="1.4395599365234375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="35" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-88.15071868896484" y="78.57029724121094" yaw="89.84373474121094" z="0.743574321269989"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-88.15071868896484" y="78.57029724121094" yaw="89.84373474121094" z="0.743574321269989"/>
+         <position x="-88.145263671875" y="80.5702896118164" yaw="89.84373474121094" z="0.7084290385246277"/>
+      </waypoints>
+   </route>
+   <route id="36" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="64.711181640625" y="-202.8802032470703" yaw="-178.56044006347656" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="64.711181640625" y="-202.8802032470703" yaw="-178.56044006347656" z="0.0"/>
+         <position x="62.71181106567383" y="-202.93045043945312" yaw="-178.56044006347656" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="37" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-188.05587768554688" y="55.195255279541016" yaw="-90.01579284667969" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-188.05587768554688" y="55.195255279541016" yaw="-90.01579284667969" z="0.055450439453125"/>
+         <position x="-188.05642700195312" y="53.195255279541016" yaw="-90.01579284667969" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="38" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-61.830177307128906" y="146.0973358154297" yaw="323.36822509765625" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-61.830177307128906" y="146.0973358154297" yaw="323.36822509765625" z="0.055450439453125"/>
+         <position x="-60.043758392333984" y="144.6961669921875" yaw="320.41497802734375" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="39" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-121.4620361328125" y="-32.893775939941406" yaw="270.3935546875" z="-1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-121.4620361328125" y="-32.893775939941406" yaw="270.3935546875" z="-1.52587890625e-05"/>
+         <position x="-121.44830322265625" y="-34.89372634887695" yaw="270.3935546875" z="-1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="40" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-67.77725982666016" y="-91.49589538574219" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-67.77725982666016" y="-91.49589538574219" yaw="-179.9136962890625" z="0.0"/>
+         <position x="-69.77725219726562" y="-91.49890899658203" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="41" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="86.47650146484375" y="-85.4994125366211" yaw="-144.1046600341797" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="86.47650146484375" y="-85.4994125366211" yaw="-144.1046600341797" z="0.0"/>
+         <position x="84.63593292236328" y="-86.76940155029297" yaw="-146.68431091308594" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="42" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-177.40078735351562" y="-128.47447204589844" yaw="315.1585388183594" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-177.40078735351562" y="-128.47447204589844" yaw="315.1585388183594" z="0.055450439453125"/>
+         <position x="-176.19534301757812" y="-129.59503173828125" yaw="319.02044677734375" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="43" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="87.48260498046875" y="188.0040283203125" yaw="180.28781127929688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="87.48260498046875" y="188.0040283203125" yaw="180.28781127929688" z="0.0"/>
+         <position x="85.48263549804688" y="187.9939727783203" yaw="180.28781127929688" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="44" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="4.322018146514893" y="88.0716323852539" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="4.322018146514893" y="88.0716323852539" yaw="-179.93443298339844" z="0.0"/>
+         <position x="2.322019100189209" y="88.06934356689453" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="45" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-195.08578491210938" y="-53.272804260253906" yaw="89.98420715332031" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-195.08578491210938" y="-53.272804260253906" yaw="89.98420715332031" z="0.055450439453125"/>
+         <position x="-195.08523559570312" y="-51.272804260253906" yaw="89.98420715332031" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="46" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="86.08043670654297" y="-81.40780639648438" yaw="-141.52500915527344" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="86.08043670654297" y="-81.40780639648438" yaw="-141.52500915527344" z="0.0"/>
+         <position x="84.42443084716797" y="-82.66410064697266" yaw="-144.1046600341797" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="47" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-69.75396728515625" y="-0.7808987498283386" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-69.75396728515625" y="-0.7808987498283386" yaw="179.86053466796875" z="0.0"/>
+         <position x="-71.75395965576172" y="-0.7760306596755981" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="48" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="85.05782318115234" y="-1.5651586055755615" yaw="-179.74972534179688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="85.05782318115234" y="-1.5651586055755615" yaw="-179.74972534179688" z="0.0"/>
+         <position x="83.05784606933594" y="-1.5738945007324219" yaw="-179.74972534179688" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="49" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-182.0457000732422" y="140.9603271484375" yaw="405.62652587890625" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-182.0457000732422" y="140.9603271484375" yaw="405.62652587890625" z="0.055450439453125"/>
+         <position x="-180.52256774902344" y="142.42144775390625" yaw="401.99273681640625" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="50" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-67.8476791381836" y="-135.55601501464844" yaw="212.14442443847656" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-67.8476791381836" y="-135.55601501464844" yaw="212.14442443847656" z="0.055450439453125"/>
+         <position x="-69.64083099365234" y="-136.62203979492188" yaw="209.3184814453125" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="51" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="102.04167938232422" y="53.361968994140625" yaw="-79.40199279785156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="102.04167938232422" y="53.361968994140625" yaw="-79.40199279785156" z="0.0"/>
+         <position x="102.37870788574219" y="51.31281280517578" yaw="-81.91820526123047" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="52" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-26.304384231567383" y="95.0365982055664" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-26.304384231567383" y="95.0365982055664" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-24.304384231567383" y="95.03888702392578" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="53" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="151.46908569335938" y="-56.154239654541016" yaw="89.94741821289062" z="0.038604736328125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="151.46908569335938" y="-56.154239654541016" yaw="89.94741821289062" z="0.038604736328125"/>
+         <position x="151.47093200683594" y="-54.154239654541016" yaw="89.94741821289062" z="0.038604736328125"/>
+      </waypoints>
+   </route>
+   <route id="54" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-26.659690856933594" y="201.57289123535156" yaw="-0.028712520375847816" z="0.9301711916923523"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-26.659690856933594" y="201.57289123535156" yaw="-0.028712520375847816" z="0.9301711916923523"/>
+         <position x="-24.659690856933594" y="201.57188415527344" yaw="-0.028712520375847816" z="0.7683161497116089"/>
+      </waypoints>
+   </route>
+   <route id="55" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-245.47705078125" y="90.96993255615234" yaw="366.456787109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-245.47705078125" y="90.96993255615234" yaw="366.456787109375" z="0.0"/>
+         <position x="-243.4147186279297" y="91.1608657836914" yaw="364.12200927734375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="56" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-127.93529510498047" y="32.35541915893555" yaw="89.48860931396484" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-127.93529510498047" y="32.35541915893555" yaw="89.48860931396484" z="0.0"/>
+         <position x="-127.91744995117188" y="34.35533905029297" yaw="89.48860931396484" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="57" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="7.767931938171387" y="-94.8821029663086" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="7.767931938171387" y="-94.8821029663086" yaw="-179.9136962890625" z="0.0"/>
+         <position x="5.7679338455200195" y="-94.88511657714844" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="58" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="28.099199295043945" y="32.19929885864258" yaw="90.02289581298828" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="28.099199295043945" y="32.19929885864258" yaw="90.02289581298828" z="1.52587890625e-05"/>
+         <position x="28.098400115966797" y="34.19929885864258" yaw="90.02289581298828" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="59" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="35.39854431152344" y="-35.99748992919922" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="35.39854431152344" y="-35.99748992919922" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         <position x="35.45201873779297" y="-37.99677276611328" yaw="271.5320739746094" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="60" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="84.03459930419922" y="77.93153381347656" yaw="139.43569946289062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="84.03459930419922" y="77.93153381347656" yaw="139.43569946289062" z="0.0"/>
+         <position x="82.54663848876953" y="79.14968872070312" yaw="141.951904296875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="61" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-22.60257911682129" y="-87.92784118652344" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-22.60257911682129" y="-87.92784118652344" yaw="0.0863037109375" z="0.0"/>
+         <position x="-20.60257911682129" y="-87.9248275756836" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="62" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-104.37682342529297" y="6.3033952713012695" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-104.37682342529297" y="6.3033952713012695" yaw="359.86053466796875" z="0.0"/>
+         <position x="-102.37683868408203" y="6.298527240753174" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="63" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="7.762660026550293" y="-91.38211059570312" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="7.762660026550293" y="-91.38211059570312" yaw="-179.9136962890625" z="0.0"/>
+         <position x="5.762661933898926" y="-91.38512420654297" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="64" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-68.76248931884766" y="-4.283322334289551" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-68.76248931884766" y="-4.283322334289551" yaw="179.86053466796875" z="0.0"/>
+         <position x="-70.76248931884766" y="-4.278454303741455" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="65" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-106.25775146484375" y="-84.55384826660156" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-106.25775146484375" y="-84.55384826660156" yaw="0.0863037109375" z="0.0"/>
+         <position x="-104.25775146484375" y="-84.55083465576172" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="66" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="95.65009307861328" y="-53.494781494140625" yaw="77.86632537841797" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="95.65009307861328" y="-53.494781494140625" yaw="77.86632537841797" z="0.0"/>
+         <position x="95.98186492919922" y="-51.762794494628906" yaw="80.44598388671875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="67" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-176.7008056640625" y="141.06788635253906" yaw="218.2681121826172" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-176.7008056640625" y="141.06788635253906" yaw="218.2681121826172" z="0.055450439453125"/>
+         <position x="-178.1458282470703" y="139.85171508789062" yaw="221.9019012451172" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="68" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-191.5624542236328" y="31.336225509643555" yaw="89.98420715332031" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-191.5624542236328" y="31.336225509643555" yaw="89.98420715332031" z="0.055450439453125"/>
+         <position x="-191.56190490722656" y="33.33622741699219" yaw="89.98420715332031" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="69" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-44.147220611572266" y="-30.872156143188477" yaw="269.6625061035156" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-44.147220611572266" y="-30.872156143188477" yaw="269.6625061035156" z="0.055450439453125"/>
+         <position x="-44.159000396728516" y="-32.87212371826172" yaw="269.6625061035156" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="70" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-243.92494201660156" y="3.143052339553833" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-243.92494201660156" y="3.143052339553833" yaw="359.86053466796875" z="0.0"/>
+         <position x="-241.92494201660156" y="3.1381843090057373" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="71" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-105.38534545898438" y="2.805840015411377" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-105.38534545898438" y="2.805840015411377" yaw="359.86053466796875" z="0.0"/>
+         <position x="-103.3853530883789" y="2.8009719848632812" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="72" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="7.16728401184082" y="-4.468139171600342" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="7.16728401184082" y="-4.468139171600342" yaw="179.86053466796875" z="0.0"/>
+         <position x="5.167289733886719" y="-4.463271141052246" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="73" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-245.87063598632812" y="94.4477310180664" yaw="366.456787109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-245.87063598632812" y="94.4477310180664" yaw="366.456787109375" z="0.0"/>
+         <position x="-243.66629028320312" y="94.65180969238281" yaw="364.12200927734375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="74" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-67.6339340209961" y="84.48929595947266" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-67.6339340209961" y="84.48929595947266" yaw="-179.93443298339844" z="0.0"/>
+         <position x="-69.6339340209961" y="84.48700714111328" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="75" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-242.9164276123047" y="6.640607833862305" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-242.9164276123047" y="6.640607833862305" yaw="359.86053466796875" z="0.0"/>
+         <position x="-240.9164276123047" y="6.635739803314209" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="76" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-103.6884765625" y="91.44805908203125" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-103.6884765625" y="91.44805908203125" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-101.6884765625" y="91.45034790039062" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="77" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-63.918521881103516" y="143.28863525390625" yaw="323.36822509765625" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-63.918521881103516" y="143.28863525390625" yaw="323.36822509765625" z="0.055450439453125"/>
+         <position x="-62.2740364074707" y="141.99879455566406" yaw="320.41497802734375" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="78" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-175.17921447753906" y="137.79344177246094" yaw="220.0850067138672" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-175.17921447753906" y="137.79344177246094" yaw="220.0850067138672" z="0.055450439453125"/>
+         <position x="-176.41976928710938" y="136.68028259277344" yaw="223.71881103515625" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="79" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="82.42427825927734" y="74.69001007080078" yaw="138.17759704589844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="82.42427825927734" y="74.69001007080078" yaw="138.17759704589844" z="0.0"/>
+         <position x="81.0801773071289" y="75.84058380126953" yaw="140.6938018798828" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="80" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="83.07313537597656" y="-5.073861122131348" yaw="-179.74972534179688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="83.07313537597656" y="-5.073861122131348" yaw="-179.74972534179688" z="0.0"/>
+         <position x="81.07315063476562" y="-5.082597255706787" yaw="-179.74972534179688" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="81" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-244.64772033691406" y="-83.39363098144531" yaw="-17.393692016601562" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-244.64772033691406" y="-83.39363098144531" yaw="-17.393692016601562" z="0.0"/>
+         <position x="-243.0126953125" y="-83.85478973388672" yaw="-14.109222412109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="82" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="24.597999572753906" y="35.197898864746094" yaw="90.02289581298828" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="24.597999572753906" y="35.197898864746094" yaw="90.02289581298828" z="1.52587890625e-05"/>
+         <position x="24.597200393676758" y="37.197898864746094" yaw="90.02289581298828" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="83" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-169.3446807861328" y="-141.21351623535156" yaw="523.0415649414062" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-169.3446807861328" y="-141.21351623535156" yaw="523.0415649414062" z="0.055450439453125"/>
+         <position x="-171.34820556640625" y="-140.52796936035156" yaw="519.1796264648438" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="84" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-103.6924819946289" y="94.94805908203125" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-103.6924819946289" y="94.94805908203125" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-101.6924819946289" y="94.95034790039062" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="85" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-171.48532104492188" y="-144.1991424560547" yaw="521.110595703125" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-171.48532104492188" y="-144.1991424560547" yaw="521.110595703125" z="0.055450439453125"/>
+         <position x="-173.68504333496094" y="-143.3626251220703" yaw="517.2486572265625" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="86" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-24.30038070678711" y="91.53888702392578" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-24.30038070678711" y="91.53888702392578" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-22.300384521484375" y="91.54117584228516" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="87" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-66.637939453125" y="87.99044036865234" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-66.637939453125" y="87.99044036865234" yaw="-179.93443298339844" z="0.0"/>
+         <position x="-68.637939453125" y="87.98815155029297" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="88" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-23.367069244384766" y="6.106213569641113" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-23.367069244384766" y="6.106213569641113" yaw="359.86053466796875" z="0.0"/>
+         <position x="-21.367076873779297" y="6.101345539093018" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="89" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="6.175805568695068" y="-0.9657156467437744" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="6.175805568695068" y="-0.9657156467437744" yaw="179.86053466796875" z="0.0"/>
+         <position x="4.175811290740967" y="-0.9608475565910339" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="90" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-23.375587463378906" y="2.6062240600585938" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-23.375587463378906" y="2.6062240600585938" yaw="359.86053466796875" z="0.0"/>
+         <position x="-21.375595092773438" y="2.601356029510498" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="91" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-243.8658905029297" y="-87.24920654296875" yaw="-14.109222412109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-243.8658905029297" y="-87.24920654296875" yaw="-14.109222412109375" z="0.0"/>
+         <position x="-242.01126098632812" y="-87.65925598144531" yaw="-10.82476806640625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="92" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-69.77198028564453" y="-94.9989013671875" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-69.77198028564453" y="-94.9989013671875" yaw="-179.9136962890625" z="0.0"/>
+         <position x="-71.77198028564453" y="-95.00191497802734" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="93" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-188.07980346679688" y="-31.584739685058594" yaw="-90.01579284667969" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-188.07980346679688" y="-31.584739685058594" yaw="-90.01579284667969" z="0.055450439453125"/>
+         <position x="-188.0803680419922" y="-33.58474349975586" yaw="-90.01579284667969" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="94" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-184.580078125" y="-32.58570861816406" yaw="-90.01579284667969" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-184.580078125" y="-32.58570861816406" yaw="-90.01579284667969" z="0.055450439453125"/>
+         <position x="-184.5806427001953" y="-34.58570861816406" yaw="-90.01579284667969" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="95" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-191.58551025390625" y="-52.27376937866211" yaw="89.98420715332031" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-191.58551025390625" y="-52.27376937866211" yaw="89.98420715332031" z="0.055450439453125"/>
+         <position x="-191.5849609375" y="-50.27376937866211" yaw="89.98420715332031" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="96" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-195.0624542236328" y="31.337190628051758" yaw="89.98420715332031" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-195.0624542236328" y="31.337190628051758" yaw="89.98420715332031" z="0.055450439453125"/>
+         <position x="-195.06190490722656" y="33.33719253540039" yaw="89.98420715332031" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="97" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-47.658939361572266" y="-32.851505279541016" yaw="269.6625061035156" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-47.658939361572266" y="-32.851505279541016" yaw="269.6625061035156" z="0.055450439453125"/>
+         <position x="-47.67072296142578" y="-34.851470947265625" yaw="269.6625061035156" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="98" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-109.25247955322266" y="-88.05835723876953" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-109.25247955322266" y="-88.05835723876953" yaw="0.0863037109375" z="0.0"/>
+         <position x="-107.25247955322266" y="-88.05535125732422" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="99" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="46.382904052734375" y="1.7659425735473633" yaw="0.250274658203125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="46.382904052734375" y="1.7659425735473633" yaw="0.250274658203125" z="0.0"/>
+         <position x="48.38288497924805" y="1.7746784687042236" yaw="0.250274658203125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="100" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="7.326020240783691" y="84.57505798339844" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="7.326020240783691" y="84.57505798339844" yaw="-179.93443298339844" z="0.0"/>
+         <position x="5.326021194458008" y="84.5727767944336" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="101" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-69.06526184082031" y="138.36602783203125" yaw="145.40599060058594" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-69.06526184082031" y="138.36602783203125" yaw="145.40599060058594" z="0.055450439453125"/>
+         <position x="-70.51355743408203" y="139.310791015625" yaw="148.3592529296875" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="102" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-124.94134521484375" y="-35.91774368286133" yaw="270.3935546875" z="-1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-124.94134521484375" y="-35.91774368286133" yaw="270.3935546875" z="-1.52587890625e-05"/>
+         <position x="-124.9276123046875" y="-37.91769790649414" yaw="270.3935546875" z="-1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="103" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="105.26483917236328" y="55.09959411621094" yaw="-78.14389038085938" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="105.26483917236328" y="55.09959411621094" yaw="-78.14389038085938" z="0.0"/>
+         <position x="105.67504119873047" y="52.90726089477539" yaw="-80.66009521484375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="104" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-24.607847213745117" y="-84.43086242675781" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-24.607847213745117" y="-84.43086242675781" yaw="0.0863037109375" z="0.0"/>
+         <position x="-22.607851028442383" y="-84.42784881591797" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="105" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="31.819583892822266" y="-33.092140197753906" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="31.819583892822266" y="-33.092140197753906" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         <position x="31.873058319091797" y="-35.09142303466797" yaw="271.5320739746094" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="106" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-131.40838623046875" y="35.386539459228516" yaw="89.48860931396484" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-131.40838623046875" y="35.386539459228516" yaw="89.48860931396484" z="0.0"/>
+         <position x="-131.39053344726562" y="37.38645935058594" yaw="89.48860931396484" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="107" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="155.07191467285156" y="55.90250015258789" yaw="269.9474182128906" z="0.038604736328125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="155.07191467285156" y="55.90250015258789" yaw="269.9474182128906" z="0.038604736328125"/>
+         <position x="155.070068359375" y="53.90250015258789" yaw="269.9474182128906" z="0.038604736328125"/>
+      </waypoints>
+   </route>
+   <route id="108" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-184.55532836914062" y="57.19429016113281" yaw="-90.01579284667969" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-184.55532836914062" y="57.19429016113281" yaw="-90.01579284667969" z="0.055450439453125"/>
+         <position x="-184.55587768554688" y="55.19429016113281" yaw="-90.01579284667969" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="109" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="98.85943603515625" y="-55.16725158691406" yaw="76.57649993896484" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="98.85943603515625" y="-55.16725158691406" yaw="76.57649993896484" z="0.0"/>
+         <position x="99.26322937011719" y="-53.28912353515625" yaw="79.15615844726562" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="110" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-14.726075172424316" y="28.143117904663086" yaw="0.15919755399227142" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-14.726075172424316" y="28.143117904663086" yaw="0.15919755399227142" z="0.0"/>
+         <position x="-12.726082801818848" y="28.1486759185791" yaw="0.15919755399227142" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="111" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-107.03852844238281" y="85.38319396972656" yaw="262.75860595703125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-107.03852844238281" y="85.38319396972656" yaw="262.75860595703125" z="0.0"/>
+         <position x="-107.25736999511719" y="83.44448852539062" yaw="264.3602294921875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="112" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-103.54133605957031" y="-45.483909606933594" yaw="120.15506744384766" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-103.54133605957031" y="-45.483909606933594" yaw="120.15506744384766" z="0.0"/>
+         <position x="-104.54489135742188" y="-43.66659164428711" yaw="117.66143798828125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="113" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-96.77438354492188" y="-43.15028762817383" yaw="-57.89989471435547" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-96.77438354492188" y="-43.15028762817383" yaw="-57.89989471435547" z="0.0"/>
+         <position x="-95.80064392089844" y="-44.630008697509766" yaw="-55.40625762939453" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="114" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="-14.022146224975586" y="69.73062896728516" yaw="0.073272705078125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-14.022146224975586" y="69.73062896728516" yaw="0.073272705078125" z="0.0"/>
+         <position x="-12.022150039672852" y="69.73318481445312" yaw="0.073272705078125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="115" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="14.435765266418457" y="16.724102020263672" yaw="180.15919494628906" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="14.435765266418457" y="16.724102020263672" yaw="180.15919494628906" z="0.0"/>
+         <position x="12.435772895812988" y="16.71854591369629" yaw="180.15919494628906" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="116" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionPedestrianCross_0" type="JunctionPedestrianCross">
+            <trigger_point x="12.4454984664917" y="13.218559265136719" yaw="180.15919494628906" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="12.4454984664917" y="13.218559265136719" yaw="180.15919494628906" z="0.0"/>
+         <position x="10.44550609588623" y="13.213001251220703" yaw="180.15919494628906" z="0.0"/>
+      </waypoints>
+   </route>
+</routes>

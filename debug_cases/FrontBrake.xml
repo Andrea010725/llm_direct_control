@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="FrontBrake_0" type="FrontBrake">
+            <trigger_point x="-73.89510345458984" y="-207.54763793945312" yaw="-179.92355346679688" z="8.700475692749023"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-73.89510345458984" y="-207.54763793945312" yaw="-179.92355346679688" z="8.700475692749023"/>
+         <position x="-75.89509582519531" y="-207.55032348632812" yaw="-179.92355346679688" z="8.903644561767578"/>
+      </waypoints>
+   </route>
+</routes>

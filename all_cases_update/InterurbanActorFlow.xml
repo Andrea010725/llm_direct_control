@@ -1,0 +1,254 @@
+<routes>
+	<route id="0" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_1" type="InterurbanActorFlow">
+				<trigger_point x="3743.7" y="67.8" z="330.5" yaw="-96.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3743.7" y="67.8" z="330.5" yaw="-96.3" />
+			<position x="3436.8" y="-294.6" z="327.0" yaw="180.1" />
+		</waypoints>
+	</route>
+	<route id="1" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_2" type="InterurbanActorFlow">
+				<trigger_point x="2533.9" y="-1682.7" z="331.6" yaw="178.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2533.9" y="-1682.7" z="331.6" yaw="178.4" />
+			<position x="3713.2" y="1971.0" z="349.6" yaw="-90.0" />
+		</waypoints>
+	</route>
+	<route id="2" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_2" type="InterurbanActorFlow">
+				<trigger_point x="-700.5" y="-1380.1" z="340.2" yaw="160.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-700.5" y="-1380.1" z="340.2" yaw="160.1" />
+			<position x="-780.3" y="-917.1" z="339.8" yaw="94.3" />
+		</waypoints>
+	</route>
+	<route id="3" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_3" type="InterurbanActorFlow">
+				<trigger_point x="-840.5" y="-211.0" z="340.8" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-840.5" y="-211.0" z="340.8" yaw="89.9" />
+			<position x="-584.3" y="-83.0" z="347.2" yaw="0.0" />
+		</waypoints>
+	</route>
+	<route id="4" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_3" type="InterurbanActorFlow">
+				<trigger_point x="779.8" y="2171.9" z="355.2" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="779.8" y="2171.9" z="355.2" yaw="90.1" />
+			<position x="961.6" y="2299.2" z="358.1" yaw="360.0" />
+		</waypoints>
+	</route>
+	<route id="5" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_1" type="InterurbanActorFlow">
+				<trigger_point x="-3988.5" y="2040.6" z="337.4" yaw="42.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3988.5" y="2040.6" z="337.4" yaw="42.2" />
+			<position x="-2477.4" y="1603.0" z="335.3" yaw="0.5" />
+		</waypoints>
+	</route>
+	<route id="6" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_1" type="InterurbanActorFlow">
+				<trigger_point x="3743.7" y="67.8" z="330.5" yaw="-96.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3743.7" y="67.8" z="330.5" yaw="-96.3" />
+			<position x="3436.8" y="-294.6" z="327.0" yaw="180.1" />
+		</waypoints>
+	</route>
+	<route id="7" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_2" type="InterurbanActorFlow">
+				<trigger_point x="2533.9" y="-1682.7" z="331.6" yaw="178.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2533.9" y="-1682.7" z="331.6" yaw="178.4" />
+			<position x="3713.2" y="1971.0" z="349.6" yaw="-90.0" />
+		</waypoints>
+	</route>
+	<route id="8" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_2" type="InterurbanActorFlow">
+				<trigger_point x="-700.5" y="-1380.1" z="340.2" yaw="160.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-700.5" y="-1380.1" z="340.2" yaw="160.1" />
+			<position x="-780.3" y="-917.1" z="339.8" yaw="94.3" />
+		</waypoints>
+	</route>
+	<route id="9" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_3" type="InterurbanActorFlow">
+				<trigger_point x="-840.5" y="-211.0" z="340.8" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-840.5" y="-211.0" z="340.8" yaw="89.9" />
+			<position x="-584.3" y="-83.0" z="347.2" yaw="0.0" />
+		</waypoints>
+	</route>
+	<route id="10" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_3" type="InterurbanActorFlow">
+				<trigger_point x="779.8" y="2171.9" z="355.2" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="779.8" y="2171.9" z="355.2" yaw="90.1" />
+			<position x="961.6" y="2299.2" z="358.1" yaw="360.0" />
+		</waypoints>
+	</route>
+	<route id="11" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_1" type="InterurbanActorFlow">
+				<trigger_point x="-3988.5" y="2040.6" z="337.4" yaw="42.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3988.5" y="2040.6" z="337.4" yaw="42.2" />
+			<position x="-2477.4" y="1603.0" z="335.3" yaw="0.5" />
+		</waypoints>
+	</route>
+	<route id="12" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_1" type="InterurbanActorFlow">
+				<trigger_point x="3743.7" y="67.8" z="330.5" yaw="-96.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3743.7" y="67.8" z="330.5" yaw="-96.3" />
+			<position x="3436.8" y="-294.6" z="327.0" yaw="180.1" />
+		</waypoints>
+	</route>
+	<route id="13" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_2" type="InterurbanActorFlow">
+				<trigger_point x="2533.9" y="-1682.7" z="331.6" yaw="178.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2533.9" y="-1682.7" z="331.6" yaw="178.4" />
+			<position x="3713.2" y="1971.0" z="349.6" yaw="-90.0" />
+		</waypoints>
+	</route>
+	<route id="14" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_2" type="InterurbanActorFlow">
+				<trigger_point x="-700.5" y="-1380.1" z="340.2" yaw="160.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-700.5" y="-1380.1" z="340.2" yaw="160.1" />
+			<position x="-780.3" y="-917.1" z="339.8" yaw="94.3" />
+		</waypoints>
+	</route>
+	<route id="15" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_3" type="InterurbanActorFlow">
+				<trigger_point x="-840.5" y="-211.0" z="340.8" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-840.5" y="-211.0" z="340.8" yaw="89.9" />
+			<position x="-584.3" y="-83.0" z="347.2" yaw="0.0" />
+		</waypoints>
+	</route>
+	<route id="16" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_3" type="InterurbanActorFlow">
+				<trigger_point x="779.8" y="2171.9" z="355.2" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="779.8" y="2171.9" z="355.2" yaw="90.1" />
+			<position x="961.6" y="2299.2" z="358.1" yaw="360.0" />
+		</waypoints>
+	</route>
+	<route id="17" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="InterurbanActorFlow_1" type="InterurbanActorFlow">
+				<trigger_point x="-3988.5" y="2040.6" z="337.4" yaw="42.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3988.5" y="2040.6" z="337.4" yaw="42.2" />
+			<position x="-2477.4" y="1603.0" z="335.3" yaw="0.5" />
+		</waypoints>
+	</route>
+</routes>

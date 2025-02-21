@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GiveAwayEmergencyRight_0" type="GiveAwayEmergencyRight">
+            <trigger_point x="196.982" y="18.700" yaw="90.66" z="0.000"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="196.982" y="18.700" yaw="90.66" z="0.000"/>
+         <position x="44.223" y="191.287" yaw="180.29" z="0.000"/>
+      </waypoints>
+   </route>
+</routes>

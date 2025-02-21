@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="BorrowRightLanePassObstacle_0" type="BorrowRightLanePassObstacle">
+            <trigger_point x="-272.303" y="38.004" yaw="89.42" z="0.000"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-272.303" y="38.004" yaw="89.42" z="0.000"/>
+         <position x="-204.112" y="91.333" yaw="0.07" z="0.000"/>
+      </waypoints>
+   </route>
+</routes>

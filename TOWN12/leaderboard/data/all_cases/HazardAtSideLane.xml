@@ -1,0 +1,1671 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes>
+  <route id="0" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="27.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="803.007874" y="5575.519043" z="370.832825"/>
+      <position x="793.006775" y="5575.525879" z="370.828735"/>
+      <position x="783.004700" y="5575.543945" z="370.810211"/>
+      <position x="773.863892" y="5575.565918" z="370.788177"/>
+      <position x="763.863892" y="5575.589844" z="370.764069"/>
+      <position x="753.863892" y="5575.613770" z="370.738098"/>
+      <position x="743.863953" y="5575.638184" z="370.701935"/>
+      <position x="733.864014" y="5575.662109" z="370.654602"/>
+      <position x="723.864014" y="5575.686035" z="370.596130"/>
+      <position x="713.864014" y="5575.709961" z="370.529144"/>
+      <position x="703.864075" y="5575.733887" z="370.461578"/>
+      <position x="693.864136" y="5575.758301" z="370.394012"/>
+      <position x="683.864136" y="5575.782227" z="370.326447"/>
+      <position x="673.864136" y="5575.806152" z="370.258881"/>
+      <position x="663.864197" y="5575.830078" z="370.191284"/>
+      <position x="653.864197" y="5575.854004" z="370.120422"/>
+      <position x="643.864258" y="5575.878418" z="370.044006"/>
+      <position x="633.864258" y="5575.902344" z="369.962036"/>
+      <position x="623.864319" y="5575.926270" z="369.874512"/>
+      <position x="613.864319" y="5575.950195" z="369.783295"/>
+      <position x="600.872192" y="5579.231445" z="369.662842"/>
+      <position x="590.872192" y="5579.255371" z="369.567474"/>
+      <position x="580.872253" y="5579.279785" z="369.469788"/>
+      <position x="570.872253" y="5579.303711" z="369.370148"/>
+      <position x="560.872314" y="5579.327637" z="369.270325"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="753.9" y="5575.6" z="370.7" yaw="179.9"/>
+            <distance value="50"/>
+            <bicycle_drive_distance value="80"/>
+            <bicycle_speed value="8"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="1" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="27.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-817.934814" y="5600.605469" z="375.531982"/>
+      <position x="-817.952515" y="5590.605469" z="375.585236"/>
+      <position x="-817.970215" y="5580.605469" z="375.636108"/>
+      <position x="-817.987244" y="5571.025391" z="375.683136"/>
+      <position x="-818.004883" y="5561.025391" z="375.732086"/>
+      <position x="-818.022583" y="5551.025391" z="375.778290"/>
+      <position x="-818.040283" y="5541.025391" z="375.819122"/>
+      <position x="-818.057983" y="5531.025391" z="375.854553"/>
+      <position x="-818.075684" y="5521.025391" z="375.885742"/>
+      <position x="-818.093384" y="5511.025391" z="375.916412"/>
+      <position x="-818.111084" y="5501.025391" z="375.945374"/>
+      <position x="-818.128784" y="5491.025391" z="375.972198"/>
+      <position x="-818.146484" y="5481.025391" z="375.996857"/>
+      <position x="-818.164185" y="5471.025391" z="376.019440"/>
+      <position x="-818.181885" y="5461.025391" z="376.041443"/>
+      <position x="-818.199585" y="5451.025391" z="376.063416"/>
+      <position x="-818.217285" y="5441.025391" z="376.085388"/>
+      <position x="-818.234985" y="5431.025391" z="376.107300"/>
+      <position x="-818.252808" y="5421.025879" z="376.129211"/>
+      <position x="-818.270752" y="5411.025879" z="376.151001"/>
+      <position x="-818.288696" y="5401.025879" z="376.172150"/>
+      <position x="-818.306580" y="5391.025879" z="376.192627"/>
+      <position x="-818.324524" y="5381.025879" z="376.212402"/>
+      <position x="-818.342468" y="5371.025879" z="376.231506"/>
+      <position x="-818.360352" y="5361.025879" z="376.250183"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-818.0" y="5550.8" z="375.8" yaw="269.9"/>
+            <distance value="80"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="2" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="27.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-818.421326" y="5327.025879" z="376.303772"/>
+      <position x="-818.439209" y="5317.025879" z="376.316437"/>
+      <position x="-818.456238" y="5307.524414" z="376.327789"/>
+      <position x="-818.474182" y="5297.524414" z="376.336670"/>
+      <position x="-818.492126" y="5287.524414" z="376.342255"/>
+      <position x="-818.510010" y="5277.524414" z="376.345123"/>
+      <position x="-818.527954" y="5267.524414" z="376.347748"/>
+      <position x="-818.545898" y="5257.524414" z="376.350372"/>
+      <position x="-818.563782" y="5247.524414" z="376.352966"/>
+      <position x="-818.581726" y="5237.524414" z="376.352783"/>
+      <position x="-818.599670" y="5227.524414" z="376.348724"/>
+      <position x="-818.617554" y="5217.524414" z="376.344086"/>
+      <position x="-818.635498" y="5207.524414" z="376.339447"/>
+      <position x="-818.653442" y="5197.524414" z="376.334747"/>
+      <position x="-818.671326" y="5187.524414" z="376.327545"/>
+      <position x="-818.689270" y="5177.524414" z="376.316681"/>
+      <position x="-818.707153" y="5167.524414" z="376.304077"/>
+      <position x="-818.725098" y="5157.524414" z="376.291443"/>
+      <position x="-818.743042" y="5147.524414" z="376.277588"/>
+      <position x="-818.760925" y="5137.524414" z="376.259796"/>
+      <position x="-818.778870" y="5127.524414" z="376.238068"/>
+      <position x="-818.796814" y="5117.524414" z="376.213165"/>
+      <position x="-818.814697" y="5107.524414" z="376.187744"/>
+      <position x="-818.832642" y="5097.524414" z="376.156372"/>
+      <position x="-818.850586" y="5087.524414" z="376.116913"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-818.5" y="5277.5" z="376.3" yaw="269.9"/>
+            <distance value="80"/>
+            <bicycle_drive_distance value="150"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="3" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="47.20000076293945" precipitation="50.400001525878906" precipitation_deposits="56.79999923706055" wetness="0.0" wind_intensity="50.400001525878906" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-1678.933960" y="4071.834961" z="366.984924"/>
+      <position x="-1678.984131" y="4080.995850" z="367.165070"/>
+      <position x="-1682.180786" y="4095.008301" z="367.441986"/>
+      <position x="-1682.142700" y="4105.008301" z="367.639801"/>
+      <position x="-1682.104614" y="4115.007812" z="367.837677"/>
+      <position x="-1682.066528" y="4125.007812" z="368.036072"/>
+      <position x="-1682.028320" y="4135.007812" z="368.234467"/>
+      <position x="-1681.990234" y="4145.007812" z="368.432861"/>
+      <position x="-1681.952148" y="4155.007812" z="368.631073"/>
+      <position x="-1681.914062" y="4165.007812" z="368.825714"/>
+      <position x="-1681.875977" y="4175.007812" z="369.015869"/>
+      <position x="-1681.837891" y="4185.007324" z="369.204926"/>
+      <position x="-1681.799805" y="4195.007324" z="369.393982"/>
+      <position x="-1681.761597" y="4205.007324" z="369.583954"/>
+      <position x="-1681.723511" y="4215.007324" z="369.775574"/>
+      <position x="-1681.685425" y="4225.007324" z="369.968842"/>
+      <position x="-1681.647339" y="4235.007324" z="370.163269"/>
+      <position x="-1681.609253" y="4245.007324" z="370.356873"/>
+      <position x="-1681.571167" y="4255.006836" z="370.545715"/>
+      <position x="-1681.533081" y="4265.006836" z="370.729218"/>
+      <position x="-1681.494873" y="4275.006836" z="370.907440"/>
+      <position x="-1681.456787" y="4285.006836" z="371.081726"/>
+      <position x="-1681.418701" y="4295.006836" z="371.251526"/>
+      <position x="-1681.380615" y="4305.006836" z="371.412781"/>
+      <position x="-1681.342529" y="4315.006836" z="371.565491"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-1682.1" y="4125.4" z="368.0" yaw="89.8"/>
+            <distance value="70"/>
+            <bicycle_drive_distance value="200"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="4" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="43.5" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="18.899999618530273" fog_density="22.010000228881836" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="471.173553" y="4288.332031" z="370.616028"/>
+      <position x="462.173706" y="4288.384766" z="370.628540"/>
+      <position x="452.503113" y="4288.441895" z="370.641357"/>
+      <position x="442.503296" y="4288.500977" z="370.654938"/>
+      <position x="432.503479" y="4288.560059" z="370.669281"/>
+      <position x="422.503632" y="4288.619629" z="370.684418"/>
+      <position x="412.503784" y="4288.678711" z="370.700317"/>
+      <position x="402.503967" y="4288.737793" z="370.716614"/>
+      <position x="392.504150" y="4288.796875" z="370.733734"/>
+      <position x="382.504333" y="4288.855957" z="370.754730"/>
+      <position x="372.504517" y="4288.915039" z="370.779907"/>
+      <position x="362.504669" y="4288.974121" z="370.809174"/>
+      <position x="352.504852" y="4289.033203" z="370.839722"/>
+      <position x="342.505035" y="4289.092285" z="370.871399"/>
+      <position x="332.505188" y="4289.151367" z="370.904449"/>
+      <position x="322.505371" y="4289.210449" z="370.938843"/>
+      <position x="312.505554" y="4289.269531" z="370.974579"/>
+      <position x="302.505737" y="4289.328613" z="371.010864"/>
+      <position x="292.505890" y="4289.387695" z="371.047699"/>
+      <position x="282.506073" y="4289.446777" z="371.085419"/>
+      <position x="272.506256" y="4289.505859" z="371.124023"/>
+      <position x="262.506439" y="4289.564941" z="371.163239"/>
+      <position x="252.707367" y="4289.623047" z="371.201691"/>
+      <position x="242.707535" y="4289.682129" z="371.241669"/>
+      <position x="233.197708" y="4289.738281" z="371.280762"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="422.9" y="4288.6" z="370.7" yaw="179.7"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="5" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="43.5" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="18.899999618530273" fog_density="22.010000228881836" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="271.506256" y="4289.511719" z="371.127930"/>
+      <position x="260.707214" y="4289.575684" z="371.170288"/>
+      <position x="251.707382" y="4289.628906" z="371.205627"/>
+      <position x="241.707565" y="4289.687988" z="371.245728"/>
+      <position x="232.197723" y="4289.744629" z="371.284912"/>
+      <position x="222.197891" y="4289.803711" z="371.327240"/>
+      <position x="212.198074" y="4289.862793" z="371.370056"/>
+      <position x="202.198242" y="4289.921875" z="371.412842"/>
+      <position x="192.198425" y="4289.980957" z="371.455414"/>
+      <position x="182.198593" y="4290.040039" z="371.497467"/>
+      <position x="172.198776" y="4290.099121" z="371.539124"/>
+      <position x="162.198944" y="4290.158203" z="371.580750"/>
+      <position x="152.199127" y="4290.217285" z="371.623077"/>
+      <position x="142.199295" y="4290.276367" z="371.668182"/>
+      <position x="132.199478" y="4290.335449" z="371.716309"/>
+      <position x="122.199638" y="4290.394531" z="371.767426"/>
+      <position x="112.199821" y="4290.453613" z="371.819946"/>
+      <position x="102.199989" y="4290.512695" z="371.872498"/>
+      <position x="92.200165" y="4290.571777" z="371.925446"/>
+      <position x="82.200340" y="4290.630859" z="371.978851"/>
+      <position x="72.200516" y="4290.689941" z="372.032593"/>
+      <position x="62.200695" y="4290.749023" z="372.086273"/>
+      <position x="52.200867" y="4290.808105" z="372.138763"/>
+      <position x="43.021877" y="4290.862305" z="372.185486"/>
+      <position x="33.022053" y="4290.921387" z="372.234833"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="222.1" y="4289.8" z="371.3" yaw="179.7"/>
+            <distance value="60"/>
+            <speed value="40"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="6" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="43.5" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="18.899999618530273" fog_density="22.010000228881836" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-1667.953125" y="5088.047852" z="377.077698"/>
+      <position x="-1667.915649" y="5097.072754" z="377.069702"/>
+      <position x="-1671.109619" y="5110.588379" z="377.057739"/>
+      <position x="-1671.068115" y="5120.588379" z="377.050659"/>
+      <position x="-1671.026611" y="5130.588379" z="377.047455"/>
+      <position x="-1670.985107" y="5140.587891" z="377.045074"/>
+      <position x="-1670.943604" y="5150.587891" z="377.042725"/>
+      <position x="-1670.902100" y="5160.587891" z="377.040344"/>
+      <position x="-1670.860596" y="5170.587891" z="377.038391"/>
+      <position x="-1670.819092" y="5180.587891" z="377.037048"/>
+      <position x="-1670.777588" y="5190.587402" z="377.035706"/>
+      <position x="-1670.736084" y="5200.587402" z="377.034363"/>
+      <position x="-1670.694580" y="5210.587402" z="377.032990"/>
+      <position x="-1670.653076" y="5220.587402" z="377.031067"/>
+      <position x="-1670.611572" y="5230.587402" z="377.025696"/>
+      <position x="-1670.570068" y="5240.587402" z="377.018738"/>
+      <position x="-1670.528564" y="5250.586914" z="377.011810"/>
+      <position x="-1670.487061" y="5260.586914" z="377.005737"/>
+      <position x="-1670.445679" y="5270.586914" z="377.002045"/>
+      <position x="-1670.404175" y="5280.586914" z="376.999817"/>
+      <position x="-1670.362671" y="5290.586914" z="376.997620"/>
+      <position x="-1670.321167" y="5300.586914" z="376.995453"/>
+      <position x="-1670.279663" y="5310.586426" z="376.993256"/>
+      <position x="-1670.239136" y="5320.324707" z="376.991638"/>
+      <position x="-1670.199707" y="5329.826172" z="376.993561"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-1671.0" y="5140.9" z="377.0" yaw="89.8"/>
+            <distance value="60"/>
+            <speed value="30"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="10"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="7" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="33.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="1741.896118" y="5584.862305" z="368.132660"/>
+      <position x="1751.007568" y="5584.858398" z="368.076660"/>
+      <position x="1761.065674" y="5584.854004" z="368.017548"/>
+      <position x="1770.065674" y="5584.850098" z="367.968597"/>
+      <position x="1780.065674" y="5584.845703" z="367.918640"/>
+      <position x="1790.065674" y="5584.841309" z="367.872650"/>
+      <position x="1800.065674" y="5584.836914" z="367.828613"/>
+      <position x="1810.065674" y="5584.833008" z="367.790405"/>
+      <position x="1820.065674" y="5584.828613" z="367.758392"/>
+      <position x="1830.065674" y="5584.824219" z="367.732574"/>
+      <position x="1840.065674" y="5584.819824" z="367.712036"/>
+      <position x="1850.065674" y="5584.815430" z="367.692200"/>
+      <position x="1860.065674" y="5584.811035" z="367.675323"/>
+      <position x="1870.065674" y="5584.806641" z="367.673218"/>
+      <position x="1880.065674" y="5584.802734" z="367.687256"/>
+      <position x="1890.065674" y="5584.798340" z="367.715179"/>
+      <position x="1900.065674" y="5584.793945" z="367.744934"/>
+      <position x="1910.065674" y="5584.789551" z="367.780823"/>
+      <position x="1920.065674" y="5584.785156" z="367.827972"/>
+      <position x="1930.065674" y="5584.780762" z="367.886414"/>
+      <position x="1940.065674" y="5584.776367" z="367.956177"/>
+      <position x="1950.065674" y="5584.771973" z="368.034821"/>
+      <position x="1959.501953" y="5584.768066" z="368.113892"/>
+      <position x="1969.501953" y="5584.764160" z="368.204315"/>
+      <position x="1978.502075" y="5584.759766" z="368.291565"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="1789.9" y="5584.8" z="367.9" yaw="-0.0"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="10"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="8" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="36.400001525878906" precipitation="42.29999923706055" precipitation_deposits="54.099998474121094" wetness="0.0" wind_intensity="42.29999923706055" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="3282.274902" y="4339.314453" z="364.850555"/>
+      <position x="3283.880859" y="4329.444336" z="364.801483"/>
+      <position x="3287.392578" y="4322.296875" z="364.778595"/>
+      <position x="3295.324951" y="4321.362793" z="364.882263"/>
+      <position x="3305.196533" y="4322.960449" z="365.011749"/>
+      <position x="3315.068359" y="4324.557617" z="365.138580"/>
+      <position x="3324.939941" y="4326.154785" z="365.264099"/>
+      <position x="3334.811523" y="4327.752441" z="365.389618"/>
+      <position x="3344.683105" y="4329.349609" z="365.516510"/>
+      <position x="3354.554688" y="4330.947266" z="365.645874"/>
+      <position x="3364.426270" y="4332.544434" z="365.777313"/>
+      <position x="3374.297852" y="4334.141602" z="365.908997"/>
+      <position x="3384.169434" y="4335.739258" z="366.046570"/>
+      <position x="3394.041016" y="4337.336426" z="366.195099"/>
+      <position x="3403.912598" y="4338.934082" z="366.354584"/>
+      <position x="3413.784180" y="4340.531250" z="366.524994"/>
+      <position x="3423.655762" y="4342.128418" z="366.704865"/>
+      <position x="3433.527344" y="4343.726074" z="366.880981"/>
+      <position x="3443.398926" y="4345.323242" z="367.047302"/>
+      <position x="3453.270508" y="4346.920410" z="367.203857"/>
+      <position x="3463.142090" y="4348.518066" z="367.351318"/>
+      <position x="3473.013916" y="4350.115234" z="367.486450"/>
+      <position x="3482.885498" y="4351.712891" z="367.601410"/>
+      <position x="3492.757080" y="4353.310059" z="367.696167"/>
+      <position x="3502.218018" y="4354.958496" z="367.770233"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="3314.8" y="4324.5" z="365.1" yaw="9.2"/>
+            <distance value="50"/>
+            <speed value="40"/>
+            <bicycle_drive_distance value="60"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="9" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="12.5" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="37.5" fog_density="7.75" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="3459.327881" y="4714.407715" z="368.045776"/>
+      <position x="3460.980957" y="4704.825684" z="368.057465"/>
+      <position x="3467.139648" y="4699.993164" z="368.077728"/>
+      <position x="3475.850830" y="4700.806152" z="368.083954"/>
+      <position x="3485.720947" y="4702.412598" z="368.086304"/>
+      <position x="3495.591064" y="4704.019531" z="368.087891"/>
+      <position x="3505.461182" y="4705.625977" z="368.089447"/>
+      <position x="3515.331299" y="4707.232422" z="368.089569"/>
+      <position x="3525.201416" y="4708.839355" z="368.083435"/>
+      <position x="3535.071289" y="4710.445801" z="368.070618"/>
+      <position x="3544.941406" y="4712.052246" z="368.054749"/>
+      <position x="3554.811523" y="4713.659180" z="368.038727"/>
+      <position x="3564.681641" y="4715.265625" z="368.022064"/>
+      <position x="3574.551758" y="4716.872070" z="368.004669"/>
+      <position x="3584.421875" y="4718.479004" z="367.986572"/>
+      <position x="3594.291992" y="4720.085449" z="367.967773"/>
+      <position x="3604.162109" y="4721.691895" z="367.948425"/>
+      <position x="3614.032227" y="4723.298828" z="367.929565"/>
+      <position x="3623.902344" y="4724.905273" z="367.912811"/>
+      <position x="3633.772461" y="4726.511719" z="367.898285"/>
+      <position x="3643.642578" y="4728.118652" z="367.884705"/>
+      <position x="3653.512451" y="4729.725098" z="367.871094"/>
+      <position x="3663.382568" y="4731.331543" z="367.859375"/>
+      <position x="3673.252686" y="4732.938477" z="367.851013"/>
+      <position x="3682.164062" y="4734.389160" z="367.846130"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="3495.8" y="4704.0" z="368.1" yaw="9.2"/>
+            <distance value="80"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="10" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="75.0" precipitation="15.0" precipitation_deposits="52.5" wetness="15.0" wind_intensity="22.5" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="979.037842" y="3257.655273" z="367.902771"/>
+      <position x="978.724426" y="3267.615234" z="368.130005"/>
+      <position x="975.262695" y="3281.250977" z="368.442627"/>
+      <position x="973.874146" y="3291.071045" z="368.652618"/>
+      <position x="972.844543" y="3300.912354" z="368.847839"/>
+      <position x="971.603943" y="3310.729492" z="369.028259"/>
+      <position x="970.152954" y="3320.517822" z="369.194000"/>
+      <position x="968.565918" y="3330.382812" z="369.353912"/>
+      <position x="966.976990" y="3340.255859" z="369.505310"/>
+      <position x="965.388123" y="3350.128906" z="369.644775"/>
+      <position x="963.799194" y="3360.001709" z="369.772278"/>
+      <position x="962.210266" y="3369.874756" z="369.889404"/>
+      <position x="960.621399" y="3379.747803" z="370.003754"/>
+      <position x="959.032471" y="3389.620605" z="370.107574"/>
+      <position x="957.443604" y="3399.493652" z="370.199005"/>
+      <position x="955.854675" y="3409.366699" z="370.278046"/>
+      <position x="954.265747" y="3419.239502" z="370.346771"/>
+      <position x="952.676880" y="3429.112549" z="370.413818"/>
+      <position x="951.087952" y="3438.985596" z="370.475281"/>
+      <position x="949.499084" y="3448.858398" z="370.530060"/>
+      <position x="947.910156" y="3458.731445" z="370.578094"/>
+      <position x="946.321228" y="3468.604492" z="370.620361"/>
+      <position x="944.732361" y="3478.477295" z="370.661865"/>
+      <position x="943.143433" y="3488.350342" z="370.700989"/>
+      <position x="941.554565" y="3498.223389" z="370.735748"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="971.6" y="3311.1" z="369.0" yaw="97.9"/>
+            <distance value="90"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="60"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="11" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="77.25" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="38.252876" y="4312.276367" z="372.216492"/>
+      <position x="37.343922" y="4302.423828" z="372.217682"/>
+      <position x="29.603680" y="4294.601562" z="372.253418"/>
+      <position x="15.521510" y="4291.024902" z="372.317963"/>
+      <position x="5.521678" y="4291.083984" z="372.364136"/>
+      <position x="-4.478138" y="4291.143066" z="372.409119"/>
+      <position x="-14.477971" y="4291.202148" z="372.452881"/>
+      <position x="-24.477787" y="4291.261230" z="372.495453"/>
+      <position x="-34.477619" y="4291.320312" z="372.537170"/>
+      <position x="-44.477444" y="4291.379395" z="372.578888"/>
+      <position x="-54.477268" y="4291.438477" z="372.620422"/>
+      <position x="-64.477097" y="4291.497559" z="372.661713"/>
+      <position x="-74.476921" y="4291.556641" z="372.702942"/>
+      <position x="-84.476746" y="4291.615723" z="372.744141"/>
+      <position x="-94.476570" y="4291.674805" z="372.784973"/>
+      <position x="-104.476402" y="4291.733887" z="372.825287"/>
+      <position x="-114.476219" y="4291.792969" z="372.865112"/>
+      <position x="-124.476051" y="4291.852051" z="372.904480"/>
+      <position x="-134.475861" y="4291.911621" z="372.943726"/>
+      <position x="-144.475693" y="4291.970703" z="372.981934"/>
+      <position x="-154.475510" y="4292.029785" z="373.018463"/>
+      <position x="-164.475342" y="4292.088867" z="373.053406"/>
+      <position x="-173.825043" y="4292.144043" z="373.085052"/>
+      <position x="-183.824875" y="4292.203125" z="373.118866"/>
+      <position x="-193.324951" y="4292.259277" z="373.151611"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-4.9" y="4291.1" z="372.4" yaw="179.7"/>
+            <distance value="80"/>
+            <speed value="50"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="12" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="9.5" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="39.29999923706055" fog_density="6.369999885559082" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="2396.625244" y="4735.985352" z="365.480377"/>
+      <position x="2395.059814" y="4744.813965" z="365.572479"/>
+      <position x="2388.334473" y="4748.999512" z="365.620544"/>
+      <position x="2379.534424" y="4747.916992" z="365.543976"/>
+      <position x="2369.664062" y="4746.312500" z="365.466217"/>
+      <position x="2359.793457" y="4744.708496" z="365.394745"/>
+      <position x="2349.923096" y="4743.104004" z="365.329620"/>
+      <position x="2340.052490" y="4741.500000" z="365.270416"/>
+      <position x="2330.182129" y="4739.895508" z="365.212555"/>
+      <position x="2320.311523" y="4738.291504" z="365.150360"/>
+      <position x="2310.441162" y="4736.687012" z="365.075409"/>
+      <position x="2300.570557" y="4735.083008" z="364.987518"/>
+      <position x="2290.700195" y="4733.478516" z="364.886627"/>
+      <position x="2280.829590" y="4731.874023" z="364.776337"/>
+      <position x="2270.959229" y="4730.270020" z="364.662567"/>
+      <position x="2261.088867" y="4728.665527" z="364.540100"/>
+      <position x="2251.218262" y="4727.061523" z="364.408844"/>
+      <position x="2241.347900" y="4725.457031" z="364.269318"/>
+      <position x="2231.477295" y="4723.853027" z="364.127777"/>
+      <position x="2221.606934" y="4722.248535" z="363.986023"/>
+      <position x="2213.613525" y="4719.723633" z="363.838684"/>
+      <position x="2210.138916" y="4713.115234" z="363.688812"/>
+      <position x="2211.798340" y="4703.253906" z="363.611816"/>
+      <position x="2213.457764" y="4693.392578" z="363.533875"/>
+      <position x="2215.117432" y="4683.531250" z="363.450684"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="2360.0" y="4744.7" z="365.4" yaw="189.2"/>
+            <distance value="70"/>
+            <speed value="50"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="13" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="51.75" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-830.036682" y="4286.304688" z="366.860046"/>
+      <position x="-830.019043" y="4296.132812" z="367.084625"/>
+      <position x="-830.001099" y="4306.132812" z="367.305908"/>
+      <position x="-829.984070" y="4315.634766" z="367.509399"/>
+      <position x="-829.966125" y="4325.634766" z="367.718414"/>
+      <position x="-829.948242" y="4335.634766" z="367.922760"/>
+      <position x="-829.930298" y="4345.634766" z="368.117859"/>
+      <position x="-829.912354" y="4355.634766" z="368.303711"/>
+      <position x="-829.894470" y="4365.634766" z="368.480927"/>
+      <position x="-829.876526" y="4375.634766" z="368.655975"/>
+      <position x="-829.858582" y="4385.634766" z="368.823700"/>
+      <position x="-829.840698" y="4395.634766" z="368.980621"/>
+      <position x="-829.822754" y="4405.634766" z="369.126709"/>
+      <position x="-829.804871" y="4415.634766" z="369.262482"/>
+      <position x="-829.786926" y="4425.634766" z="369.394379"/>
+      <position x="-829.768982" y="4435.634766" z="369.513702"/>
+      <position x="-829.751099" y="4445.634766" z="369.617554"/>
+      <position x="-829.733154" y="4455.634766" z="369.705933"/>
+      <position x="-829.715210" y="4465.634277" z="369.780304"/>
+      <position x="-829.697327" y="4475.634277" z="369.851959"/>
+      <position x="-829.679382" y="4485.634277" z="369.908752"/>
+      <position x="-829.662048" y="4495.314453" z="369.942474"/>
+      <position x="-829.644165" y="4505.314453" z="369.964233"/>
+      <position x="-829.626221" y="4515.314453" z="369.886139"/>
+      <position x="-833.453430" y="4522.694824" z="369.686462"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-829.9" y="4335.6" z="367.9" yaw="89.9"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="14" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="88.9000015258789" precipitation="85.19999694824219" precipitation_deposits="78.9000015258789" wetness="0.0" wind_intensity="85.19999694824219" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="22.90999984741211" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="803.007874" y="5575.519043" z="370.832825"/>
+      <position x="793.006775" y="5575.525879" z="370.828735"/>
+      <position x="783.004700" y="5575.543945" z="370.810211"/>
+      <position x="773.863892" y="5575.565918" z="370.788177"/>
+      <position x="763.863892" y="5575.589844" z="370.764069"/>
+      <position x="753.863892" y="5575.613770" z="370.738098"/>
+      <position x="743.863953" y="5575.638184" z="370.701935"/>
+      <position x="733.864014" y="5575.662109" z="370.654602"/>
+      <position x="723.864014" y="5575.686035" z="370.596130"/>
+      <position x="713.864014" y="5575.709961" z="370.529144"/>
+      <position x="703.864075" y="5575.733887" z="370.461578"/>
+      <position x="693.864136" y="5575.758301" z="370.394012"/>
+      <position x="683.864136" y="5575.782227" z="370.326447"/>
+      <position x="673.864136" y="5575.806152" z="370.258881"/>
+      <position x="663.864197" y="5575.830078" z="370.191284"/>
+      <position x="653.864197" y="5575.854004" z="370.120422"/>
+      <position x="643.864258" y="5575.878418" z="370.044006"/>
+      <position x="633.864258" y="5575.902344" z="369.962036"/>
+      <position x="623.864319" y="5575.926270" z="369.874512"/>
+      <position x="613.864319" y="5575.950195" z="369.783295"/>
+      <position x="600.872192" y="5579.231445" z="369.662842"/>
+      <position x="590.872192" y="5579.255371" z="369.567474"/>
+      <position x="580.872253" y="5579.279785" z="369.469788"/>
+      <position x="570.872253" y="5579.303711" z="369.370148"/>
+      <position x="560.872314" y="5579.327637" z="369.270325"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="753.9" y="5575.6" z="370.7" yaw="179.9"/>
+            <distance value="50"/>
+            <bicycle_drive_distance value="80"/>
+            <bicycle_speed value="8"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="15" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="88.9000015258789" precipitation="85.19999694824219" precipitation_deposits="78.9000015258789" wetness="0.0" wind_intensity="85.19999694824219" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="22.90999984741211" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-817.934814" y="5600.605469" z="375.531982"/>
+      <position x="-817.952515" y="5590.605469" z="375.585236"/>
+      <position x="-817.970215" y="5580.605469" z="375.636108"/>
+      <position x="-817.987244" y="5571.025391" z="375.683136"/>
+      <position x="-818.004883" y="5561.025391" z="375.732086"/>
+      <position x="-818.022583" y="5551.025391" z="375.778290"/>
+      <position x="-818.040283" y="5541.025391" z="375.819122"/>
+      <position x="-818.057983" y="5531.025391" z="375.854553"/>
+      <position x="-818.075684" y="5521.025391" z="375.885742"/>
+      <position x="-818.093384" y="5511.025391" z="375.916412"/>
+      <position x="-818.111084" y="5501.025391" z="375.945374"/>
+      <position x="-818.128784" y="5491.025391" z="375.972198"/>
+      <position x="-818.146484" y="5481.025391" z="375.996857"/>
+      <position x="-818.164185" y="5471.025391" z="376.019440"/>
+      <position x="-818.181885" y="5461.025391" z="376.041443"/>
+      <position x="-818.199585" y="5451.025391" z="376.063416"/>
+      <position x="-818.217285" y="5441.025391" z="376.085388"/>
+      <position x="-818.234985" y="5431.025391" z="376.107300"/>
+      <position x="-818.252808" y="5421.025879" z="376.129211"/>
+      <position x="-818.270752" y="5411.025879" z="376.151001"/>
+      <position x="-818.288696" y="5401.025879" z="376.172150"/>
+      <position x="-818.306580" y="5391.025879" z="376.192627"/>
+      <position x="-818.324524" y="5381.025879" z="376.212402"/>
+      <position x="-818.342468" y="5371.025879" z="376.231506"/>
+      <position x="-818.360352" y="5361.025879" z="376.250183"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-818.0" y="5550.8" z="375.8" yaw="269.9"/>
+            <distance value="80"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="16" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="88.9000015258789" precipitation="85.19999694824219" precipitation_deposits="78.9000015258789" wetness="0.0" wind_intensity="85.19999694824219" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="22.90999984741211" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-818.421326" y="5327.025879" z="376.303772"/>
+      <position x="-818.439209" y="5317.025879" z="376.316437"/>
+      <position x="-818.456238" y="5307.524414" z="376.327789"/>
+      <position x="-818.474182" y="5297.524414" z="376.336670"/>
+      <position x="-818.492126" y="5287.524414" z="376.342255"/>
+      <position x="-818.510010" y="5277.524414" z="376.345123"/>
+      <position x="-818.527954" y="5267.524414" z="376.347748"/>
+      <position x="-818.545898" y="5257.524414" z="376.350372"/>
+      <position x="-818.563782" y="5247.524414" z="376.352966"/>
+      <position x="-818.581726" y="5237.524414" z="376.352783"/>
+      <position x="-818.599670" y="5227.524414" z="376.348724"/>
+      <position x="-818.617554" y="5217.524414" z="376.344086"/>
+      <position x="-818.635498" y="5207.524414" z="376.339447"/>
+      <position x="-818.653442" y="5197.524414" z="376.334747"/>
+      <position x="-818.671326" y="5187.524414" z="376.327545"/>
+      <position x="-818.689270" y="5177.524414" z="376.316681"/>
+      <position x="-818.707153" y="5167.524414" z="376.304077"/>
+      <position x="-818.725098" y="5157.524414" z="376.291443"/>
+      <position x="-818.743042" y="5147.524414" z="376.277588"/>
+      <position x="-818.760925" y="5137.524414" z="376.259796"/>
+      <position x="-818.778870" y="5127.524414" z="376.238068"/>
+      <position x="-818.796814" y="5117.524414" z="376.213165"/>
+      <position x="-818.814697" y="5107.524414" z="376.187744"/>
+      <position x="-818.832642" y="5097.524414" z="376.156372"/>
+      <position x="-818.850586" y="5087.524414" z="376.116913"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-818.5" y="5277.5" z="376.3" yaw="269.9"/>
+            <distance value="80"/>
+            <bicycle_drive_distance value="150"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="17" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="71.80000305175781" precipitation="78.80000305175781" precipitation_deposits="74.0999984741211" wetness="0.0" wind_intensity="78.80000305175781" sun_azimuth_angle="-1.0" sun_altitude_angle="23.850000381469727" fog_density="29.790000915527344" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-1678.933960" y="4071.834961" z="366.984924"/>
+      <position x="-1678.984131" y="4080.995850" z="367.165070"/>
+      <position x="-1682.180786" y="4095.008301" z="367.441986"/>
+      <position x="-1682.142700" y="4105.008301" z="367.639801"/>
+      <position x="-1682.104614" y="4115.007812" z="367.837677"/>
+      <position x="-1682.066528" y="4125.007812" z="368.036072"/>
+      <position x="-1682.028320" y="4135.007812" z="368.234467"/>
+      <position x="-1681.990234" y="4145.007812" z="368.432861"/>
+      <position x="-1681.952148" y="4155.007812" z="368.631073"/>
+      <position x="-1681.914062" y="4165.007812" z="368.825714"/>
+      <position x="-1681.875977" y="4175.007812" z="369.015869"/>
+      <position x="-1681.837891" y="4185.007324" z="369.204926"/>
+      <position x="-1681.799805" y="4195.007324" z="369.393982"/>
+      <position x="-1681.761597" y="4205.007324" z="369.583954"/>
+      <position x="-1681.723511" y="4215.007324" z="369.775574"/>
+      <position x="-1681.685425" y="4225.007324" z="369.968842"/>
+      <position x="-1681.647339" y="4235.007324" z="370.163269"/>
+      <position x="-1681.609253" y="4245.007324" z="370.356873"/>
+      <position x="-1681.571167" y="4255.006836" z="370.545715"/>
+      <position x="-1681.533081" y="4265.006836" z="370.729218"/>
+      <position x="-1681.494873" y="4275.006836" z="370.907440"/>
+      <position x="-1681.456787" y="4285.006836" z="371.081726"/>
+      <position x="-1681.418701" y="4295.006836" z="371.251526"/>
+      <position x="-1681.380615" y="4305.006836" z="371.412781"/>
+      <position x="-1681.342529" y="4315.006836" z="371.565491"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-1682.1" y="4125.4" z="368.0" yaw="89.8"/>
+            <distance value="70"/>
+            <bicycle_drive_distance value="200"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="18" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="6.679999828338623" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="471.173553" y="4288.332031" z="370.616028"/>
+      <position x="462.173706" y="4288.384766" z="370.628540"/>
+      <position x="452.503113" y="4288.441895" z="370.641357"/>
+      <position x="442.503296" y="4288.500977" z="370.654938"/>
+      <position x="432.503479" y="4288.560059" z="370.669281"/>
+      <position x="422.503632" y="4288.619629" z="370.684418"/>
+      <position x="412.503784" y="4288.678711" z="370.700317"/>
+      <position x="402.503967" y="4288.737793" z="370.716614"/>
+      <position x="392.504150" y="4288.796875" z="370.733734"/>
+      <position x="382.504333" y="4288.855957" z="370.754730"/>
+      <position x="372.504517" y="4288.915039" z="370.779907"/>
+      <position x="362.504669" y="4288.974121" z="370.809174"/>
+      <position x="352.504852" y="4289.033203" z="370.839722"/>
+      <position x="342.505035" y="4289.092285" z="370.871399"/>
+      <position x="332.505188" y="4289.151367" z="370.904449"/>
+      <position x="322.505371" y="4289.210449" z="370.938843"/>
+      <position x="312.505554" y="4289.269531" z="370.974579"/>
+      <position x="302.505737" y="4289.328613" z="371.010864"/>
+      <position x="292.505890" y="4289.387695" z="371.047699"/>
+      <position x="282.506073" y="4289.446777" z="371.085419"/>
+      <position x="272.506256" y="4289.505859" z="371.124023"/>
+      <position x="262.506439" y="4289.564941" z="371.163239"/>
+      <position x="252.707367" y="4289.623047" z="371.201691"/>
+      <position x="242.707535" y="4289.682129" z="371.241669"/>
+      <position x="233.197708" y="4289.738281" z="371.280762"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="422.9" y="4288.6" z="370.7" yaw="179.7"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="19" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="6.679999828338623" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="271.506256" y="4289.511719" z="371.127930"/>
+      <position x="260.707214" y="4289.575684" z="371.170288"/>
+      <position x="251.707382" y="4289.628906" z="371.205627"/>
+      <position x="241.707565" y="4289.687988" z="371.245728"/>
+      <position x="232.197723" y="4289.744629" z="371.284912"/>
+      <position x="222.197891" y="4289.803711" z="371.327240"/>
+      <position x="212.198074" y="4289.862793" z="371.370056"/>
+      <position x="202.198242" y="4289.921875" z="371.412842"/>
+      <position x="192.198425" y="4289.980957" z="371.455414"/>
+      <position x="182.198593" y="4290.040039" z="371.497467"/>
+      <position x="172.198776" y="4290.099121" z="371.539124"/>
+      <position x="162.198944" y="4290.158203" z="371.580750"/>
+      <position x="152.199127" y="4290.217285" z="371.623077"/>
+      <position x="142.199295" y="4290.276367" z="371.668182"/>
+      <position x="132.199478" y="4290.335449" z="371.716309"/>
+      <position x="122.199638" y="4290.394531" z="371.767426"/>
+      <position x="112.199821" y="4290.453613" z="371.819946"/>
+      <position x="102.199989" y="4290.512695" z="371.872498"/>
+      <position x="92.200165" y="4290.571777" z="371.925446"/>
+      <position x="82.200340" y="4290.630859" z="371.978851"/>
+      <position x="72.200516" y="4290.689941" z="372.032593"/>
+      <position x="62.200695" y="4290.749023" z="372.086273"/>
+      <position x="52.200867" y="4290.808105" z="372.138763"/>
+      <position x="43.021877" y="4290.862305" z="372.185486"/>
+      <position x="33.022053" y="4290.921387" z="372.234833"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="222.1" y="4289.8" z="371.3" yaw="179.7"/>
+            <distance value="60"/>
+            <speed value="40"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="20" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="6.679999828338623" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-1667.953125" y="5088.047852" z="377.077698"/>
+      <position x="-1667.915649" y="5097.072754" z="377.069702"/>
+      <position x="-1671.109619" y="5110.588379" z="377.057739"/>
+      <position x="-1671.068115" y="5120.588379" z="377.050659"/>
+      <position x="-1671.026611" y="5130.588379" z="377.047455"/>
+      <position x="-1670.985107" y="5140.587891" z="377.045074"/>
+      <position x="-1670.943604" y="5150.587891" z="377.042725"/>
+      <position x="-1670.902100" y="5160.587891" z="377.040344"/>
+      <position x="-1670.860596" y="5170.587891" z="377.038391"/>
+      <position x="-1670.819092" y="5180.587891" z="377.037048"/>
+      <position x="-1670.777588" y="5190.587402" z="377.035706"/>
+      <position x="-1670.736084" y="5200.587402" z="377.034363"/>
+      <position x="-1670.694580" y="5210.587402" z="377.032990"/>
+      <position x="-1670.653076" y="5220.587402" z="377.031067"/>
+      <position x="-1670.611572" y="5230.587402" z="377.025696"/>
+      <position x="-1670.570068" y="5240.587402" z="377.018738"/>
+      <position x="-1670.528564" y="5250.586914" z="377.011810"/>
+      <position x="-1670.487061" y="5260.586914" z="377.005737"/>
+      <position x="-1670.445679" y="5270.586914" z="377.002045"/>
+      <position x="-1670.404175" y="5280.586914" z="376.999817"/>
+      <position x="-1670.362671" y="5290.586914" z="376.997620"/>
+      <position x="-1670.321167" y="5300.586914" z="376.995453"/>
+      <position x="-1670.279663" y="5310.586426" z="376.993256"/>
+      <position x="-1670.239136" y="5320.324707" z="376.991638"/>
+      <position x="-1670.199707" y="5329.826172" z="376.993561"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-1671.0" y="5140.9" z="377.0" yaw="89.8"/>
+            <distance value="60"/>
+            <speed value="30"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="10"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="21" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="89.5" precipitation="86.0" precipitation_deposits="79.5" wetness="0.0" wind_intensity="86.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="22.049999237060547" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="1741.896118" y="5584.862305" z="368.132660"/>
+      <position x="1751.007568" y="5584.858398" z="368.076660"/>
+      <position x="1761.065674" y="5584.854004" z="368.017548"/>
+      <position x="1770.065674" y="5584.850098" z="367.968597"/>
+      <position x="1780.065674" y="5584.845703" z="367.918640"/>
+      <position x="1790.065674" y="5584.841309" z="367.872650"/>
+      <position x="1800.065674" y="5584.836914" z="367.828613"/>
+      <position x="1810.065674" y="5584.833008" z="367.790405"/>
+      <position x="1820.065674" y="5584.828613" z="367.758392"/>
+      <position x="1830.065674" y="5584.824219" z="367.732574"/>
+      <position x="1840.065674" y="5584.819824" z="367.712036"/>
+      <position x="1850.065674" y="5584.815430" z="367.692200"/>
+      <position x="1860.065674" y="5584.811035" z="367.675323"/>
+      <position x="1870.065674" y="5584.806641" z="367.673218"/>
+      <position x="1880.065674" y="5584.802734" z="367.687256"/>
+      <position x="1890.065674" y="5584.798340" z="367.715179"/>
+      <position x="1900.065674" y="5584.793945" z="367.744934"/>
+      <position x="1910.065674" y="5584.789551" z="367.780823"/>
+      <position x="1920.065674" y="5584.785156" z="367.827972"/>
+      <position x="1930.065674" y="5584.780762" z="367.886414"/>
+      <position x="1940.065674" y="5584.776367" z="367.956177"/>
+      <position x="1950.065674" y="5584.771973" z="368.034821"/>
+      <position x="1959.501953" y="5584.768066" z="368.113892"/>
+      <position x="1969.501953" y="5584.764160" z="368.204315"/>
+      <position x="1978.502075" y="5584.759766" z="368.291565"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="1789.9" y="5584.8" z="367.9" yaw="-0.0"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="10"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="22" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="97.5999984741211" precipitation="61.599998474121094" precipitation_deposits="61.20000076293945" wetness="0.0" wind_intensity="61.599998474121094" sun_azimuth_angle="-1.0" sun_altitude_angle="43.20000076293945" fog_density="48.279998779296875" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="3282.274902" y="4339.314453" z="364.850555"/>
+      <position x="3283.880859" y="4329.444336" z="364.801483"/>
+      <position x="3287.392578" y="4322.296875" z="364.778595"/>
+      <position x="3295.324951" y="4321.362793" z="364.882263"/>
+      <position x="3305.196533" y="4322.960449" z="365.011749"/>
+      <position x="3315.068359" y="4324.557617" z="365.138580"/>
+      <position x="3324.939941" y="4326.154785" z="365.264099"/>
+      <position x="3334.811523" y="4327.752441" z="365.389618"/>
+      <position x="3344.683105" y="4329.349609" z="365.516510"/>
+      <position x="3354.554688" y="4330.947266" z="365.645874"/>
+      <position x="3364.426270" y="4332.544434" z="365.777313"/>
+      <position x="3374.297852" y="4334.141602" z="365.908997"/>
+      <position x="3384.169434" y="4335.739258" z="366.046570"/>
+      <position x="3394.041016" y="4337.336426" z="366.195099"/>
+      <position x="3403.912598" y="4338.934082" z="366.354584"/>
+      <position x="3413.784180" y="4340.531250" z="366.524994"/>
+      <position x="3423.655762" y="4342.128418" z="366.704865"/>
+      <position x="3433.527344" y="4343.726074" z="366.880981"/>
+      <position x="3443.398926" y="4345.323242" z="367.047302"/>
+      <position x="3453.270508" y="4346.920410" z="367.203857"/>
+      <position x="3463.142090" y="4348.518066" z="367.351318"/>
+      <position x="3473.013916" y="4350.115234" z="367.486450"/>
+      <position x="3482.885498" y="4351.712891" z="367.601410"/>
+      <position x="3492.757080" y="4353.310059" z="367.696167"/>
+      <position x="3502.218018" y="4354.958496" z="367.770233"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="3314.8" y="4324.5" z="365.1" yaw="9.2"/>
+            <distance value="50"/>
+            <speed value="40"/>
+            <bicycle_drive_distance value="60"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="23" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="5.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="3459.327881" y="4714.407715" z="368.045776"/>
+      <position x="3460.980957" y="4704.825684" z="368.057465"/>
+      <position x="3467.139648" y="4699.993164" z="368.077728"/>
+      <position x="3475.850830" y="4700.806152" z="368.083954"/>
+      <position x="3485.720947" y="4702.412598" z="368.086304"/>
+      <position x="3495.591064" y="4704.019531" z="368.087891"/>
+      <position x="3505.461182" y="4705.625977" z="368.089447"/>
+      <position x="3515.331299" y="4707.232422" z="368.089569"/>
+      <position x="3525.201416" y="4708.839355" z="368.083435"/>
+      <position x="3535.071289" y="4710.445801" z="368.070618"/>
+      <position x="3544.941406" y="4712.052246" z="368.054749"/>
+      <position x="3554.811523" y="4713.659180" z="368.038727"/>
+      <position x="3564.681641" y="4715.265625" z="368.022064"/>
+      <position x="3574.551758" y="4716.872070" z="368.004669"/>
+      <position x="3584.421875" y="4718.479004" z="367.986572"/>
+      <position x="3594.291992" y="4720.085449" z="367.967773"/>
+      <position x="3604.162109" y="4721.691895" z="367.948425"/>
+      <position x="3614.032227" y="4723.298828" z="367.929565"/>
+      <position x="3623.902344" y="4724.905273" z="367.912811"/>
+      <position x="3633.772461" y="4726.511719" z="367.898285"/>
+      <position x="3643.642578" y="4728.118652" z="367.884705"/>
+      <position x="3653.512451" y="4729.725098" z="367.871094"/>
+      <position x="3663.382568" y="4731.331543" z="367.859375"/>
+      <position x="3673.252686" y="4732.938477" z="367.851013"/>
+      <position x="3682.164062" y="4734.389160" z="367.846130"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="3495.8" y="4704.0" z="368.1" yaw="9.2"/>
+            <distance value="80"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="24" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="23.100000381469727" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="979.037842" y="3257.655273" z="367.902771"/>
+      <position x="978.724426" y="3267.615234" z="368.130005"/>
+      <position x="975.262695" y="3281.250977" z="368.442627"/>
+      <position x="973.874146" y="3291.071045" z="368.652618"/>
+      <position x="972.844543" y="3300.912354" z="368.847839"/>
+      <position x="971.603943" y="3310.729492" z="369.028259"/>
+      <position x="970.152954" y="3320.517822" z="369.194000"/>
+      <position x="968.565918" y="3330.382812" z="369.353912"/>
+      <position x="966.976990" y="3340.255859" z="369.505310"/>
+      <position x="965.388123" y="3350.128906" z="369.644775"/>
+      <position x="963.799194" y="3360.001709" z="369.772278"/>
+      <position x="962.210266" y="3369.874756" z="369.889404"/>
+      <position x="960.621399" y="3379.747803" z="370.003754"/>
+      <position x="959.032471" y="3389.620605" z="370.107574"/>
+      <position x="957.443604" y="3399.493652" z="370.199005"/>
+      <position x="955.854675" y="3409.366699" z="370.278046"/>
+      <position x="954.265747" y="3419.239502" z="370.346771"/>
+      <position x="952.676880" y="3429.112549" z="370.413818"/>
+      <position x="951.087952" y="3438.985596" z="370.475281"/>
+      <position x="949.499084" y="3448.858398" z="370.530060"/>
+      <position x="947.910156" y="3458.731445" z="370.578094"/>
+      <position x="946.321228" y="3468.604492" z="370.620361"/>
+      <position x="944.732361" y="3478.477295" z="370.661865"/>
+      <position x="943.143433" y="3488.350342" z="370.700989"/>
+      <position x="941.554565" y="3498.223389" z="370.735748"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="971.6" y="3311.1" z="369.0" yaw="97.9"/>
+            <distance value="90"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="60"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="25" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="90.0999984741211" precipitation="86.80000305175781" precipitation_deposits="80.0999984741211" wetness="0.0" wind_intensity="86.80000305175781" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="21.190000534057617" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="38.252876" y="4312.276367" z="372.216492"/>
+      <position x="37.343922" y="4302.423828" z="372.217682"/>
+      <position x="29.603680" y="4294.601562" z="372.253418"/>
+      <position x="15.521510" y="4291.024902" z="372.317963"/>
+      <position x="5.521678" y="4291.083984" z="372.364136"/>
+      <position x="-4.478138" y="4291.143066" z="372.409119"/>
+      <position x="-14.477971" y="4291.202148" z="372.452881"/>
+      <position x="-24.477787" y="4291.261230" z="372.495453"/>
+      <position x="-34.477619" y="4291.320312" z="372.537170"/>
+      <position x="-44.477444" y="4291.379395" z="372.578888"/>
+      <position x="-54.477268" y="4291.438477" z="372.620422"/>
+      <position x="-64.477097" y="4291.497559" z="372.661713"/>
+      <position x="-74.476921" y="4291.556641" z="372.702942"/>
+      <position x="-84.476746" y="4291.615723" z="372.744141"/>
+      <position x="-94.476570" y="4291.674805" z="372.784973"/>
+      <position x="-104.476402" y="4291.733887" z="372.825287"/>
+      <position x="-114.476219" y="4291.792969" z="372.865112"/>
+      <position x="-124.476051" y="4291.852051" z="372.904480"/>
+      <position x="-134.475861" y="4291.911621" z="372.943726"/>
+      <position x="-144.475693" y="4291.970703" z="372.981934"/>
+      <position x="-154.475510" y="4292.029785" z="373.018463"/>
+      <position x="-164.475342" y="4292.088867" z="373.053406"/>
+      <position x="-173.825043" y="4292.144043" z="373.085052"/>
+      <position x="-183.824875" y="4292.203125" z="373.118866"/>
+      <position x="-193.324951" y="4292.259277" z="373.151611"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-4.9" y="4291.1" z="372.4" yaw="179.7"/>
+            <distance value="80"/>
+            <speed value="50"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="26" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="7.480000019073486" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="2396.625244" y="4735.985352" z="365.480377"/>
+      <position x="2395.059814" y="4744.813965" z="365.572479"/>
+      <position x="2388.334473" y="4748.999512" z="365.620544"/>
+      <position x="2379.534424" y="4747.916992" z="365.543976"/>
+      <position x="2369.664062" y="4746.312500" z="365.466217"/>
+      <position x="2359.793457" y="4744.708496" z="365.394745"/>
+      <position x="2349.923096" y="4743.104004" z="365.329620"/>
+      <position x="2340.052490" y="4741.500000" z="365.270416"/>
+      <position x="2330.182129" y="4739.895508" z="365.212555"/>
+      <position x="2320.311523" y="4738.291504" z="365.150360"/>
+      <position x="2310.441162" y="4736.687012" z="365.075409"/>
+      <position x="2300.570557" y="4735.083008" z="364.987518"/>
+      <position x="2290.700195" y="4733.478516" z="364.886627"/>
+      <position x="2280.829590" y="4731.874023" z="364.776337"/>
+      <position x="2270.959229" y="4730.270020" z="364.662567"/>
+      <position x="2261.088867" y="4728.665527" z="364.540100"/>
+      <position x="2251.218262" y="4727.061523" z="364.408844"/>
+      <position x="2241.347900" y="4725.457031" z="364.269318"/>
+      <position x="2231.477295" y="4723.853027" z="364.127777"/>
+      <position x="2221.606934" y="4722.248535" z="363.986023"/>
+      <position x="2213.613525" y="4719.723633" z="363.838684"/>
+      <position x="2210.138916" y="4713.115234" z="363.688812"/>
+      <position x="2211.798340" y="4703.253906" z="363.611816"/>
+      <position x="2213.457764" y="4693.392578" z="363.533875"/>
+      <position x="2215.117432" y="4683.531250" z="363.450684"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="2360.0" y="4744.7" z="365.4" yaw="189.2"/>
+            <distance value="70"/>
+            <speed value="50"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="27" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="84.69999694824219" precipitation="79.5999984741211" precipitation_deposits="74.69999694824219" wetness="0.0" wind_intensity="79.5999984741211" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="28.93000030517578" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-830.036682" y="4286.304688" z="366.860046"/>
+      <position x="-830.019043" y="4296.132812" z="367.084625"/>
+      <position x="-830.001099" y="4306.132812" z="367.305908"/>
+      <position x="-829.984070" y="4315.634766" z="367.509399"/>
+      <position x="-829.966125" y="4325.634766" z="367.718414"/>
+      <position x="-829.948242" y="4335.634766" z="367.922760"/>
+      <position x="-829.930298" y="4345.634766" z="368.117859"/>
+      <position x="-829.912354" y="4355.634766" z="368.303711"/>
+      <position x="-829.894470" y="4365.634766" z="368.480927"/>
+      <position x="-829.876526" y="4375.634766" z="368.655975"/>
+      <position x="-829.858582" y="4385.634766" z="368.823700"/>
+      <position x="-829.840698" y="4395.634766" z="368.980621"/>
+      <position x="-829.822754" y="4405.634766" z="369.126709"/>
+      <position x="-829.804871" y="4415.634766" z="369.262482"/>
+      <position x="-829.786926" y="4425.634766" z="369.394379"/>
+      <position x="-829.768982" y="4435.634766" z="369.513702"/>
+      <position x="-829.751099" y="4445.634766" z="369.617554"/>
+      <position x="-829.733154" y="4455.634766" z="369.705933"/>
+      <position x="-829.715210" y="4465.634277" z="369.780304"/>
+      <position x="-829.697327" y="4475.634277" z="369.851959"/>
+      <position x="-829.679382" y="4485.634277" z="369.908752"/>
+      <position x="-829.662048" y="4495.314453" z="369.942474"/>
+      <position x="-829.644165" y="4505.314453" z="369.964233"/>
+      <position x="-829.626221" y="4515.314453" z="369.886139"/>
+      <position x="-833.453430" y="4522.694824" z="369.686462"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-829.9" y="4335.6" z="367.9" yaw="89.9"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="28" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-87.9000015258789" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="803.007874" y="5575.519043" z="370.832825"/>
+      <position x="793.006775" y="5575.525879" z="370.828735"/>
+      <position x="783.004700" y="5575.543945" z="370.810211"/>
+      <position x="773.863892" y="5575.565918" z="370.788177"/>
+      <position x="763.863892" y="5575.589844" z="370.764069"/>
+      <position x="753.863892" y="5575.613770" z="370.738098"/>
+      <position x="743.863953" y="5575.638184" z="370.701935"/>
+      <position x="733.864014" y="5575.662109" z="370.654602"/>
+      <position x="723.864014" y="5575.686035" z="370.596130"/>
+      <position x="713.864014" y="5575.709961" z="370.529144"/>
+      <position x="703.864075" y="5575.733887" z="370.461578"/>
+      <position x="693.864136" y="5575.758301" z="370.394012"/>
+      <position x="683.864136" y="5575.782227" z="370.326447"/>
+      <position x="673.864136" y="5575.806152" z="370.258881"/>
+      <position x="663.864197" y="5575.830078" z="370.191284"/>
+      <position x="653.864197" y="5575.854004" z="370.120422"/>
+      <position x="643.864258" y="5575.878418" z="370.044006"/>
+      <position x="633.864258" y="5575.902344" z="369.962036"/>
+      <position x="623.864319" y="5575.926270" z="369.874512"/>
+      <position x="613.864319" y="5575.950195" z="369.783295"/>
+      <position x="600.872192" y="5579.231445" z="369.662842"/>
+      <position x="590.872192" y="5579.255371" z="369.567474"/>
+      <position x="580.872253" y="5579.279785" z="369.469788"/>
+      <position x="570.872253" y="5579.303711" z="369.370148"/>
+      <position x="560.872314" y="5579.327637" z="369.270325"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="753.9" y="5575.6" z="370.7" yaw="179.9"/>
+            <distance value="50"/>
+            <bicycle_drive_distance value="80"/>
+            <bicycle_speed value="8"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="29" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-87.9000015258789" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-817.934814" y="5600.605469" z="375.531982"/>
+      <position x="-817.952515" y="5590.605469" z="375.585236"/>
+      <position x="-817.970215" y="5580.605469" z="375.636108"/>
+      <position x="-817.987244" y="5571.025391" z="375.683136"/>
+      <position x="-818.004883" y="5561.025391" z="375.732086"/>
+      <position x="-818.022583" y="5551.025391" z="375.778290"/>
+      <position x="-818.040283" y="5541.025391" z="375.819122"/>
+      <position x="-818.057983" y="5531.025391" z="375.854553"/>
+      <position x="-818.075684" y="5521.025391" z="375.885742"/>
+      <position x="-818.093384" y="5511.025391" z="375.916412"/>
+      <position x="-818.111084" y="5501.025391" z="375.945374"/>
+      <position x="-818.128784" y="5491.025391" z="375.972198"/>
+      <position x="-818.146484" y="5481.025391" z="375.996857"/>
+      <position x="-818.164185" y="5471.025391" z="376.019440"/>
+      <position x="-818.181885" y="5461.025391" z="376.041443"/>
+      <position x="-818.199585" y="5451.025391" z="376.063416"/>
+      <position x="-818.217285" y="5441.025391" z="376.085388"/>
+      <position x="-818.234985" y="5431.025391" z="376.107300"/>
+      <position x="-818.252808" y="5421.025879" z="376.129211"/>
+      <position x="-818.270752" y="5411.025879" z="376.151001"/>
+      <position x="-818.288696" y="5401.025879" z="376.172150"/>
+      <position x="-818.306580" y="5391.025879" z="376.192627"/>
+      <position x="-818.324524" y="5381.025879" z="376.212402"/>
+      <position x="-818.342468" y="5371.025879" z="376.231506"/>
+      <position x="-818.360352" y="5361.025879" z="376.250183"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-818.0" y="5550.8" z="375.8" yaw="269.9"/>
+            <distance value="80"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="30" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-87.9000015258789" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-818.421326" y="5327.025879" z="376.303772"/>
+      <position x="-818.439209" y="5317.025879" z="376.316437"/>
+      <position x="-818.456238" y="5307.524414" z="376.327789"/>
+      <position x="-818.474182" y="5297.524414" z="376.336670"/>
+      <position x="-818.492126" y="5287.524414" z="376.342255"/>
+      <position x="-818.510010" y="5277.524414" z="376.345123"/>
+      <position x="-818.527954" y="5267.524414" z="376.347748"/>
+      <position x="-818.545898" y="5257.524414" z="376.350372"/>
+      <position x="-818.563782" y="5247.524414" z="376.352966"/>
+      <position x="-818.581726" y="5237.524414" z="376.352783"/>
+      <position x="-818.599670" y="5227.524414" z="376.348724"/>
+      <position x="-818.617554" y="5217.524414" z="376.344086"/>
+      <position x="-818.635498" y="5207.524414" z="376.339447"/>
+      <position x="-818.653442" y="5197.524414" z="376.334747"/>
+      <position x="-818.671326" y="5187.524414" z="376.327545"/>
+      <position x="-818.689270" y="5177.524414" z="376.316681"/>
+      <position x="-818.707153" y="5167.524414" z="376.304077"/>
+      <position x="-818.725098" y="5157.524414" z="376.291443"/>
+      <position x="-818.743042" y="5147.524414" z="376.277588"/>
+      <position x="-818.760925" y="5137.524414" z="376.259796"/>
+      <position x="-818.778870" y="5127.524414" z="376.238068"/>
+      <position x="-818.796814" y="5117.524414" z="376.213165"/>
+      <position x="-818.814697" y="5107.524414" z="376.187744"/>
+      <position x="-818.832642" y="5097.524414" z="376.156372"/>
+      <position x="-818.850586" y="5087.524414" z="376.116913"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-818.5" y="5277.5" z="376.3" yaw="269.9"/>
+            <distance value="80"/>
+            <bicycle_drive_distance value="150"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="31" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="76.0" precipitation="58.0" precipitation_deposits="66.0" wetness="76.0" wind_intensity="58.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-1678.933960" y="4071.834961" z="366.984924"/>
+      <position x="-1678.984131" y="4080.995850" z="367.165070"/>
+      <position x="-1682.180786" y="4095.008301" z="367.441986"/>
+      <position x="-1682.142700" y="4105.008301" z="367.639801"/>
+      <position x="-1682.104614" y="4115.007812" z="367.837677"/>
+      <position x="-1682.066528" y="4125.007812" z="368.036072"/>
+      <position x="-1682.028320" y="4135.007812" z="368.234467"/>
+      <position x="-1681.990234" y="4145.007812" z="368.432861"/>
+      <position x="-1681.952148" y="4155.007812" z="368.631073"/>
+      <position x="-1681.914062" y="4165.007812" z="368.825714"/>
+      <position x="-1681.875977" y="4175.007812" z="369.015869"/>
+      <position x="-1681.837891" y="4185.007324" z="369.204926"/>
+      <position x="-1681.799805" y="4195.007324" z="369.393982"/>
+      <position x="-1681.761597" y="4205.007324" z="369.583954"/>
+      <position x="-1681.723511" y="4215.007324" z="369.775574"/>
+      <position x="-1681.685425" y="4225.007324" z="369.968842"/>
+      <position x="-1681.647339" y="4235.007324" z="370.163269"/>
+      <position x="-1681.609253" y="4245.007324" z="370.356873"/>
+      <position x="-1681.571167" y="4255.006836" z="370.545715"/>
+      <position x="-1681.533081" y="4265.006836" z="370.729218"/>
+      <position x="-1681.494873" y="4275.006836" z="370.907440"/>
+      <position x="-1681.456787" y="4285.006836" z="371.081726"/>
+      <position x="-1681.418701" y="4295.006836" z="371.251526"/>
+      <position x="-1681.380615" y="4305.006836" z="371.412781"/>
+      <position x="-1681.342529" y="4315.006836" z="371.565491"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-1682.1" y="4125.4" z="368.0" yaw="89.8"/>
+            <distance value="70"/>
+            <bicycle_drive_distance value="200"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="32" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="84.19999694824219" precipitation="68.4000015258789" precipitation_deposits="66.30000305175781" wetness="84.19999694824219" wind_intensity="68.4000015258789" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="68.4000015258789" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="471.173553" y="4288.332031" z="370.616028"/>
+      <position x="462.173706" y="4288.384766" z="370.628540"/>
+      <position x="452.503113" y="4288.441895" z="370.641357"/>
+      <position x="442.503296" y="4288.500977" z="370.654938"/>
+      <position x="432.503479" y="4288.560059" z="370.669281"/>
+      <position x="422.503632" y="4288.619629" z="370.684418"/>
+      <position x="412.503784" y="4288.678711" z="370.700317"/>
+      <position x="402.503967" y="4288.737793" z="370.716614"/>
+      <position x="392.504150" y="4288.796875" z="370.733734"/>
+      <position x="382.504333" y="4288.855957" z="370.754730"/>
+      <position x="372.504517" y="4288.915039" z="370.779907"/>
+      <position x="362.504669" y="4288.974121" z="370.809174"/>
+      <position x="352.504852" y="4289.033203" z="370.839722"/>
+      <position x="342.505035" y="4289.092285" z="370.871399"/>
+      <position x="332.505188" y="4289.151367" z="370.904449"/>
+      <position x="322.505371" y="4289.210449" z="370.938843"/>
+      <position x="312.505554" y="4289.269531" z="370.974579"/>
+      <position x="302.505737" y="4289.328613" z="371.010864"/>
+      <position x="292.505890" y="4289.387695" z="371.047699"/>
+      <position x="282.506073" y="4289.446777" z="371.085419"/>
+      <position x="272.506256" y="4289.505859" z="371.124023"/>
+      <position x="262.506439" y="4289.564941" z="371.163239"/>
+      <position x="252.707367" y="4289.623047" z="371.201691"/>
+      <position x="242.707535" y="4289.682129" z="371.241669"/>
+      <position x="233.197708" y="4289.738281" z="371.280762"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="422.9" y="4288.6" z="370.7" yaw="179.7"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="33" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="84.19999694824219" precipitation="68.4000015258789" precipitation_deposits="66.30000305175781" wetness="84.19999694824219" wind_intensity="68.4000015258789" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="68.4000015258789" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="271.506256" y="4289.511719" z="371.127930"/>
+      <position x="260.707214" y="4289.575684" z="371.170288"/>
+      <position x="251.707382" y="4289.628906" z="371.205627"/>
+      <position x="241.707565" y="4289.687988" z="371.245728"/>
+      <position x="232.197723" y="4289.744629" z="371.284912"/>
+      <position x="222.197891" y="4289.803711" z="371.327240"/>
+      <position x="212.198074" y="4289.862793" z="371.370056"/>
+      <position x="202.198242" y="4289.921875" z="371.412842"/>
+      <position x="192.198425" y="4289.980957" z="371.455414"/>
+      <position x="182.198593" y="4290.040039" z="371.497467"/>
+      <position x="172.198776" y="4290.099121" z="371.539124"/>
+      <position x="162.198944" y="4290.158203" z="371.580750"/>
+      <position x="152.199127" y="4290.217285" z="371.623077"/>
+      <position x="142.199295" y="4290.276367" z="371.668182"/>
+      <position x="132.199478" y="4290.335449" z="371.716309"/>
+      <position x="122.199638" y="4290.394531" z="371.767426"/>
+      <position x="112.199821" y="4290.453613" z="371.819946"/>
+      <position x="102.199989" y="4290.512695" z="371.872498"/>
+      <position x="92.200165" y="4290.571777" z="371.925446"/>
+      <position x="82.200340" y="4290.630859" z="371.978851"/>
+      <position x="72.200516" y="4290.689941" z="372.032593"/>
+      <position x="62.200695" y="4290.749023" z="372.086273"/>
+      <position x="52.200867" y="4290.808105" z="372.138763"/>
+      <position x="43.021877" y="4290.862305" z="372.185486"/>
+      <position x="33.022053" y="4290.921387" z="372.234833"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="222.1" y="4289.8" z="371.3" yaw="179.7"/>
+            <distance value="60"/>
+            <speed value="40"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="15"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="34" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="84.19999694824219" precipitation="68.4000015258789" precipitation_deposits="66.30000305175781" wetness="84.19999694824219" wind_intensity="68.4000015258789" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="68.4000015258789" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-1667.953125" y="5088.047852" z="377.077698"/>
+      <position x="-1667.915649" y="5097.072754" z="377.069702"/>
+      <position x="-1671.109619" y="5110.588379" z="377.057739"/>
+      <position x="-1671.068115" y="5120.588379" z="377.050659"/>
+      <position x="-1671.026611" y="5130.588379" z="377.047455"/>
+      <position x="-1670.985107" y="5140.587891" z="377.045074"/>
+      <position x="-1670.943604" y="5150.587891" z="377.042725"/>
+      <position x="-1670.902100" y="5160.587891" z="377.040344"/>
+      <position x="-1670.860596" y="5170.587891" z="377.038391"/>
+      <position x="-1670.819092" y="5180.587891" z="377.037048"/>
+      <position x="-1670.777588" y="5190.587402" z="377.035706"/>
+      <position x="-1670.736084" y="5200.587402" z="377.034363"/>
+      <position x="-1670.694580" y="5210.587402" z="377.032990"/>
+      <position x="-1670.653076" y="5220.587402" z="377.031067"/>
+      <position x="-1670.611572" y="5230.587402" z="377.025696"/>
+      <position x="-1670.570068" y="5240.587402" z="377.018738"/>
+      <position x="-1670.528564" y="5250.586914" z="377.011810"/>
+      <position x="-1670.487061" y="5260.586914" z="377.005737"/>
+      <position x="-1670.445679" y="5270.586914" z="377.002045"/>
+      <position x="-1670.404175" y="5280.586914" z="376.999817"/>
+      <position x="-1670.362671" y="5290.586914" z="376.997620"/>
+      <position x="-1670.321167" y="5300.586914" z="376.995453"/>
+      <position x="-1670.279663" y="5310.586426" z="376.993256"/>
+      <position x="-1670.239136" y="5320.324707" z="376.991638"/>
+      <position x="-1670.199707" y="5329.826172" z="376.993561"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-1671.0" y="5140.9" z="377.0" yaw="89.8"/>
+            <distance value="60"/>
+            <speed value="30"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="10"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="35" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-27.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="1741.896118" y="5584.862305" z="368.132660"/>
+      <position x="1751.007568" y="5584.858398" z="368.076660"/>
+      <position x="1761.065674" y="5584.854004" z="368.017548"/>
+      <position x="1770.065674" y="5584.850098" z="367.968597"/>
+      <position x="1780.065674" y="5584.845703" z="367.918640"/>
+      <position x="1790.065674" y="5584.841309" z="367.872650"/>
+      <position x="1800.065674" y="5584.836914" z="367.828613"/>
+      <position x="1810.065674" y="5584.833008" z="367.790405"/>
+      <position x="1820.065674" y="5584.828613" z="367.758392"/>
+      <position x="1830.065674" y="5584.824219" z="367.732574"/>
+      <position x="1840.065674" y="5584.819824" z="367.712036"/>
+      <position x="1850.065674" y="5584.815430" z="367.692200"/>
+      <position x="1860.065674" y="5584.811035" z="367.675323"/>
+      <position x="1870.065674" y="5584.806641" z="367.673218"/>
+      <position x="1880.065674" y="5584.802734" z="367.687256"/>
+      <position x="1890.065674" y="5584.798340" z="367.715179"/>
+      <position x="1900.065674" y="5584.793945" z="367.744934"/>
+      <position x="1910.065674" y="5584.789551" z="367.780823"/>
+      <position x="1920.065674" y="5584.785156" z="367.827972"/>
+      <position x="1930.065674" y="5584.780762" z="367.886414"/>
+      <position x="1940.065674" y="5584.776367" z="367.956177"/>
+      <position x="1950.065674" y="5584.771973" z="368.034821"/>
+      <position x="1959.501953" y="5584.768066" z="368.113892"/>
+      <position x="1969.501953" y="5584.764160" z="368.204315"/>
+      <position x="1978.502075" y="5584.759766" z="368.291565"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="1789.9" y="5584.8" z="367.9" yaw="-0.0"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="10"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="36" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="99.19999694824219" precipitation="98.5999984741211" precipitation_deposits="89.19999694824219" wetness="99.19999694824219" wind_intensity="98.5999984741211" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="3282.274902" y="4339.314453" z="364.850555"/>
+      <position x="3283.880859" y="4329.444336" z="364.801483"/>
+      <position x="3287.392578" y="4322.296875" z="364.778595"/>
+      <position x="3295.324951" y="4321.362793" z="364.882263"/>
+      <position x="3305.196533" y="4322.960449" z="365.011749"/>
+      <position x="3315.068359" y="4324.557617" z="365.138580"/>
+      <position x="3324.939941" y="4326.154785" z="365.264099"/>
+      <position x="3334.811523" y="4327.752441" z="365.389618"/>
+      <position x="3344.683105" y="4329.349609" z="365.516510"/>
+      <position x="3354.554688" y="4330.947266" z="365.645874"/>
+      <position x="3364.426270" y="4332.544434" z="365.777313"/>
+      <position x="3374.297852" y="4334.141602" z="365.908997"/>
+      <position x="3384.169434" y="4335.739258" z="366.046570"/>
+      <position x="3394.041016" y="4337.336426" z="366.195099"/>
+      <position x="3403.912598" y="4338.934082" z="366.354584"/>
+      <position x="3413.784180" y="4340.531250" z="366.524994"/>
+      <position x="3423.655762" y="4342.128418" z="366.704865"/>
+      <position x="3433.527344" y="4343.726074" z="366.880981"/>
+      <position x="3443.398926" y="4345.323242" z="367.047302"/>
+      <position x="3453.270508" y="4346.920410" z="367.203857"/>
+      <position x="3463.142090" y="4348.518066" z="367.351318"/>
+      <position x="3473.013916" y="4350.115234" z="367.486450"/>
+      <position x="3482.885498" y="4351.712891" z="367.601410"/>
+      <position x="3492.757080" y="4353.310059" z="367.696167"/>
+      <position x="3502.218018" y="4354.958496" z="367.770233"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="3314.8" y="4324.5" z="365.1" yaw="9.2"/>
+            <distance value="50"/>
+            <speed value="40"/>
+            <bicycle_drive_distance value="60"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="37" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="92.4000015258789" precipitation="84.80000305175781" precipitation_deposits="78.5999984741211" wetness="92.4000015258789" wind_intensity="84.80000305175781" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="84.80000305175781" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="3459.327881" y="4714.407715" z="368.045776"/>
+      <position x="3460.980957" y="4704.825684" z="368.057465"/>
+      <position x="3467.139648" y="4699.993164" z="368.077728"/>
+      <position x="3475.850830" y="4700.806152" z="368.083954"/>
+      <position x="3485.720947" y="4702.412598" z="368.086304"/>
+      <position x="3495.591064" y="4704.019531" z="368.087891"/>
+      <position x="3505.461182" y="4705.625977" z="368.089447"/>
+      <position x="3515.331299" y="4707.232422" z="368.089569"/>
+      <position x="3525.201416" y="4708.839355" z="368.083435"/>
+      <position x="3535.071289" y="4710.445801" z="368.070618"/>
+      <position x="3544.941406" y="4712.052246" z="368.054749"/>
+      <position x="3554.811523" y="4713.659180" z="368.038727"/>
+      <position x="3564.681641" y="4715.265625" z="368.022064"/>
+      <position x="3574.551758" y="4716.872070" z="368.004669"/>
+      <position x="3584.421875" y="4718.479004" z="367.986572"/>
+      <position x="3594.291992" y="4720.085449" z="367.967773"/>
+      <position x="3604.162109" y="4721.691895" z="367.948425"/>
+      <position x="3614.032227" y="4723.298828" z="367.929565"/>
+      <position x="3623.902344" y="4724.905273" z="367.912811"/>
+      <position x="3633.772461" y="4726.511719" z="367.898285"/>
+      <position x="3643.642578" y="4728.118652" z="367.884705"/>
+      <position x="3653.512451" y="4729.725098" z="367.871094"/>
+      <position x="3663.382568" y="4731.331543" z="367.859375"/>
+      <position x="3673.252686" y="4732.938477" z="367.851013"/>
+      <position x="3682.164062" y="4734.389160" z="367.846130"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="3495.8" y="4704.0" z="368.1" yaw="9.2"/>
+            <distance value="80"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="38" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="20.0" precipitation="12.0" precipitation_deposits="12.0" wetness="16.0" wind_intensity="20.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="60.150001525878906" fog_falloff="0.82" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="979.037842" y="3257.655273" z="367.902771"/>
+      <position x="978.724426" y="3267.615234" z="368.130005"/>
+      <position x="975.262695" y="3281.250977" z="368.442627"/>
+      <position x="973.874146" y="3291.071045" z="368.652618"/>
+      <position x="972.844543" y="3300.912354" z="368.847839"/>
+      <position x="971.603943" y="3310.729492" z="369.028259"/>
+      <position x="970.152954" y="3320.517822" z="369.194000"/>
+      <position x="968.565918" y="3330.382812" z="369.353912"/>
+      <position x="966.976990" y="3340.255859" z="369.505310"/>
+      <position x="965.388123" y="3350.128906" z="369.644775"/>
+      <position x="963.799194" y="3360.001709" z="369.772278"/>
+      <position x="962.210266" y="3369.874756" z="369.889404"/>
+      <position x="960.621399" y="3379.747803" z="370.003754"/>
+      <position x="959.032471" y="3389.620605" z="370.107574"/>
+      <position x="957.443604" y="3399.493652" z="370.199005"/>
+      <position x="955.854675" y="3409.366699" z="370.278046"/>
+      <position x="954.265747" y="3419.239502" z="370.346771"/>
+      <position x="952.676880" y="3429.112549" z="370.413818"/>
+      <position x="951.087952" y="3438.985596" z="370.475281"/>
+      <position x="949.499084" y="3448.858398" z="370.530060"/>
+      <position x="947.910156" y="3458.731445" z="370.578094"/>
+      <position x="946.321228" y="3468.604492" z="370.620361"/>
+      <position x="944.732361" y="3478.477295" z="370.661865"/>
+      <position x="943.143433" y="3488.350342" z="370.700989"/>
+      <position x="941.554565" y="3498.223389" z="370.735748"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="971.6" y="3311.1" z="369.0" yaw="97.9"/>
+            <distance value="90"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="60"/>
+            <bicycle_speed value="12"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="39" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-71.0999984741211" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="38.252876" y="4312.276367" z="372.216492"/>
+      <position x="37.343922" y="4302.423828" z="372.217682"/>
+      <position x="29.603680" y="4294.601562" z="372.253418"/>
+      <position x="15.521510" y="4291.024902" z="372.317963"/>
+      <position x="5.521678" y="4291.083984" z="372.364136"/>
+      <position x="-4.478138" y="4291.143066" z="372.409119"/>
+      <position x="-14.477971" y="4291.202148" z="372.452881"/>
+      <position x="-24.477787" y="4291.261230" z="372.495453"/>
+      <position x="-34.477619" y="4291.320312" z="372.537170"/>
+      <position x="-44.477444" y="4291.379395" z="372.578888"/>
+      <position x="-54.477268" y="4291.438477" z="372.620422"/>
+      <position x="-64.477097" y="4291.497559" z="372.661713"/>
+      <position x="-74.476921" y="4291.556641" z="372.702942"/>
+      <position x="-84.476746" y="4291.615723" z="372.744141"/>
+      <position x="-94.476570" y="4291.674805" z="372.784973"/>
+      <position x="-104.476402" y="4291.733887" z="372.825287"/>
+      <position x="-114.476219" y="4291.792969" z="372.865112"/>
+      <position x="-124.476051" y="4291.852051" z="372.904480"/>
+      <position x="-134.475861" y="4291.911621" z="372.943726"/>
+      <position x="-144.475693" y="4291.970703" z="372.981934"/>
+      <position x="-154.475510" y="4292.029785" z="373.018463"/>
+      <position x="-164.475342" y="4292.088867" z="373.053406"/>
+      <position x="-173.825043" y="4292.144043" z="373.085052"/>
+      <position x="-183.824875" y="4292.203125" z="373.118866"/>
+      <position x="-193.324951" y="4292.259277" z="373.151611"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-4.9" y="4291.1" z="372.4" yaw="179.7"/>
+            <distance value="80"/>
+            <speed value="50"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="40" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="94.19999694824219" precipitation="88.4000015258789" precipitation_deposits="81.30000305175781" wetness="94.19999694824219" wind_intensity="88.4000015258789" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="88.4000015258789" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="2396.625244" y="4735.985352" z="365.480377"/>
+      <position x="2395.059814" y="4744.813965" z="365.572479"/>
+      <position x="2388.334473" y="4748.999512" z="365.620544"/>
+      <position x="2379.534424" y="4747.916992" z="365.543976"/>
+      <position x="2369.664062" y="4746.312500" z="365.466217"/>
+      <position x="2359.793457" y="4744.708496" z="365.394745"/>
+      <position x="2349.923096" y="4743.104004" z="365.329620"/>
+      <position x="2340.052490" y="4741.500000" z="365.270416"/>
+      <position x="2330.182129" y="4739.895508" z="365.212555"/>
+      <position x="2320.311523" y="4738.291504" z="365.150360"/>
+      <position x="2310.441162" y="4736.687012" z="365.075409"/>
+      <position x="2300.570557" y="4735.083008" z="364.987518"/>
+      <position x="2290.700195" y="4733.478516" z="364.886627"/>
+      <position x="2280.829590" y="4731.874023" z="364.776337"/>
+      <position x="2270.959229" y="4730.270020" z="364.662567"/>
+      <position x="2261.088867" y="4728.665527" z="364.540100"/>
+      <position x="2251.218262" y="4727.061523" z="364.408844"/>
+      <position x="2241.347900" y="4725.457031" z="364.269318"/>
+      <position x="2231.477295" y="4723.853027" z="364.127777"/>
+      <position x="2221.606934" y="4722.248535" z="363.986023"/>
+      <position x="2213.613525" y="4719.723633" z="363.838684"/>
+      <position x="2210.138916" y="4713.115234" z="363.688812"/>
+      <position x="2211.798340" y="4703.253906" z="363.611816"/>
+      <position x="2213.457764" y="4693.392578" z="363.533875"/>
+      <position x="2215.117432" y="4683.531250" z="363.450684"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="2360.0" y="4744.7" z="365.4" yaw="189.2"/>
+            <distance value="70"/>
+            <speed value="50"/>
+            <bicycle_drive_distance value="70"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+  <route id="41" town="Town12">
+    <weathers>
+      <weather route_percentage="0" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="1.350000023841858" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03"/>
+    </weathers>
+    <waypoints>
+      <position x="-830.036682" y="4286.304688" z="366.860046"/>
+      <position x="-830.019043" y="4296.132812" z="367.084625"/>
+      <position x="-830.001099" y="4306.132812" z="367.305908"/>
+      <position x="-829.984070" y="4315.634766" z="367.509399"/>
+      <position x="-829.966125" y="4325.634766" z="367.718414"/>
+      <position x="-829.948242" y="4335.634766" z="367.922760"/>
+      <position x="-829.930298" y="4345.634766" z="368.117859"/>
+      <position x="-829.912354" y="4355.634766" z="368.303711"/>
+      <position x="-829.894470" y="4365.634766" z="368.480927"/>
+      <position x="-829.876526" y="4375.634766" z="368.655975"/>
+      <position x="-829.858582" y="4385.634766" z="368.823700"/>
+      <position x="-829.840698" y="4395.634766" z="368.980621"/>
+      <position x="-829.822754" y="4405.634766" z="369.126709"/>
+      <position x="-829.804871" y="4415.634766" z="369.262482"/>
+      <position x="-829.786926" y="4425.634766" z="369.394379"/>
+      <position x="-829.768982" y="4435.634766" z="369.513702"/>
+      <position x="-829.751099" y="4445.634766" z="369.617554"/>
+      <position x="-829.733154" y="4455.634766" z="369.705933"/>
+      <position x="-829.715210" y="4465.634277" z="369.780304"/>
+      <position x="-829.697327" y="4475.634277" z="369.851959"/>
+      <position x="-829.679382" y="4485.634277" z="369.908752"/>
+      <position x="-829.662048" y="4495.314453" z="369.942474"/>
+      <position x="-829.644165" y="4505.314453" z="369.964233"/>
+      <position x="-829.626221" y="4515.314453" z="369.886139"/>
+      <position x="-833.453430" y="4522.694824" z="369.686462"/>
+    </waypoints>
+    <scenarios><scenario name="HazardAtSideLane_1" type="HazardAtSideLane">
+            <trigger_point x="-829.9" y="4335.6" z="367.9" yaw="89.9"/>
+            <distance value="70"/>
+            <speed value="60"/>
+            <bicycle_drive_distance value="100"/>
+            <bicycle_speed value="13"/>
+         </scenario>
+         </scenarios>
+  </route>
+</routes>

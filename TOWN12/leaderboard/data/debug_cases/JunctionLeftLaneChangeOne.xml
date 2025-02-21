@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="JunctionLeftLaneChangeOne_0" type="JunctionLeftLaneChangeOne">
+            <trigger_point x="-73.6339340209961" y="84.48242950439453" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-73.6339340209961" y="84.48242950439453" yaw="-179.93443298339844" z="0.0"/>
+         <position x="-75.6339340209961" y="84.48014831542969" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+</routes>

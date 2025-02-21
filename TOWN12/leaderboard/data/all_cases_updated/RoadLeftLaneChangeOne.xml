@@ -1,0 +1,1669 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="188.20999145507812" y="-193.89999389648438" yaw="-0.0" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="188.20999145507812" y="-193.89999389648438" yaw="-0.0" z="0.0"/>
+         <position x="190.20999145507812" y="-193.89999389648438" yaw="-0.0" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="1" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="210.0483856201172" y="175.25245666503906" yaw="141.6684112548828" z="2.111877202987671"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="210.0483856201172" y="175.25245666503906" yaw="141.6684112548828" z="2.111877202987671"/>
+         <position x="208.70343017578125" y="176.27781677246094" yaw="143.6897430419922" z="2.1528327465057373"/>
+      </waypoints>
+   </route>
+   <route id="2" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="248.9959259033203" y="-139.9318389892578" yaw="269.9703063964844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="248.9959259033203" y="-139.9318389892578" yaw="269.9703063964844" z="0.0"/>
+         <position x="248.97125244140625" y="-142.0485076904297" yaw="268.69512939453125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="3" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="145.13589477539062" y="207.16896057128906" yaw="359.8570251464844" z="2.306288957595825"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="145.13589477539062" y="207.16896057128906" yaw="359.8570251464844" z="2.306288957595825"/>
+         <position x="147.13587951660156" y="207.16397094726562" yaw="359.8570251464844" z="2.3507862091064453"/>
+      </waypoints>
+   </route>
+   <route id="4" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="23.136268615722656" y="207.47337341308594" yaw="359.8570251464844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="23.136268615722656" y="207.47337341308594" yaw="359.8570251464844" z="0.0"/>
+         <position x="25.136253356933594" y="207.4683837890625" yaw="359.8570251464844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="5" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-74.42613983154297" y="-22.4375057220459" yaw="269.84375" z="-0.17450490593910217"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-74.42613983154297" y="-22.4375057220459" yaw="269.84375" z="-0.17450490593910217"/>
+         <position x="-74.43159484863281" y="-24.437498092651367" yaw="269.84375" z="-0.20159557461738586"/>
+      </waypoints>
+   </route>
+   <route id="6" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-88.68111419677734" y="-115.90897369384766" yaw="89.84373474121094" z="-0.18046337366104126"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-88.68111419677734" y="-115.90897369384766" yaw="89.84373474121094" z="-0.18046337366104126"/>
+         <position x="-88.6756591796875" y="-113.90898132324219" yaw="89.84373474121094" z="-0.21514466404914856"/>
+      </waypoints>
+   </route>
+   <route id="7" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-74.333984375" y="-154.7371063232422" yaw="272.2957458496094" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-74.333984375" y="-154.7371063232422" yaw="272.2957458496094" z="0.0"/>
+         <position x="-74.250732421875" y="-156.71437072753906" yaw="272.5249328613281" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="8" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="246.27462768554688" y="-26.834434509277344" yaw="271.3931884765625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="246.27462768554688" y="-26.834434509277344" yaw="271.3931884765625" z="0.0"/>
+         <position x="246.32327270507812" y="-28.833839416503906" yaw="271.3931884765625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="9" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-13.88604736328125" y="-208.35646057128906" yaw="-178.56044006347656" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-13.88604736328125" y="-208.35646057128906" yaw="-178.56044006347656" z="0.0"/>
+         <position x="-15.885415077209473" y="-208.40670776367188" yaw="-178.56044006347656" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="10" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-54.150970458984375" y="345.1442565917969" yaw="130.78932189941406" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-54.150970458984375" y="345.1442565917969" yaw="130.78932189941406" z="0.0"/>
+         <position x="-55.40730285644531" y="346.5855712890625" yaw="131.36550903320312" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="11" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="372.36968994140625" y="-330.9556579589844" yaw="230.98818969726562" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="372.36968994140625" y="-330.9556579589844" yaw="230.98818969726562" z="0.0"/>
+         <position x="371.0247497558594" y="-332.5929260253906" yaw="230.20974731445312" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="12" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-489.6615295410156" y="166.6741180419922" yaw="270.3575134277344" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-489.6615295410156" y="166.6741180419922" yaw="270.3575134277344" z="0.0"/>
+         <position x="-489.6490478515625" y="164.67416381835938" yaw="270.3575134277344" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="13" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-53.972713470458984" y="-212.95574951171875" yaw="129.57754516601562" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-53.972713470458984" y="-212.95574951171875" yaw="129.57754516601562" z="0.0"/>
+         <position x="-55.235374450683594" y="-211.4351806640625" yaw="129.83409118652344" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="14" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-434.74151611328125" y="389.8668212890625" yaw="37.59279251098633" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-434.74151611328125" y="389.8668212890625" yaw="37.59279251098633" z="0.0"/>
+         <position x="-433.07257080078125" y="391.1370849609375" yaw="36.9553108215332" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="15" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="217.18617248535156" y="33.0191650390625" yaw="0.977935791015625" z="6.020907402038574"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="217.18617248535156" y="33.0191650390625" yaw="0.977935791015625" z="6.020907402038574"/>
+         <position x="219.18589782714844" y="33.05329895019531" yaw="0.977935791015625" z="5.900813579559326"/>
+      </waypoints>
+   </route>
+   <route id="16" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-507.57208251953125" y="201.3516845703125" yaw="91.73445892333984" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-507.57208251953125" y="201.3516845703125" yaw="91.73445892333984" z="0.0"/>
+         <position x="-507.63262939453125" y="203.35076904296875" yaw="91.73445892333984" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="17" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-215.8140411376953" y="12.657635688781738" yaw="-179.9231719970703" z="3.9087610244750977"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-215.8140411376953" y="12.657635688781738" yaw="-179.9231719970703" z="3.9087610244750977"/>
+         <position x="-217.8140411376953" y="12.654953956604004" yaw="-179.9231719970703" z="3.8050804138183594"/>
+      </waypoints>
+   </route>
+   <route id="18" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-196.36599731445312" y="411.05712890625" yaw="179.477783203125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-196.36599731445312" y="411.05712890625" yaw="179.477783203125" z="0.0"/>
+         <position x="-198.31802368164062" y="411.0670471191406" yaw="179.79180908203125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="19" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="65.21178436279297" y="260.9917907714844" yaw="-38.11226272583008" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="65.21178436279297" y="260.9917907714844" yaw="-38.11226272583008" z="0.0"/>
+         <position x="66.76081848144531" y="259.7853698730469" yaw="-37.712947845458984" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="20" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="181.8457489013672" y="-388.9530944824219" yaw="180.50140380859375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="181.8457489013672" y="-388.9530944824219" yaw="180.50140380859375" z="0.0"/>
+         <position x="179.8458251953125" y="-388.9706115722656" yaw="180.50140380859375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="21" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-355.1989440917969" y="407.7912902832031" yaw="191.96603393554688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-355.1989440917969" y="407.7912902832031" yaw="191.96603393554688" z="0.0"/>
+         <position x="-357.0580749511719" y="407.3864440917969" yaw="192.603515625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="22" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-305.6537170410156" y="428.9571838378906" yaw="-0.2081967145204544" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-305.6537170410156" y="428.9571838378906" yaw="-0.2081967145204544" z="0.0"/>
+         <position x="-303.65374755859375" y="428.9499206542969" yaw="-0.2081967145204544" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="23" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-490.36199951171875" y="211.18992614746094" yaw="271.7344665527344" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-490.36199951171875" y="211.18992614746094" yaw="271.7344665527344" z="0.0"/>
+         <position x="-490.30145263671875" y="209.1908416748047" yaw="271.7344665527344" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="24" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-231.8919677734375" y="-95.41464233398438" yaw="165.72610473632812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-231.8919677734375" y="-95.41464233398438" yaw="165.72610473632812" z="0.0"/>
+         <position x="-233.79595947265625" y="-94.93739318847656" yaw="166.1307830810547" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="25" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="6.493314266204834" y="256.30474853515625" yaw="-80.19267272949219" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="6.493314266204834" y="256.30474853515625" yaw="-80.19267272949219" z="0.0"/>
+         <position x="6.838616371154785" y="254.24551391601562" yaw="-80.76886749267578" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="26" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="246.8128204345703" y="-371.2206115722656" yaw="-0.29530856013298035" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="246.8128204345703" y="-371.2206115722656" yaw="-0.29530856013298035" z="0.0"/>
+         <position x="248.8127899169922" y="-371.2309265136719" yaw="-0.29530856013298035" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="27" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-506.7215270996094" y="96.10292053222656" yaw="90.35751342773438" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-506.7215270996094" y="96.10292053222656" yaw="90.35751342773438" z="0.0"/>
+         <position x="-506.7340087890625" y="98.1028823852539" yaw="90.35751342773438" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="28" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="298.1630859375" y="16.898862838745117" yaw="-179.02206420898438" z="1.6664109230041504"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="298.1630859375" y="16.898862838745117" yaw="-179.02206420898438" z="1.6664109230041504"/>
+         <position x="296.16339111328125" y="16.864728927612305" yaw="-179.02206420898438" z="1.7451696395874023"/>
+      </waypoints>
+   </route>
+   <route id="29" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="47.32878875732422" y="13.275005340576172" yaw="-179.76734924316406" z="11.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="47.32878875732422" y="13.275005340576172" yaw="-179.76734924316406" z="11.0"/>
+         <position x="45.32880783081055" y="13.266883850097656" yaw="-179.76734924316406" z="11.0"/>
+      </waypoints>
+   </route>
+   <route id="30" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="406.8529052734375" y="-203.9248809814453" yaw="270.5986022949219" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="406.8529052734375" y="-203.9248809814453" yaw="270.5986022949219" z="0.0"/>
+         <position x="406.8738098144531" y="-205.92477416992188" yaw="270.5986022949219" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="31" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-262.66748046875" y="30.094829559326172" yaw="0.0768280029296875" z="1.8091241121292114"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-262.66748046875" y="30.094829559326172" yaw="0.0768280029296875" z="1.8091241121292114"/>
+         <position x="-260.66748046875" y="30.097511291503906" yaw="0.0768280029296875" z="1.8825708627700806"/>
+      </waypoints>
+   </route>
+   <route id="32" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-54.63766098022461" y="30.373756408691406" yaw="0.0768280029296875" z="10.063010215759277"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-54.63766098022461" y="30.373756408691406" yaw="0.0768280029296875" z="10.063010215759277"/>
+         <position x="-52.637664794921875" y="30.37643814086914" yaw="0.0768280029296875" z="10.09719181060791"/>
+      </waypoints>
+   </route>
+   <route id="33" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="44.760589599609375" y="-319.58343505859375" yaw="-48.982540130615234" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="44.760589599609375" y="-319.58343505859375" yaw="-48.982540130615234" z="0.0"/>
+         <position x="46.01035690307617" y="-321.00225830078125" yaw="-48.267337799072266" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="34" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-453.5562744140625" y="346.9782409667969" yaw="231.48989868164062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-453.5562744140625" y="346.9782409667969" yaw="231.48989868164062" z="0.0"/>
+         <position x="-454.732666015625" y="345.48284912109375" yaw="232.12738037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="35" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="8.693039894104004" y="55.04822540283203" yaw="-90.28912353515625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="8.693039894104004" y="55.04822540283203" yaw="-90.28912353515625" z="0.0"/>
+         <position x="8.682947158813477" y="53.04825210571289" yaw="-90.28912353515625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="36" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="143.67269897460938" y="-388.4451904296875" yaw="174.779296875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="143.67269897460938" y="-388.4451904296875" yaw="174.779296875" z="0.0"/>
+         <position x="141.57347106933594" y="-388.2401428222656" yaw="174.0640869140625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="37" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="321.5087890625" y="-352.05413818359375" yaw="30.523263931274414" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="321.5087890625" y="-352.05413818359375" yaw="30.523263931274414" z="0.0"/>
+         <position x="323.1226806640625" y="-351.0877685546875" yaw="31.301692962646484" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="38" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="344.7908630371094" y="131.03131103515625" yaw="-37.13755798339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="344.7908630371094" y="131.03131103515625" yaw="-37.13755798339844" z="0.0"/>
+         <position x="346.4139709472656" y="129.79177856445312" yaw="-37.59914016723633" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="39" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-8.250286102294922" y="165.40513610839844" yaw="89.71087646484375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-8.250286102294922" y="165.40513610839844" yaw="89.71087646484375" z="0.0"/>
+         <position x="-8.240194320678711" y="167.4051055908203" yaw="89.71087646484375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="40" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-442.3690490722656" y="15.077502250671387" yaw="-193.00729370117188" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-442.3690490722656" y="15.077502250671387" yaw="-193.00729370117188" z="0.0"/>
+         <position x="-444.54022216796875" y="15.609930038452148" yaw="-194.54978942871094" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="41" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-150.0828399658203" y="422.9365539550781" yaw="-13.37136173248291" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-150.0828399658203" y="422.9365539550781" yaw="-13.37136173248291" z="0.0"/>
+         <position x="-148.05392456054688" y="422.4435119628906" yaw="-13.947556495666504" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="42" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="245.152587890625" y="181.9942626953125" yaw="-23.342483520507812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="245.152587890625" y="181.9942626953125" yaw="-23.342483520507812" z="0.0"/>
+         <position x="246.9888916015625" y="181.20181274414062" yaw="-23.342483520507812" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="43" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-504.180908203125" y="279.4586486816406" yaw="78.07288360595703" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-504.180908203125" y="279.4586486816406" yaw="78.07288360595703" z="0.0"/>
+         <position x="-503.73602294921875" y="281.50830078125" yaw="77.4354019165039" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="44" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-490.49542236328125" y="249.83738708496094" yaw="266.8701171875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-490.49542236328125" y="249.83738708496094" yaw="266.8701171875" z="0.0"/>
+         <position x="-490.5887451171875" y="247.93702697753906" yaw="267.50762939453125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="45" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-139.81500244140625" y="-136.8028564453125" yaw="148.16781616210938" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-139.81500244140625" y="-136.8028564453125" yaw="148.16781616210938" z="0.0"/>
+         <position x="-141.49114990234375" y="-135.76905822753906" yaw="148.50265502929688" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="46" town="Town04">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-9.234861373901367" y="-44.14234924316406" yaw="89.775146484375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-9.234861373901367" y="-44.14234924316406" yaw="89.775146484375" z="0.0"/>
+         <position x="-9.227011680603027" y="-42.142364501953125" yaw="89.775146484375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="47" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-54.824947357177734" y="191.0869903564453" yaw="179.97128295898438" z="4.069565296173096"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-54.824947357177734" y="191.0869903564453" yaw="179.97128295898438" z="4.069565296173096"/>
+         <position x="-56.824947357177734" y="191.08799743652344" yaw="179.97128295898438" z="4.301449298858643"/>
+      </waypoints>
+   </route>
+   <route id="48" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-229.2855224609375" y="33.45698547363281" yaw="270.80999755859375" z="10.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-229.2855224609375" y="33.45698547363281" yaw="270.80999755859375" z="10.0"/>
+         <position x="-229.2572479248047" y="31.457183837890625" yaw="270.80999755859375" z="10.0"/>
+      </waypoints>
+   </route>
+   <route id="49" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-188.4609375" y="177.8040771484375" yaw="211.85231018066406" z="9.130044937133789"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-188.4609375" y="177.8040771484375" yaw="211.85231018066406" z="9.130044937133789"/>
+         <position x="-189.9969024658203" y="176.82774353027344" yaw="213.0306854248047" z="9.151147842407227"/>
+      </waypoints>
+   </route>
+   <route id="50" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-238.33566284179688" y="-134.59767150878906" yaw="109.53032684326172" z="10.001526832580566"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-238.33566284179688" y="-134.59767150878906" yaw="109.53032684326172" z="10.001526832580566"/>
+         <position x="-239.0196075439453" y="-132.6060333251953" yaw="108.37527465820312" z="10.001401901245117"/>
+      </waypoints>
+   </route>
+   <route id="51" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="158.77256774902344" y="187.93490600585938" yaw="-33.450653076171875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="158.77256774902344" y="187.93490600585938" yaw="-33.450653076171875" z="0.0"/>
+         <position x="160.51629638671875" y="186.7579803466797" yaw="-34.583038330078125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="52" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-113.75841522216797" y="-190.10079956054688" yaw="0.076446533203125" z="10.023362159729004"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-113.75841522216797" y="-190.10079956054688" yaw="0.076446533203125" z="10.023362159729004"/>
+         <position x="-111.75841522216797" y="-190.09814453125" yaw="0.076446533203125" z="10.023728370666504"/>
+      </waypoints>
+   </route>
+   <route id="53" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="196.27865600585938" y="-142.9993438720703" yaw="-114.98033905029297" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="196.27865600585938" y="-142.9993438720703" yaw="-114.98033905029297" z="0.0"/>
+         <position x="195.3712921142578" y="-144.89755249023438" yaw="-116.11497497558594" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="54" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-243.1306915283203" y="-16.42523956298828" yaw="89.156005859375" z="10.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-243.1306915283203" y="-16.42523956298828" yaw="89.156005859375" z="10.0"/>
+         <position x="-243.10122680664062" y="-14.425453186035156" yaw="89.156005859375" z="10.0"/>
+      </waypoints>
+   </route>
+   <route id="55" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-12.899822235107422" y="-203.96627807617188" yaw="-179.92355346679688" z="1.1328206062316895"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-12.899822235107422" y="-203.96627807617188" yaw="-179.92355346679688" z="1.1328206062316895"/>
+         <position x="-14.899821281433105" y="-203.9689483642578" yaw="-179.92355346679688" z="1.3367363214492798"/>
+      </waypoints>
+   </route>
+   <route id="56" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="192.71275329589844" y="-56.264739990234375" yaw="89.33090209960938" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="192.71275329589844" y="-56.264739990234375" yaw="89.33090209960938" z="0.0"/>
+         <position x="192.73611450195312" y="-54.26487731933594" yaw="89.33090209960938" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="57" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="141.70193481445312" y="-180.3977813720703" yaw="26.895980834960938" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="141.70193481445312" y="-180.3977813720703" yaw="26.895980834960938" z="0.0"/>
+         <position x="143.32276916503906" y="-179.55532836914062" yaw="28.030609130859375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="58" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-275.87762451171875" y="30.703203201293945" yaw="89.41624450683594" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-275.87762451171875" y="30.703203201293945" yaw="89.41624450683594" z="0.0"/>
+         <position x="-275.8572692871094" y="32.703102111816406" yaw="89.41624450683594" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="59" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="163.39675903320312" y="166.49610900878906" yaw="136.78662109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="163.39675903320312" y="166.49610900878906" yaw="136.78662109375" z="0.0"/>
+         <position x="162.05291748046875" y="167.73388671875" yaw="137.91900634765625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="60" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-230.1803741455078" y="-87.78372955322266" yaw="269.156005859375" z="10.000001907348633"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-230.1803741455078" y="-87.78372955322266" yaw="269.156005859375" z="10.000001907348633"/>
+         <position x="-230.20982360839844" y="-89.78351593017578" yaw="269.156005859375" z="10.00001049041748"/>
+      </waypoints>
+   </route>
+   <route id="61" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-211.4818115234375" y="-95.21235656738281" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-211.4818115234375" y="-95.21235656738281" yaw="-179.9136962890625" z="0.0"/>
+         <position x="-213.4818115234375" y="-95.21537017822266" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="62" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="57.3497428894043" y="-190.19601440429688" yaw="359.757080078125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="57.3497428894043" y="-190.19601440429688" yaw="359.757080078125" z="0.0"/>
+         <position x="59.349727630615234" y="-190.20449829101562" yaw="359.757080078125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="63" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-235.34303283691406" y="144.43663024902344" yaw="65.93077087402344" z="9.666783332824707"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-235.34303283691406" y="144.43663024902344" yaw="65.93077087402344" z="9.666783332824707"/>
+         <position x="-234.46360778808594" y="146.35235595703125" yaw="64.75240325927734" z="9.652271270751953"/>
+      </waypoints>
+   </route>
+   <route id="64" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="207.14242553710938" y="48.06232833862305" yaw="-89.33536529541016" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="207.14242553710938" y="48.06232833862305" yaw="-89.33536529541016" z="0.0"/>
+         <position x="207.16561889648438" y="46.062461853027344" yaw="-89.33536529541016" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="65" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="46.85894012451172" y="-84.18035888671875" yaw="358.55572509765625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="46.85894012451172" y="-84.18035888671875" yaw="358.55572509765625" z="0.0"/>
+         <position x="48.858306884765625" y="-84.23077392578125" yaw="358.55572509765625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="66" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-109.65792083740234" y="205.11447143554688" yaw="-0.028712520375847816" z="8.22094440460205"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-109.65792083740234" y="205.11447143554688" yaw="-0.028712520375847816" z="8.22094440460205"/>
+         <position x="-107.65792083740234" y="205.1134796142578" yaw="-0.028712520375847816" z="8.199841499328613"/>
+      </waypoints>
+   </route>
+   <route id="67" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="106.96611022949219" y="-25.193031311035156" yaw="-89.83070373535156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="106.96611022949219" y="-25.193031311035156" yaw="-89.83070373535156" z="0.0"/>
+         <position x="106.9720230102539" y="-27.193021774291992" yaw="-89.83070373535156" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="68" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="207.05279541015625" y="-27.23021697998047" yaw="-90.66909790039062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="207.05279541015625" y="-27.23021697998047" yaw="-90.66909790039062" z="0.0"/>
+         <position x="207.02943420410156" y="-29.23008155822754" yaw="-90.66909790039062" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="69" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="193.0649871826172" y="54.65673828125" yaw="90.66463470458984" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="193.0649871826172" y="54.65673828125" yaw="90.66463470458984" z="0.0"/>
+         <position x="193.04177856445312" y="56.6566047668457" yaw="90.66463470458984" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="70" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="52.152400970458984" y="205.3267822265625" yaw="0.28781425952911377" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="52.152400970458984" y="205.3267822265625" yaw="0.28781425952911377" z="0.0"/>
+         <position x="54.15237808227539" y="205.33682250976562" yaw="0.28781425952911377" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="71" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-275.9964599609375" y="19.040119171142578" yaw="89.4162368774414" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-275.9964599609375" y="19.040119171142578" yaw="89.4162368774414" z="0.0"/>
+         <position x="-275.97607421875" y="21.040307998657227" yaw="89.41624450683594" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="72" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-231.10382080078125" y="84.30227661132812" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-231.10382080078125" y="84.30227661132812" yaw="-179.93443298339844" z="0.0"/>
+         <position x="-233.10382080078125" y="84.29998779296875" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="73" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-264.9992370605469" y="-39.13166427612305" yaw="270.4167785644531" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-264.9992370605469" y="-39.13166427612305" yaw="270.4167785644531" z="0.0"/>
+         <position x="-264.98468017578125" y="-41.13161087036133" yaw="270.4167785644531" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="74" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="207.5635528564453" y="9.760972023010254" yaw="-89.99037170410156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="207.5635528564453" y="9.760972023010254" yaw="-89.99037170410156" z="0.0"/>
+         <position x="207.55810546875" y="7.730957508087158" yaw="-90.31806182861328" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="75" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="16.280757904052734" y="-204.02203369140625" yaw="179.757080078125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="16.280757904052734" y="-204.02203369140625" yaw="179.757080078125" z="0.0"/>
+         <position x="14.280776023864746" y="-204.01356506347656" yaw="179.757080078125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="76" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-152.51187133789062" y="-203.36981201171875" yaw="173.0580291748047" z="10.016378402709961"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-152.51187133789062" y="-203.36981201171875" yaw="173.0580291748047" z="10.016378402709961"/>
+         <position x="-154.5995635986328" y="-203.09423828125" yaw="171.90296936035156" z="10.016012191772461"/>
+      </waypoints>
+   </route>
+   <route id="77" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="96.22686004638672" y="13.896316528320312" yaw="90.69916534423828" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="96.22686004638672" y="13.896316528320312" yaw="90.69916534423828" z="0.0"/>
+         <position x="96.20246124267578" y="15.896167755126953" yaw="90.69916534423828" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="78" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="193.5586700439453" y="7.873965740203857" yaw="89.69290924072266" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="193.5586700439453" y="7.873965740203857" yaw="89.69290924072266" z="0.0"/>
+         <position x="193.5635528564453" y="9.823914527893066" yaw="90.02059173583984" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="79" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="96.23905944824219" y="12.896391868591309" yaw="90.69916534423828" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="96.23905944824219" y="12.896391868591309" yaw="90.69916534423828" z="0.0"/>
+         <position x="96.21466064453125" y="14.896242141723633" yaw="90.69916534423828" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="80" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="106.93065643310547" y="-13.193083763122559" yaw="-89.83070373535156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="106.93065643310547" y="-13.193083763122559" yaw="-89.83070373535156" z="0.0"/>
+         <position x="106.93656921386719" y="-15.193075180053711" yaw="-89.83070373535156" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="81" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="49.70772933959961" y="95.49945831298828" yaw="-0.41618767380714417" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="49.70772933959961" y="95.49945831298828" yaw="-0.41618767380714417" z="0.0"/>
+         <position x="51.70767593383789" y="95.48493194580078" yaw="-0.41618767380714417" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="82" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-265.18072509765625" y="-14.18199348449707" yaw="270.4167785644531" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-265.18072509765625" y="-14.18199348449707" yaw="270.4167785644531" z="0.0"/>
+         <position x="-265.1661682128906" y="-16.18194007873535" yaw="270.4167785644531" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="83" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="425.78533935546875" y="-13.987678527832031" yaw="179.7913055419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="425.78533935546875" y="-13.987678527832031" yaw="179.7913055419922" z="0.0"/>
+         <position x="423.7853698730469" y="-13.98039436340332" yaw="179.7913055419922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="84" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-363.01611328125" y="152.7865447998047" yaw="89.14167785644531" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-363.01611328125" y="152.7865447998047" yaw="89.14167785644531" z="0.0"/>
+         <position x="-362.9861755371094" y="154.78631591796875" yaw="89.14167785644531" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="85" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="295.3534851074219" y="-17.012636184692383" yaw="179.7913055419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="295.3534851074219" y="-17.012636184692383" yaw="179.7913055419922" z="0.0"/>
+         <position x="293.3534851074219" y="-17.005352020263672" yaw="179.7913055419922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="86" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="373.350830078125" y="41.79475402832031" yaw="-0.027895338833332062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="373.350830078125" y="41.79475402832031" yaw="-0.027895338833332062" z="0.0"/>
+         <position x="375.350830078125" y="41.79378128051758" yaw="-0.027895338833332062" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="87" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-295.3689880371094" y="-8.841687202453613" yaw="162.36044311523438" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-295.3689880371094" y="-8.841687202453613" yaw="162.36044311523438" z="0.0"/>
+         <position x="-297.1959533691406" y="-8.245718002319336" yaw="161.50634765625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="88" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="653.9083862304688" y="17.46240234375" yaw="250.3192138671875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="653.9083862304688" y="17.46240234375" yaw="250.3192138671875" z="0.0"/>
+         <position x="653.2133178710938" y="15.561091423034668" yaw="249.52108764648438" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="89" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="212.51939392089844" y="241.09811401367188" yaw="0.019545903429389" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="212.51939392089844" y="241.09811401367188" yaw="0.019545903429389" z="0.0"/>
+         <position x="214.51939392089844" y="241.0988006591797" yaw="0.019545903429389" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="90" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="405.5193786621094" y="241.16395568847656" yaw="0.019545903429389" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="405.5193786621094" y="241.16395568847656" yaw="0.019545903429389" z="0.0"/>
+         <position x="407.5193786621094" y="241.16464233398438" yaw="0.019545903429389" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="91" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-285.5432434082031" y="140.77235412597656" yaw="193.35501098632812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-285.5432434082031" y="140.77235412597656" yaw="193.35501098632812" z="0.0"/>
+         <position x="-287.7309265136719" y="140.1947784423828" yaw="196.22393798828125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="92" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="502.25872802734375" y="141.48736572265625" yaw="0.23475660383701324" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="502.25872802734375" y="141.48736572265625" yaw="0.23475660383701324" z="0.0"/>
+         <position x="504.2586975097656" y="141.4955596923828" yaw="0.23475660383701324" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="93" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="333.1001281738281" y="140.79425048828125" yaw="0.23475660383701324" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="333.1001281738281" y="140.79425048828125" yaw="0.23475660383701324" z="0.0"/>
+         <position x="335.1001281738281" y="140.80245971679688" yaw="0.23475660383701324" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="94" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-218.6165771484375" y="-15.210206985473633" yaw="180.20140075683594" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-218.6165771484375" y="-15.210206985473633" yaw="180.20140075683594" z="0.0"/>
+         <position x="-220.5955810546875" y="-15.21319580078125" yaw="179.97222900390625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="95" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-8.005664825439453" y="371.4589538574219" yaw="101.05776977539062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-8.005664825439453" y="371.4589538574219" yaw="101.05776977539062" z="0.0"/>
+         <position x="-8.42579460144043" y="373.4631042480469" yaw="102.62141418457031" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="96" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-6.681609630584717" y="360.2850341796875" yaw="92.45773315429688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-6.681609630584717" y="360.2850341796875" yaw="92.45773315429688" z="0.0"/>
+         <position x="-6.797323703765869" y="362.3294677734375" yaw="94.02136993408203" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="97" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="550.5193481445312" y="241.2134246826172" yaw="0.019545903429389" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="550.5193481445312" y="241.2134246826172" yaw="0.019545903429389" z="0.0"/>
+         <position x="552.5193481445312" y="241.21409606933594" yaw="0.019545903429389" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="98" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="277.1925354003906" y="45.34157180786133" yaw="-0.027895338833332062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="277.1925354003906" y="45.34157180786133" yaw="-0.027895338833332062" z="0.0"/>
+         <position x="279.1925354003906" y="45.340599060058594" yaw="-0.027895338833332062" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="99" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-161.68348693847656" y="-15.347990036010742" yaw="179.7913055419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-161.68348693847656" y="-15.347990036010742" yaw="179.7913055419922" z="0.0"/>
+         <position x="-163.68348693847656" y="-15.340705871582031" yaw="179.7913055419922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="100" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-25.774396896362305" y="-15.843006134033203" yaw="179.7913055419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-25.774396896362305" y="-15.843006134033203" yaw="179.7913055419922" z="0.0"/>
+         <position x="-27.774383544921875" y="-15.835721969604492" yaw="179.7913055419922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="101" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="608.2562866210938" y="240.78424072265625" yaw="-5.594916820526123" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="608.2562866210938" y="240.78424072265625" yaw="-5.594916820526123" z="0.0"/>
+         <position x="610.2824096679688" y="240.56344604492188" yaw="-6.842871189117432" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="102" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="22.809158325195312" y="45.376922607421875" yaw="-0.053955767303705215" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="22.809158325195312" y="45.376922607421875" yaw="-0.053955767303705215" z="0.0"/>
+         <position x="24.809158325195312" y="45.375038146972656" yaw="-0.053955767303705215" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="103" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="124.21461486816406" y="-16.389305114746094" yaw="179.7913055419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="124.21461486816406" y="-16.389305114746094" yaw="179.7913055419922" z="0.0"/>
+         <position x="122.21463012695312" y="-16.382020950317383" yaw="179.7913055419922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="104" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="7.150257587432861" y="-111.84378051757812" yaw="-81.87230682373047" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="7.150257587432861" y="-111.84378051757812" yaw="-81.87230682373047" z="0.0"/>
+         <position x="7.4386138916015625" y="-113.5264892578125" yaw="-78.67964935302734" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="105" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="318.7860412597656" y="-13.59796142578125" yaw="179.7913055419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="318.7860412597656" y="-13.59796142578125" yaw="179.7913055419922" z="0.0"/>
+         <position x="316.78607177734375" y="-13.590676307678223" yaw="179.7913055419922" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="106" town="Town06">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-125.23788452148438" y="45.44989013671875" yaw="-0.023140987381339073" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-125.23788452148438" y="45.44989013671875" yaw="-0.023140987381339073" z="0.0"/>
+         <position x="-123.23788452148438" y="45.4490852355957" yaw="-0.023140987381339073" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="107" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="30.412546157836914" y="-57.40939712524414" yaw="359.9765625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="30.412546157836914" y="-57.40939712524414" yaw="359.9765625" z="0.0"/>
+         <position x="32.41254425048828" y="-57.410213470458984" yaw="359.9765625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="108" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="106.6098403930664" y="-40.29156494140625" yaw="-112.41507720947266" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="106.6098403930664" y="-40.29156494140625" yaw="-112.41507720947266" z="0.0"/>
+         <position x="105.6928482055664" y="-42.36391830444336" yaw="-115.32256317138672" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="109" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-5.582162857055664" y="140.6768798828125" yaw="0.3521270751953125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-5.582162857055664" y="140.6768798828125" yaw="0.3521270751953125" z="0.0"/>
+         <position x="-3.582200765609741" y="140.68917846679688" yaw="0.3521270751953125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="110" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="93.51622009277344" y="112.45537567138672" yaw="118.38983154296875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="93.51622009277344" y="112.45537567138672" yaw="118.38983154296875" z="0.0"/>
+         <position x="92.63584899902344" y="114.00719451904297" yaw="120.7440414428711" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="111" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="109.94044494628906" y="-16.383445739746094" yaw="269.8526306152344" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="109.94044494628906" y="-16.383445739746094" yaw="269.8526306152344" z="0.0"/>
+         <position x="109.9408950805664" y="-18.354019165039062" yaw="270.1737365722656" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="112" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-6.837919235229492" y="-57.56552505493164" yaw="0.5967352390289307" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-6.837919235229492" y="-57.56552505493164" yaw="0.5967352390289307" z="0.0"/>
+         <position x="-4.837369441986084" y="-57.5446891784668" yaw="0.59674072265625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="113" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-114.3000259399414" y="49.820640563964844" yaw="90.6422348022461" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-114.3000259399414" y="49.820640563964844" yaw="90.6422348022461" z="0.0"/>
+         <position x="-114.32244873046875" y="51.82051086425781" yaw="90.6422348022461" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="114" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="3.7618916034698486" y="140.74024963378906" yaw="0.6328414082527161" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="3.7618916034698486" y="140.74024963378906" yaw="0.6328414082527161" z="0.0"/>
+         <position x="5.740721702575684" y="140.7660675048828" yaw="0.8620245456695557" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="115" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="26.330528259277344" y="140.9990692138672" yaw="0.32044845819473267" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="26.330528259277344" y="140.9990692138672" yaw="0.32044845819473267" z="0.0"/>
+         <position x="28.330495834350586" y="141.01025390625" yaw="0.32044845819473267" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="116" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-74.68756103515625" y="127.67695617675781" yaw="-160.31234741210938" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-74.68756103515625" y="127.67695617675781" yaw="-160.31234741210938" z="0.0"/>
+         <position x="-76.3208236694336" y="127.04835510253906" yaw="-157.58642578125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="117" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="-3.384722948074341" y="-57.528656005859375" yaw="0.70513916015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-3.384722948074341" y="-57.528656005859375" yaw="0.70513916015625" z="0.0"/>
+         <position x="-1.4041526317596436" y="-57.50035858154297" yaw="0.9149627685546875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="118" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="RoadLeftLaneChangeOne_0" type="RoadLeftLaneChangeOne">
+            <trigger_point x="109.92987823486328" y="-9.333781242370605" yaw="-89.6092529296875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="109.92987823486328" y="-9.333781242370605" yaw="-89.6092529296875" z="0.0"/>
+         <position x="109.94214630126953" y="-11.346802711486816" yaw="-89.74725341796875" z="0.0"/>
+      </waypoints>
+   </route>
+</routes>

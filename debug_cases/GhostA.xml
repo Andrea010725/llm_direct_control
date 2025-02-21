@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-176.28514099121094" y="2.9784135818481445" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-176.28514099121094" y="2.9784135818481445" yaw="359.86053466796875" z="0.0"/>
+         <position x="-174.28514099121094" y="2.973545551300049" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+</routes>

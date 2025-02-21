@@ -1,0 +1,2018 @@
+<routes>
+	<route id="0" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1450.9" y="3331.7" z="353.6" yaw="88.4" />
+		</waypoints>
+	</route>
+	<route id="1" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1333.4" y="3694.7" z="356.3" yaw="-11.6" />
+		</waypoints>
+	</route>
+	<route id="2" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1450.9" y="3331.7" z="353.6" yaw="88.4" />
+		</waypoints>
+	</route>
+	<route id="3" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1333.4" y="3694.7" z="356.3" yaw="-11.6" />
+		</waypoints>
+	</route>
+	<route id="4" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1450.9" y="3331.7" z="353.6" yaw="88.4" />
+		</waypoints>
+	</route>
+	<route id="5" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1333.4" y="3694.7" z="356.3" yaw="-11.6" />
+		</waypoints>
+	</route>
+	<route id="6" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="7" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="8" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="9" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="10" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="11" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="12" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="13" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="14" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="15" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="16" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="17" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="18" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="19" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="20" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="21" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="22" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="23" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="24" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="25" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="26" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="27" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="28" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="29" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="30" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="31" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="32" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="33" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="34" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="35" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="36" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="37" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="38" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="39" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="40" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="41" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="42" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="43" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="44" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="45" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="46" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1309.3" y="3689.4" z="354.9" yaw="-12.7" />
+		</waypoints>
+	</route>
+	<route id="47" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1671.8" y="4950.6" z="377.1" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="48" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1450.9" y="3331.7" z="353.6" yaw="88.4" />
+		</waypoints>
+	</route>
+	<route id="49" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1333.4" y="3694.7" z="356.3" yaw="-11.6" />
+		</waypoints>
+	</route>
+	<route id="50" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-177.2" y="4041.6" z="371.8" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.2" y="4041.6" z="371.8" yaw="89.7" />
+			<position x="-390.3" y="4113.6" z="372.6" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="51" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-390.3" y="4151.4" z="373.0" yaw="90.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-390.3" y="4151.4" z="373.0" yaw="90.0" />
+			<position x="-454.7" y="4192.3" z="373.4" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="52" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_6" type="PedestrianCrossing">
+				<trigger_point x="-70.3" y="3529.4" z="364.2" yaw="-90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-70.3" y="3529.4" z="364.2" yaw="-90.1" />
+			<position x="-179.3" y="3661.3" z="366.1" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="53" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_7" type="PedestrianCrossing">
+				<trigger_point x="-284.5" y="3534.6" z="367.9" yaw="-90.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-284.5" y="3534.6" z="367.9" yaw="-90.4" />
+			<position x="-392.1" y="3736.4" z="368.2" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="54" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="713.4" y="3701.4" z="371.7" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="713.4" y="3701.4" z="371.7" yaw="179.9" />
+			<position x="624.3" y="3808.8" z="371.6" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="55" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="293.5" y="4190.6" z="370.6" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="293.5" y="4190.6" z="370.6" yaw="179.9" />
+			<position x="249.2" y="4319.0" z="371.2" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="56" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="1173.6" y="5531.2" z="370.3" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1173.6" y="5531.2" z="370.3" yaw="89.9" />
+			<position x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="57" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+			<position x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+		</waypoints>
+	</route>
+	<route id="58" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+			<position x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="59" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+			<position x="986.3" y="5536.3" z="370.9" yaw="270.1" />
+		</waypoints>
+	</route>
+	<route id="60" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3033.4" y="4742.3" z="366.8" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3033.4" y="4742.3" z="366.8" yaw="189.2" />
+			<position x="2974.6" y="4612.6" z="365.1" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="61" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="3291.8" y="4259.9" z="364.5" yaw="98.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3291.8" y="4259.9" z="364.5" yaw="98.9" />
+			<position x="3186.3" y="4293.8" z="363.4" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="62" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="3715.1" y="4268.7" z="368.6" yaw="9.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3715.1" y="4268.7" z="368.6" yaw="9.0" />
+			<position x="3747.3" y="4334.9" z="368.5" yaw="99.0" />
+		</waypoints>
+	</route>
+	<route id="63" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="3368.9" y="5225.0" z="368.1" yaw="99.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3368.9" y="5225.0" z="368.1" yaw="99.5" />
+			<position x="3122.4" y="5289.8" z="368.4" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="64" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_6" type="PedestrianCrossing">
+				<trigger_point x="2931.5" y="4728.9" z="366.3" yaw="9.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2931.5" y="4728.9" z="366.3" yaw="9.2" />
+			<position x="2973.9" y="4766.8" z="366.8" yaw="99.6" />
+		</waypoints>
+	</route>
+	<route id="65" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="1749.0" y="5170.5" z="368.5" yaw="89.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1749.0" y="5170.5" z="368.5" yaw="89.6" />
+			<position x="1362.6" y="5454.7" z="370.0" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="66" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3274.1" y="4389.6" z="365.2" yaw="279.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3274.1" y="4389.6" z="365.2" yaw="279.2" />
+			<position x="3314.8" y="4324.5" z="365.1" yaw="9.2" />
+		</waypoints>
+	</route>
+	<route id="67" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="3464.6" y="5046.3" z="367.9" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3464.6" y="5046.3" z="367.9" yaw="189.2" />
+			<position x="3369.1" y="5030.8" z="367.7" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="68" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="3139.5" y="5183.5" z="368.2" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3139.5" y="5183.5" z="368.2" yaw="99.2" />
+			<position x="3139.7" y="5182.2" z="368.2" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="69" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="2595.2" y="4671.5" z="364.6" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2595.2" y="4671.5" z="364.6" yaw="189.2" />
+			<position x="2539.8" y="4599.8" z="363.6" yaw="279.4" />
+		</waypoints>
+	</route>
+	<route id="70" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="2010.8" y="4047.9" z="358.5" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2010.8" y="4047.9" z="358.5" yaw="99.2" />
+			<position x="2015.9" y="4016.1" z="358.1" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="71" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="1098.9" y="4025.1" z="367.1" yaw="279.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1098.9" y="4025.1" z="367.1" yaw="279.0" />
+			<position x="1265.5" y="3989.4" z="364.4" yaw="9.2" />
+		</waypoints>
+	</route>
+	<route id="72" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="983.3" y="3821.3" z="369.7" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="983.3" y="3821.3" z="369.7" yaw="189.2" />
+			<position x="782.6" y="3941.1" z="370.8" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="73" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="461.5" y="4225.6" z="370.7" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="461.5" y="4225.6" z="370.7" yaw="89.7" />
+			<position x="424.5" y="4291.9" z="370.7" yaw="179.7" />
+		</waypoints>
+	</route>
+	<route id="74" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-29.8" y="4407.6" z="372.5" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-29.8" y="4407.6" z="372.5" yaw="-0.1" />
+			<position x="-17.3" y="4407.5" z="372.5" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="75" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="-1194.1" y="5374.3" z="376.4" yaw="-90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1194.1" y="5374.3" z="376.4" yaw="-90.2" />
+			<position x="-1161.1" y="5323.0" z="376.4" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="76" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="193.6" y="5915.4" z="361.1" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="193.6" y="5915.4" z="361.1" yaw="-179.5" />
+			<position x="147.9" y="5855.3" z="362.1" yaw="270.0" />
+		</waypoints>
+	</route>
+	<route id="77" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3746.5" y="4340.2" z="368.5" yaw="99.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3746.5" y="4340.2" z="368.5" yaw="99.0" />
+			<position x="3709.8" y="4378.6" z="368.4" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="78" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-391.8" y="3773.0" z="368.6" yaw="89.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-391.8" y="3773.0" z="368.6" yaw="89.6" />
+			<position x="-471.8" y="3706.1" z="365.9" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="79" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="-500.0" y="3870.5" z="367.9" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-500.0" y="3870.5" z="367.9" yaw="90.2" />
+			<position x="-547.2" y="3919.3" z="369.7" yaw="179.7" />
+		</waypoints>
+	</route>
+	<route id="80" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1450.9" y="3331.7" z="353.6" yaw="88.4" />
+		</waypoints>
+	</route>
+	<route id="81" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1333.4" y="3694.7" z="356.3" yaw="-11.6" />
+		</waypoints>
+	</route>
+	<route id="82" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-177.2" y="4041.6" z="371.8" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.2" y="4041.6" z="371.8" yaw="89.7" />
+			<position x="-390.3" y="4113.6" z="372.6" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="83" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-390.3" y="4151.4" z="373.0" yaw="90.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-390.3" y="4151.4" z="373.0" yaw="90.0" />
+			<position x="-454.7" y="4192.3" z="373.4" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="84" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_6" type="PedestrianCrossing">
+				<trigger_point x="-70.3" y="3529.4" z="364.2" yaw="-90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-70.3" y="3529.4" z="364.2" yaw="-90.1" />
+			<position x="-179.3" y="3661.3" z="366.1" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="85" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_7" type="PedestrianCrossing">
+				<trigger_point x="-284.5" y="3534.6" z="367.9" yaw="-90.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-284.5" y="3534.6" z="367.9" yaw="-90.4" />
+			<position x="-392.1" y="3736.4" z="368.2" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="86" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="713.4" y="3701.4" z="371.7" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="713.4" y="3701.4" z="371.7" yaw="179.9" />
+			<position x="624.3" y="3808.8" z="371.6" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="87" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="293.5" y="4190.6" z="370.6" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="293.5" y="4190.6" z="370.6" yaw="179.9" />
+			<position x="249.2" y="4319.0" z="371.2" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="88" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="1173.6" y="5531.2" z="370.3" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1173.6" y="5531.2" z="370.3" yaw="89.9" />
+			<position x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="89" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+			<position x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+		</waypoints>
+	</route>
+	<route id="90" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+			<position x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="91" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+			<position x="986.3" y="5536.3" z="370.9" yaw="270.1" />
+		</waypoints>
+	</route>
+	<route id="92" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3033.4" y="4742.3" z="366.8" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3033.4" y="4742.3" z="366.8" yaw="189.2" />
+			<position x="2974.6" y="4612.6" z="365.1" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="93" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="3291.8" y="4259.9" z="364.5" yaw="98.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3291.8" y="4259.9" z="364.5" yaw="98.9" />
+			<position x="3186.3" y="4293.8" z="363.4" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="94" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="3715.1" y="4268.7" z="368.6" yaw="9.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3715.1" y="4268.7" z="368.6" yaw="9.0" />
+			<position x="3747.3" y="4334.9" z="368.5" yaw="99.0" />
+		</waypoints>
+	</route>
+	<route id="95" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="3368.9" y="5225.0" z="368.1" yaw="99.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3368.9" y="5225.0" z="368.1" yaw="99.5" />
+			<position x="3122.4" y="5289.8" z="368.4" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="96" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_6" type="PedestrianCrossing">
+				<trigger_point x="2931.5" y="4728.9" z="366.3" yaw="9.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2931.5" y="4728.9" z="366.3" yaw="9.2" />
+			<position x="2973.9" y="4766.8" z="366.8" yaw="99.6" />
+		</waypoints>
+	</route>
+	<route id="97" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="1749.0" y="5170.5" z="368.5" yaw="89.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1749.0" y="5170.5" z="368.5" yaw="89.6" />
+			<position x="1362.6" y="5454.7" z="370.0" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="98" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3274.1" y="4389.6" z="365.2" yaw="279.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3274.1" y="4389.6" z="365.2" yaw="279.2" />
+			<position x="3314.8" y="4324.5" z="365.1" yaw="9.2" />
+		</waypoints>
+	</route>
+	<route id="99" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="3464.6" y="5046.3" z="367.9" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3464.6" y="5046.3" z="367.9" yaw="189.2" />
+			<position x="3369.1" y="5030.8" z="367.7" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="100" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="3139.5" y="5183.5" z="368.2" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3139.5" y="5183.5" z="368.2" yaw="99.2" />
+			<position x="3139.7" y="5182.2" z="368.2" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="101" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="2595.2" y="4671.5" z="364.6" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2595.2" y="4671.5" z="364.6" yaw="189.2" />
+			<position x="2539.8" y="4599.8" z="363.6" yaw="279.4" />
+		</waypoints>
+	</route>
+	<route id="102" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="2010.8" y="4047.9" z="358.5" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2010.8" y="4047.9" z="358.5" yaw="99.2" />
+			<position x="2015.9" y="4016.1" z="358.1" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="103" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="1098.9" y="4025.1" z="367.1" yaw="279.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1098.9" y="4025.1" z="367.1" yaw="279.0" />
+			<position x="1265.5" y="3989.4" z="364.4" yaw="9.2" />
+		</waypoints>
+	</route>
+	<route id="104" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="983.3" y="3821.3" z="369.7" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="983.3" y="3821.3" z="369.7" yaw="189.2" />
+			<position x="782.6" y="3941.1" z="370.8" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="105" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="461.5" y="4225.6" z="370.7" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="461.5" y="4225.6" z="370.7" yaw="89.7" />
+			<position x="424.5" y="4291.9" z="370.7" yaw="179.7" />
+		</waypoints>
+	</route>
+	<route id="106" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-29.8" y="4407.6" z="372.5" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-29.8" y="4407.6" z="372.5" yaw="-0.1" />
+			<position x="-17.3" y="4407.5" z="372.5" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="107" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="-1194.1" y="5374.3" z="376.4" yaw="-90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1194.1" y="5374.3" z="376.4" yaw="-90.2" />
+			<position x="-1161.1" y="5323.0" z="376.4" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="108" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="193.6" y="5915.4" z="361.1" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="193.6" y="5915.4" z="361.1" yaw="-179.5" />
+			<position x="147.9" y="5855.3" z="362.1" yaw="270.0" />
+		</waypoints>
+	</route>
+	<route id="109" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3746.5" y="4340.2" z="368.5" yaw="99.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3746.5" y="4340.2" z="368.5" yaw="99.0" />
+			<position x="3709.8" y="4378.6" z="368.4" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="110" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-391.8" y="3773.0" z="368.6" yaw="89.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-391.8" y="3773.0" z="368.6" yaw="89.6" />
+			<position x="-471.8" y="3706.1" z="365.9" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="111" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="-500.0" y="3870.5" z="367.9" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-500.0" y="3870.5" z="367.9" yaw="90.2" />
+			<position x="-547.2" y="3919.3" z="369.7" yaw="179.7" />
+		</waypoints>
+	</route>
+	<route id="112" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1553.4" y="3309.4" z="352.1" yaw="270.1" />
+			<position x="-1450.9" y="3331.7" z="353.6" yaw="88.4" />
+		</waypoints>
+	</route>
+	<route id="113" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1320.1" y="3691.8" z="355.6" yaw="-12.7" />
+			<position x="-1333.4" y="3694.7" z="356.3" yaw="-11.6" />
+		</waypoints>
+	</route>
+	<route id="114" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-177.2" y="4041.6" z="371.8" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.2" y="4041.6" z="371.8" yaw="89.7" />
+			<position x="-390.3" y="4113.6" z="372.6" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="115" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="-390.3" y="4151.4" z="373.0" yaw="90.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-390.3" y="4151.4" z="373.0" yaw="90.0" />
+			<position x="-454.7" y="4192.3" z="373.4" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="116" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_6" type="PedestrianCrossing">
+				<trigger_point x="-70.3" y="3529.4" z="364.2" yaw="-90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-70.3" y="3529.4" z="364.2" yaw="-90.1" />
+			<position x="-179.3" y="3661.3" z="366.1" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="117" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_7" type="PedestrianCrossing">
+				<trigger_point x="-284.5" y="3534.6" z="367.9" yaw="-90.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-284.5" y="3534.6" z="367.9" yaw="-90.4" />
+			<position x="-392.1" y="3736.4" z="368.2" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="118" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="713.4" y="3701.4" z="371.7" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="713.4" y="3701.4" z="371.7" yaw="179.9" />
+			<position x="624.3" y="3808.8" z="371.6" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="119" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="293.5" y="4190.6" z="370.6" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="293.5" y="4190.6" z="370.6" yaw="179.9" />
+			<position x="249.2" y="4319.0" z="371.2" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="120" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="1173.6" y="5531.2" z="370.3" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1173.6" y="5531.2" z="370.3" yaw="89.9" />
+			<position x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="121" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1362.0" y="5241.9" z="370.7" yaw="89.8" />
+			<position x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+		</waypoints>
+	</route>
+	<route id="122" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1576.3" y="4507.5" z="365.9" yaw="9.3" />
+			<position x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="123" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1326.5" y="4227.4" z="363.8" yaw="189.2" />
+			<position x="986.3" y="5536.3" z="370.9" yaw="270.1" />
+		</waypoints>
+	</route>
+	<route id="124" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3033.4" y="4742.3" z="366.8" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3033.4" y="4742.3" z="366.8" yaw="189.2" />
+			<position x="2974.6" y="4612.6" z="365.1" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="125" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="3291.8" y="4259.9" z="364.5" yaw="98.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3291.8" y="4259.9" z="364.5" yaw="98.9" />
+			<position x="3186.3" y="4293.8" z="363.4" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="126" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="3715.1" y="4268.7" z="368.6" yaw="9.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3715.1" y="4268.7" z="368.6" yaw="9.0" />
+			<position x="3747.3" y="4334.9" z="368.5" yaw="99.0" />
+		</waypoints>
+	</route>
+	<route id="127" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="3368.9" y="5225.0" z="368.1" yaw="99.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3368.9" y="5225.0" z="368.1" yaw="99.5" />
+			<position x="3122.4" y="5289.8" z="368.4" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="128" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_6" type="PedestrianCrossing">
+				<trigger_point x="2931.5" y="4728.9" z="366.3" yaw="9.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2931.5" y="4728.9" z="366.3" yaw="9.2" />
+			<position x="2973.9" y="4766.8" z="366.8" yaw="99.6" />
+		</waypoints>
+	</route>
+	<route id="129" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="1749.0" y="5170.5" z="368.5" yaw="89.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1749.0" y="5170.5" z="368.5" yaw="89.6" />
+			<position x="1362.6" y="5454.7" z="370.0" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="130" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3274.1" y="4389.6" z="365.2" yaw="279.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3274.1" y="4389.6" z="365.2" yaw="279.2" />
+			<position x="3314.8" y="4324.5" z="365.1" yaw="9.2" />
+		</waypoints>
+	</route>
+	<route id="131" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="3464.6" y="5046.3" z="367.9" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3464.6" y="5046.3" z="367.9" yaw="189.2" />
+			<position x="3369.1" y="5030.8" z="367.7" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="132" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_3" type="PedestrianCrossing">
+				<trigger_point x="3139.5" y="5183.5" z="368.2" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3139.5" y="5183.5" z="368.2" yaw="99.2" />
+			<position x="3139.7" y="5182.2" z="368.2" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="133" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="2595.2" y="4671.5" z="364.6" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2595.2" y="4671.5" z="364.6" yaw="189.2" />
+			<position x="2539.8" y="4599.8" z="363.6" yaw="279.4" />
+		</waypoints>
+	</route>
+	<route id="134" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="2010.8" y="4047.9" z="358.5" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2010.8" y="4047.9" z="358.5" yaw="99.2" />
+			<position x="2015.9" y="4016.1" z="358.1" yaw="99.2" />
+		</waypoints>
+	</route>
+	<route id="135" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="1098.9" y="4025.1" z="367.1" yaw="279.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1098.9" y="4025.1" z="367.1" yaw="279.0" />
+			<position x="1265.5" y="3989.4" z="364.4" yaw="9.2" />
+		</waypoints>
+	</route>
+	<route id="136" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_4" type="PedestrianCrossing">
+				<trigger_point x="983.3" y="3821.3" z="369.7" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="983.3" y="3821.3" z="369.7" yaw="189.2" />
+			<position x="782.6" y="3941.1" z="370.8" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="137" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_5" type="PedestrianCrossing">
+				<trigger_point x="461.5" y="4225.6" z="370.7" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="461.5" y="4225.6" z="370.7" yaw="89.7" />
+			<position x="424.5" y="4291.9" z="370.7" yaw="179.7" />
+		</waypoints>
+	</route>
+	<route id="138" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-29.8" y="4407.6" z="372.5" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-29.8" y="4407.6" z="372.5" yaw="-0.1" />
+			<position x="-17.3" y="4407.5" z="372.5" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="139" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="-1194.1" y="5374.3" z="376.4" yaw="-90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1194.1" y="5374.3" z="376.4" yaw="-90.2" />
+			<position x="-1161.1" y="5323.0" z="376.4" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="140" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="193.6" y="5915.4" z="361.1" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="193.6" y="5915.4" z="361.1" yaw="-179.5" />
+			<position x="147.9" y="5855.3" z="362.1" yaw="270.0" />
+		</waypoints>
+	</route>
+	<route id="141" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="3746.5" y="4340.2" z="368.5" yaw="99.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3746.5" y="4340.2" z="368.5" yaw="99.0" />
+			<position x="3709.8" y="4378.6" z="368.4" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="142" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_1" type="PedestrianCrossing">
+				<trigger_point x="-391.8" y="3773.0" z="368.6" yaw="89.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-391.8" y="3773.0" z="368.6" yaw="89.6" />
+			<position x="-471.8" y="3706.1" z="365.9" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="143" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="PedestrianCrossing_2" type="PedestrianCrossing">
+				<trigger_point x="-500.0" y="3870.5" z="367.9" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-500.0" y="3870.5" z="367.9" yaw="90.2" />
+			<position x="-547.2" y="3919.3" z="369.7" yaw="179.7" />
+		</waypoints>
+	</route>
+</routes>

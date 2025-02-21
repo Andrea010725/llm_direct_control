@@ -1,0 +1,2564 @@
+<routes>
+	<route id="0" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			<position x="225.5" y="6100.9" z="358.1" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="1" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			<position x="-266.2" y="5888.6" z="363.9" yaw="-90.6" />
+		</waypoints>
+	</route>
+	<route id="2" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			<position x="-388.3" y="6101.0" z="358.9" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="3" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			<position x="-281.4" y="5123.2" z="373.7" yaw="66.9" />
+		</waypoints>
+	</route>
+	<route id="4" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			<position x="-965.5" y="3776.6" z="360.7" yaw="136.4" />
+		</waypoints>
+	</route>
+	<route id="5" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			<position x="-1466.8" y="3965.2" z="364.3" yaw="269.7" />
+		</waypoints>
+	</route>
+	<route id="6" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			<position x="225.5" y="6100.9" z="358.1" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="7" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			<position x="-266.2" y="5888.6" z="363.9" yaw="-90.6" />
+		</waypoints>
+	</route>
+	<route id="8" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			<position x="-388.3" y="6101.0" z="358.9" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="9" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			<position x="-281.4" y="5123.2" z="373.7" yaw="66.9" />
+		</waypoints>
+	</route>
+	<route id="10" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			<position x="-965.5" y="3776.6" z="360.7" yaw="136.4" />
+		</waypoints>
+	</route>
+	<route id="11" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			<position x="-1466.8" y="3965.2" z="364.3" yaw="269.7" />
+		</waypoints>
+	</route>
+	<route id="12" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			<position x="225.5" y="6100.9" z="358.1" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="13" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			<position x="-266.2" y="5888.6" z="363.9" yaw="-90.6" />
+		</waypoints>
+	</route>
+	<route id="14" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			<position x="-388.3" y="6101.0" z="358.9" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="15" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			<position x="-281.4" y="5123.2" z="373.7" yaw="66.9" />
+		</waypoints>
+	</route>
+	<route id="16" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			<position x="-965.5" y="3776.6" z="360.7" yaw="136.4" />
+		</waypoints>
+	</route>
+	<route id="17" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			<position x="-1466.8" y="3965.2" z="364.3" yaw="269.7" />
+		</waypoints>
+	</route>
+	<route id="18" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			<position x="225.5" y="6100.9" z="358.1" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="19" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			<position x="-266.2" y="5888.6" z="363.9" yaw="-90.6" />
+		</waypoints>
+	</route>
+	<route id="20" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			<position x="-388.3" y="6101.0" z="358.9" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="21" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			<position x="-281.4" y="5123.2" z="373.7" yaw="66.9" />
+		</waypoints>
+	</route>
+	<route id="22" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			<position x="-965.5" y="3776.6" z="360.7" yaw="136.4" />
+		</waypoints>
+	</route>
+	<route id="23" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			<position x="-1466.8" y="3965.2" z="364.3" yaw="269.7" />
+		</waypoints>
+	</route>
+	<route id="24" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-264.8" y="4191.8" z="373.0" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-264.8" y="4191.8" z="373.0" yaw="179.9" />
+			<position x="-284.4" y="4056.2" z="372.2" yaw="-90.3" />
+		</waypoints>
+	</route>
+	<route id="25" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-177.1" y="4060.1" z="372.0" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.1" y="4060.1" z="372.0" yaw="89.7" />
+			<position x="-252.3" y="4084.7" z="372.4" yaw="179.8" />
+		</waypoints>
+	</route>
+	<route id="26" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="653.2" y="3491.5" z="370.9" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="653.2" y="3491.5" z="370.9" yaw="-0.1" />
+			<position x="674.7" y="3527.3" z="371.5" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="27" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1783.3" y="1999.6" z="360.8" yaw="269.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1783.3" y="1999.6" z="360.8" yaw="269.8" />
+			<position x="1661.4" y="1718.3" z="357.2" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="28" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2104.0" y="1950.2" z="356.5" yaw="-0.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2104.0" y="1950.2" z="356.5" yaw="-0.2" />
+			<position x="2184.8" y="2200.6" z="359.9" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="29" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="1817.3" y="2063.3" z="362.0" yaw="179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1817.3" y="2063.3" z="362.0" yaw="179.8" />
+			<position x="1818.7" y="1951.3" z="360.0" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="30" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_5" type="BlockedIntersection">
+				<trigger_point x="2185.2" y="2494.0" z="365.0" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2185.2" y="2494.0" z="365.0" yaw="90.1" />
+			<position x="2158.1" y="2524.6" z="364.7" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="31" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="2653.2" y="2370.5" z="360.3" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2653.2" y="2370.5" z="360.3" yaw="89.9" />
+			<position x="2599.4" y="2408.6" z="362.3" yaw="179.8" />
+		</waypoints>
+	</route>
+	<route id="32" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2712.7" y="1947.2" z="350.8" yaw="-0.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2712.7" y="1947.2" z="350.8" yaw="-0.5" />
+			<position x="2771.9" y="2074.6" z="356.4" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="33" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2709.7" y="1829.7" z="349.3" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2709.7" y="1829.7" z="349.3" yaw="179.7" />
+			<position x="2804.7" y="1712.2" z="344.2" yaw="-21.8" />
+		</waypoints>
+	</route>
+	<route id="34" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2680.7" y="2408.4" z="359.3" yaw="179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2680.7" y="2408.4" z="359.3" yaw="179.8" />
+			<position x="2655.7" y="2358.4" z="360.3" yaw="269.9" />
+		</waypoints>
+	</route>
+	<route id="35" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="2652.2" y="1683.2" z="346.9" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2652.2" y="1683.2" z="346.9" yaw="89.9" />
+			<position x="2386.2" y="1761.6" z="355.3" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="36" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3521.2" y="-94.3" z="322.6" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3521.2" y="-94.3" z="322.6" yaw="180.0" />
+			<position x="3485.8" y="-196.7" z="323.5" yaw="269.5" />
+		</waypoints>
+	</route>
+	<route id="37" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2395.9" y="-1678.3" z="335.1" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2395.9" y="-1678.3" z="335.1" yaw="179.7" />
+			<position x="2368.8" y="-1603.4" z="336.9" yaw="89.4" />
+		</waypoints>
+	</route>
+	<route id="38" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2400.3" y="-1458.4" z="339.8" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2400.3" y="-1458.4" z="339.8" yaw="180.0" />
+			<position x="2211.7" y="-1681.5" z="339.3" yaw="180.8" />
+		</waypoints>
+	</route>
+	<route id="39" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="747.3" y="-79.0" z="337.4" yaw="0.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="747.3" y="-79.0" z="337.4" yaw="0.0" />
+			<position x="781.7" y="120.7" z="337.3" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="40" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3338.8" y="1638.9" z="350.3" yaw="275.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3338.8" y="1638.9" z="350.3" yaw="275.2" />
+			<position x="-3280.1" y="1609.8" z="348.1" yaw="0.1" />
+		</waypoints>
+	</route>
+	<route id="41" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3100.4" y="5425.7" z="368.7" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3100.4" y="5425.7" z="368.7" yaw="99.2" />
+			<position x="3009.0" y="5442.5" z="369.2" yaw="189.0" />
+		</waypoints>
+	</route>
+	<route id="42" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-467.3" y="3979.1" z="370.3" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-467.3" y="3979.1" z="370.3" yaw="179.9" />
+			<position x="-498.0" y="3961.2" z="369.9" yaw="270.2" />
+		</waypoints>
+	</route>
+	<route id="43" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-820.1" y="6217.6" z="364.9" yaw="269.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-820.1" y="6217.6" z="364.9" yaw="269.9" />
+			<position x="-673.2" y="6231.1" z="360.9" />
+		</waypoints>
+	</route>
+	<route id="44" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3636.0" y="5024.4" z="367.9" yaw="99.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3636.0" y="5024.4" z="367.9" yaw="99.4" />
+			<position x="3165.0" y="5032.5" z="367.7" yaw="99.9" />
+		</waypoints>
+	</route>
+	<route id="45" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2729.5" y="5040.7" z="368.7" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2729.5" y="5040.7" z="368.7" yaw="189.2" />
+			<position x="2720.4" y="4900.2" z="367.5" yaw="279.0" />
+		</waypoints>
+	</route>
+	<route id="46" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1140.5" y="4080.3" z="366.1" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1140.5" y="4080.3" z="366.1" yaw="189.2" />
+			<position x="1095.3" y="4048.1" z="367.0" yaw="279.0" />
+		</waypoints>
+	</route>
+	<route id="47" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+			<position x="617.6" y="4082.9" z="370.9" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="48" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="1688.3" y="4146.4" z="360.4" yaw="99.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1688.3" y="4146.4" z="360.4" yaw="99.3" />
+			<position x="1690.3" y="4134.0" z="360.2" yaw="99.3" />
+		</waypoints>
+	</route>
+	<route id="49" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="420.1" y="4406.6" z="370.6" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="420.1" y="4406.6" z="370.6" yaw="-0.1" />
+			<position x="462.8" y="4441.5" z="370.4" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="50" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2475.6" y="3705.2" z="355.1" yaw="189.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2475.6" y="3705.2" z="355.1" yaw="189.3" />
+			<position x="2449.2" y="3672.0" z="355.0" yaw="279.6" />
+		</waypoints>
+	</route>
+	<route id="51" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="811.3" y="3676.1" z="371.4" yaw="189.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="811.3" y="3676.1" z="371.4" yaw="189.6" />
+			<position x="941.2" y="3541.3" z="370.8" yaw="279.1" />
+		</waypoints>
+	</route>
+	<route id="52" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-495.1" y="4552.0" z="374.6" yaw="269.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-495.1" y="4552.0" z="374.6" yaw="269.9" />
+			<position x="-174.5" y="4457.7" z="373.1" yaw="269.9" />
+		</waypoints>
+	</route>
+	<route id="53" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-177.1" y="4593.9" z="373.2" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.1" y="4593.9" z="373.2" yaw="89.9" />
+			<position x="-201.5" y="4619.5" z="373.4" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="54" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="218.3" y="4407.0" z="371.3" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="218.3" y="4407.0" z="371.3" yaw="-0.1" />
+			<position x="291.6" y="4514.3" z="370.9" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="55" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="205.9" y="5915.5" z="361.1" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="205.9" y="5915.5" z="361.1" yaw="-179.5" />
+			<position x="235.0" y="6103.6" z="358.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="56" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1935.0" y="5823.6" z="368.4" yaw="-0.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1935.0" y="5823.6" z="368.4" yaw="-0.0" />
+			<position x="2343.6" y="5698.6" z="370.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="57" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2214.9" y="2409.6" z="365.0" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2214.9" y="2409.6" z="365.0" yaw="179.9" />
+			<position x="2311.7" y="2064.0" z="359.2" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="58" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2849.0" y="1507.7" z="344.4" yaw="359.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2849.0" y="1507.7" z="344.4" yaw="359.9" />
+			<position x="2522.7" y="1408.9" z="355.4" yaw="247.6" />
+		</waypoints>
+	</route>
+	<route id="59" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3993.7" y="4277.9" z="368.8" yaw="99.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3993.7" y="4277.9" z="368.8" yaw="99.0" />
+			<position x="3912.1" y="4296.9" z="368.8" yaw="189.0" />
+		</waypoints>
+	</route>
+	<route id="60" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2522.9" y="4642.5" z="364.2" yaw="99.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2522.9" y="4642.5" z="364.2" yaw="99.4" />
+			<position x="2458.4" y="4649.2" z="364.5" yaw="189.3" />
+		</waypoints>
+	</route>
+	<route id="61" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-710.9" y="3726.7" z="366.9" yaw="-90.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-710.9" y="3726.7" z="366.9" yaw="-90.0" />
+			<position x="-532.2" y="3706.1" z="365.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="62" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2375.8" y="-844.0" z="338.9" yaw="269.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2375.8" y="-844.0" z="338.9" yaw="269.8" />
+			<position x="2495.4" y="-906.9" z="335.0" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="63" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2818.2" y="-94.2" z="326.8" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2818.2" y="-94.2" z="326.8" yaw="180.0" />
+			<position x="2783.3" y="-582.2" z="332.3" yaw="270.0" />
+		</waypoints>
+	</route>
+	<route id="64" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3109.7" y="3486.4" z="357.0" yaw="248.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3109.7" y="3486.4" z="357.0" yaw="248.2" />
+			<position x="-3043.0" y="3414.8" z="354.2" />
+		</waypoints>
+	</route>
+	<route id="65" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3251.5" y="3141.7" z="359.5" yaw="68.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3251.5" y="3141.7" z="359.5" yaw="68.2" />
+			<position x="-3302.4" y="3215.4" z="359.5" yaw="159.0" />
+		</waypoints>
+	</route>
+	<route id="66" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-3102.7" y="3503.8" z="356.8" yaw="248.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3102.7" y="3503.8" z="356.8" yaw="248.2" />
+			<position x="-3028.4" y="3408.3" z="353.5" yaw="-24.2" />
+		</waypoints>
+	</route>
+	<route id="67" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-3089.6" y="3432.5" z="356.2" yaw="155.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3089.6" y="3432.5" z="356.2" yaw="155.8" />
+			<position x="-3146.9" y="3393.4" z="357.7" />
+		</waypoints>
+	</route>
+	<route id="68" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-1732.6" y="1605.7" z="328.2" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1732.6" y="1605.7" z="328.2" yaw="-179.5" />
+			<position x="-1782.7" y="1504.8" z="330.1" yaw="238.2" />
+		</waypoints>
+	</route>
+	<route id="69" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3079.9" y="589.6" z="320.3" yaw="91.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3079.9" y="589.6" z="320.3" yaw="91.4" />
+			<position x="-3147.2" y="618.6" z="323.3" yaw="174.9" />
+		</waypoints>
+	</route>
+	<route id="70" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-3623.4" y="411.4" z="333.2" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3623.4" y="411.4" z="333.2" yaw="-12.7" />
+			<position x="-3592.7" y="436.2" z="332.2" yaw="74.8" />
+		</waypoints>
+	</route>
+	<route id="71" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-3342.6" y="1641.5" z="350.3" yaw="95.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3342.6" y="1641.5" z="350.3" yaw="95.9" />
+			<position x="-3403.6" y="1668.2" z="351.5" yaw="188.0" />
+		</waypoints>
+	</route>
+	<route id="72" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-3460.7" y="1833.2" z="346.8" yaw="329.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3460.7" y="1833.2" z="346.8" yaw="329.0" />
+			<position x="-3404.5" y="1876.6" z="348.9" />
+		</waypoints>
+	</route>
+	<route id="73" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			<position x="225.5" y="6100.9" z="358.1" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="74" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			<position x="-266.2" y="5888.6" z="363.9" yaw="-90.6" />
+		</waypoints>
+	</route>
+	<route id="75" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			<position x="-388.3" y="6101.0" z="358.9" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="76" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			<position x="-281.4" y="5123.2" z="373.7" yaw="66.9" />
+		</waypoints>
+	</route>
+	<route id="77" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			<position x="-965.5" y="3776.6" z="360.7" yaw="136.4" />
+		</waypoints>
+	</route>
+	<route id="78" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			<position x="-1466.8" y="3965.2" z="364.3" yaw="269.7" />
+		</waypoints>
+	</route>
+	<route id="79" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-264.8" y="4191.8" z="373.0" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-264.8" y="4191.8" z="373.0" yaw="179.9" />
+			<position x="-284.4" y="4056.2" z="372.2" yaw="-90.3" />
+		</waypoints>
+	</route>
+	<route id="80" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-177.1" y="4060.1" z="372.0" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.1" y="4060.1" z="372.0" yaw="89.7" />
+			<position x="-252.3" y="4084.7" z="372.4" yaw="179.8" />
+		</waypoints>
+	</route>
+	<route id="81" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="653.2" y="3491.5" z="370.9" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="653.2" y="3491.5" z="370.9" yaw="-0.1" />
+			<position x="674.7" y="3527.3" z="371.5" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="82" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1783.3" y="1999.6" z="360.8" yaw="269.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1783.3" y="1999.6" z="360.8" yaw="269.8" />
+			<position x="1661.4" y="1718.3" z="357.2" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="83" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2104.0" y="1950.2" z="356.5" yaw="-0.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2104.0" y="1950.2" z="356.5" yaw="-0.2" />
+			<position x="2184.8" y="2200.6" z="359.9" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="84" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="1817.3" y="2063.3" z="362.0" yaw="179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1817.3" y="2063.3" z="362.0" yaw="179.8" />
+			<position x="1818.7" y="1951.3" z="360.0" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="85" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_5" type="BlockedIntersection">
+				<trigger_point x="2185.2" y="2494.0" z="365.0" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2185.2" y="2494.0" z="365.0" yaw="90.1" />
+			<position x="2158.1" y="2524.6" z="364.7" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="86" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="2653.2" y="2370.5" z="360.3" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2653.2" y="2370.5" z="360.3" yaw="89.9" />
+			<position x="2599.4" y="2408.6" z="362.3" yaw="179.8" />
+		</waypoints>
+	</route>
+	<route id="87" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2712.7" y="1947.2" z="350.8" yaw="-0.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2712.7" y="1947.2" z="350.8" yaw="-0.5" />
+			<position x="2771.9" y="2074.6" z="356.4" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="88" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2709.7" y="1829.7" z="349.3" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2709.7" y="1829.7" z="349.3" yaw="179.7" />
+			<position x="2804.7" y="1712.2" z="344.2" yaw="-21.8" />
+		</waypoints>
+	</route>
+	<route id="89" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2680.7" y="2408.4" z="359.3" yaw="179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2680.7" y="2408.4" z="359.3" yaw="179.8" />
+			<position x="2655.7" y="2358.4" z="360.3" yaw="269.9" />
+		</waypoints>
+	</route>
+	<route id="90" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="2652.2" y="1683.2" z="346.9" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2652.2" y="1683.2" z="346.9" yaw="89.9" />
+			<position x="2386.2" y="1761.6" z="355.3" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="91" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3521.2" y="-94.3" z="322.6" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3521.2" y="-94.3" z="322.6" yaw="180.0" />
+			<position x="3485.8" y="-196.7" z="323.5" yaw="269.5" />
+		</waypoints>
+	</route>
+	<route id="92" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2395.9" y="-1678.3" z="335.1" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2395.9" y="-1678.3" z="335.1" yaw="179.7" />
+			<position x="2368.8" y="-1603.4" z="336.9" yaw="89.4" />
+		</waypoints>
+	</route>
+	<route id="93" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2400.3" y="-1458.4" z="339.8" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2400.3" y="-1458.4" z="339.8" yaw="180.0" />
+			<position x="2211.7" y="-1681.5" z="339.3" yaw="180.8" />
+		</waypoints>
+	</route>
+	<route id="94" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="747.3" y="-79.0" z="337.4" yaw="0.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="747.3" y="-79.0" z="337.4" yaw="0.0" />
+			<position x="781.7" y="120.7" z="337.3" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="95" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3338.8" y="1638.9" z="350.3" yaw="275.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3338.8" y="1638.9" z="350.3" yaw="275.2" />
+			<position x="-3280.1" y="1609.8" z="348.1" yaw="0.1" />
+		</waypoints>
+	</route>
+	<route id="96" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3100.4" y="5425.7" z="368.7" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3100.4" y="5425.7" z="368.7" yaw="99.2" />
+			<position x="3009.0" y="5442.5" z="369.2" yaw="189.0" />
+		</waypoints>
+	</route>
+	<route id="97" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-467.3" y="3979.1" z="370.3" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-467.3" y="3979.1" z="370.3" yaw="179.9" />
+			<position x="-498.0" y="3961.2" z="369.9" yaw="270.2" />
+		</waypoints>
+	</route>
+	<route id="98" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-820.1" y="6217.6" z="364.9" yaw="269.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-820.1" y="6217.6" z="364.9" yaw="269.9" />
+			<position x="-673.2" y="6231.1" z="360.9" />
+		</waypoints>
+	</route>
+	<route id="99" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3636.0" y="5024.4" z="367.9" yaw="99.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3636.0" y="5024.4" z="367.9" yaw="99.4" />
+			<position x="3165.0" y="5032.5" z="367.7" yaw="99.9" />
+		</waypoints>
+	</route>
+	<route id="100" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2729.5" y="5040.7" z="368.7" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2729.5" y="5040.7" z="368.7" yaw="189.2" />
+			<position x="2720.4" y="4900.2" z="367.5" yaw="279.0" />
+		</waypoints>
+	</route>
+	<route id="101" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1140.5" y="4080.3" z="366.1" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1140.5" y="4080.3" z="366.1" yaw="189.2" />
+			<position x="1095.3" y="4048.1" z="367.0" yaw="279.0" />
+		</waypoints>
+	</route>
+	<route id="102" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+			<position x="617.6" y="4082.9" z="370.9" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="103" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="1688.3" y="4146.4" z="360.4" yaw="99.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1688.3" y="4146.4" z="360.4" yaw="99.3" />
+			<position x="1690.3" y="4134.0" z="360.2" yaw="99.3" />
+		</waypoints>
+	</route>
+	<route id="104" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="420.1" y="4406.6" z="370.6" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="420.1" y="4406.6" z="370.6" yaw="-0.1" />
+			<position x="462.8" y="4441.5" z="370.4" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="105" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2475.6" y="3705.2" z="355.1" yaw="189.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2475.6" y="3705.2" z="355.1" yaw="189.3" />
+			<position x="2449.2" y="3672.0" z="355.0" yaw="279.6" />
+		</waypoints>
+	</route>
+	<route id="106" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="811.3" y="3676.1" z="371.4" yaw="189.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="811.3" y="3676.1" z="371.4" yaw="189.6" />
+			<position x="941.2" y="3541.3" z="370.8" yaw="279.1" />
+		</waypoints>
+	</route>
+	<route id="107" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-495.1" y="4552.0" z="374.6" yaw="269.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-495.1" y="4552.0" z="374.6" yaw="269.9" />
+			<position x="-174.5" y="4457.7" z="373.1" yaw="269.9" />
+		</waypoints>
+	</route>
+	<route id="108" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-177.1" y="4593.9" z="373.2" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.1" y="4593.9" z="373.2" yaw="89.9" />
+			<position x="-201.5" y="4619.5" z="373.4" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="109" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="218.3" y="4407.0" z="371.3" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="218.3" y="4407.0" z="371.3" yaw="-0.1" />
+			<position x="291.6" y="4514.3" z="370.9" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="110" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="205.9" y="5915.5" z="361.1" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="205.9" y="5915.5" z="361.1" yaw="-179.5" />
+			<position x="235.0" y="6103.6" z="358.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="111" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1935.0" y="5823.6" z="368.4" yaw="-0.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1935.0" y="5823.6" z="368.4" yaw="-0.0" />
+			<position x="2343.6" y="5698.6" z="370.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="112" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2214.9" y="2409.6" z="365.0" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2214.9" y="2409.6" z="365.0" yaw="179.9" />
+			<position x="2311.7" y="2064.0" z="359.2" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="113" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2849.0" y="1507.7" z="344.4" yaw="359.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2849.0" y="1507.7" z="344.4" yaw="359.9" />
+			<position x="2522.7" y="1408.9" z="355.4" yaw="247.6" />
+		</waypoints>
+	</route>
+	<route id="114" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3993.7" y="4277.9" z="368.8" yaw="99.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3993.7" y="4277.9" z="368.8" yaw="99.0" />
+			<position x="3912.1" y="4296.9" z="368.8" yaw="189.0" />
+		</waypoints>
+	</route>
+	<route id="115" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2522.9" y="4642.5" z="364.2" yaw="99.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2522.9" y="4642.5" z="364.2" yaw="99.4" />
+			<position x="2458.4" y="4649.2" z="364.5" yaw="189.3" />
+		</waypoints>
+	</route>
+	<route id="116" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-710.9" y="3726.7" z="366.9" yaw="-90.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-710.9" y="3726.7" z="366.9" yaw="-90.0" />
+			<position x="-532.2" y="3706.1" z="365.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="117" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2375.8" y="-844.0" z="338.9" yaw="269.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2375.8" y="-844.0" z="338.9" yaw="269.8" />
+			<position x="2495.4" y="-906.9" z="335.0" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="118" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2818.2" y="-94.2" z="326.8" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2818.2" y="-94.2" z="326.8" yaw="180.0" />
+			<position x="2783.3" y="-582.2" z="332.3" yaw="270.0" />
+		</waypoints>
+	</route>
+	<route id="119" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3109.7" y="3486.4" z="357.0" yaw="248.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3109.7" y="3486.4" z="357.0" yaw="248.2" />
+			<position x="-3043.0" y="3414.8" z="354.2" />
+		</waypoints>
+	</route>
+	<route id="120" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3251.5" y="3141.7" z="359.5" yaw="68.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3251.5" y="3141.7" z="359.5" yaw="68.2" />
+			<position x="-3302.4" y="3215.4" z="359.5" yaw="159.0" />
+		</waypoints>
+	</route>
+	<route id="121" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-3102.7" y="3503.8" z="356.8" yaw="248.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3102.7" y="3503.8" z="356.8" yaw="248.2" />
+			<position x="-3028.4" y="3408.3" z="353.5" yaw="-24.2" />
+		</waypoints>
+	</route>
+	<route id="122" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-3089.6" y="3432.5" z="356.2" yaw="155.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3089.6" y="3432.5" z="356.2" yaw="155.8" />
+			<position x="-3146.9" y="3393.4" z="357.7" />
+		</waypoints>
+	</route>
+	<route id="123" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-1732.6" y="1605.7" z="328.2" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1732.6" y="1605.7" z="328.2" yaw="-179.5" />
+			<position x="-1782.7" y="1504.8" z="330.1" yaw="238.2" />
+		</waypoints>
+	</route>
+	<route id="124" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3079.9" y="589.6" z="320.3" yaw="91.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3079.9" y="589.6" z="320.3" yaw="91.4" />
+			<position x="-3147.2" y="618.6" z="323.3" yaw="174.9" />
+		</waypoints>
+	</route>
+	<route id="125" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-3623.4" y="411.4" z="333.2" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3623.4" y="411.4" z="333.2" yaw="-12.7" />
+			<position x="-3592.7" y="436.2" z="332.2" yaw="74.8" />
+		</waypoints>
+	</route>
+	<route id="126" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-3342.6" y="1641.5" z="350.3" yaw="95.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3342.6" y="1641.5" z="350.3" yaw="95.9" />
+			<position x="-3403.6" y="1668.2" z="351.5" yaw="188.0" />
+		</waypoints>
+	</route>
+	<route id="127" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-3460.7" y="1833.2" z="346.8" yaw="329.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3460.7" y="1833.2" z="346.8" yaw="329.0" />
+			<position x="-3404.5" y="1876.6" z="348.9" />
+		</waypoints>
+	</route>
+	<route id="128" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="321.2" y="6161.7" z="358.1" yaw="144.8" />
+			<position x="225.5" y="6100.9" z="358.1" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="129" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-237.1" y="6101.0" z="358.1" yaw="180.0" />
+			<position x="-266.2" y="5888.6" z="363.9" yaw="-90.6" />
+		</waypoints>
+	</route>
+	<route id="130" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-369.8" y="6078.6" z="359.2" yaw="90.2" />
+			<position x="-388.3" y="6101.0" z="358.9" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="131" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-311.5" y="5113.7" z="373.9" yaw="-49.2" />
+			<position x="-281.4" y="5123.2" z="373.7" yaw="66.9" />
+		</waypoints>
+	</route>
+	<route id="132" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-831.0" y="3738.7" z="365.4" yaw="89.9" />
+			<position x="-965.5" y="3776.6" z="360.7" yaw="136.4" />
+		</waypoints>
+	</route>
+	<route id="133" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1441.4" y="4064.8" z="363.8" yaw="-179.8" />
+			<position x="-1466.8" y="3965.2" z="364.3" yaw="269.7" />
+		</waypoints>
+	</route>
+	<route id="134" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-264.8" y="4191.8" z="373.0" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-264.8" y="4191.8" z="373.0" yaw="179.9" />
+			<position x="-284.4" y="4056.2" z="372.2" yaw="-90.3" />
+		</waypoints>
+	</route>
+	<route id="135" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-177.1" y="4060.1" z="372.0" yaw="89.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.1" y="4060.1" z="372.0" yaw="89.7" />
+			<position x="-252.3" y="4084.7" z="372.4" yaw="179.8" />
+		</waypoints>
+	</route>
+	<route id="136" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="653.2" y="3491.5" z="370.9" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="653.2" y="3491.5" z="370.9" yaw="-0.1" />
+			<position x="674.7" y="3527.3" z="371.5" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="137" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1783.3" y="1999.6" z="360.8" yaw="269.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1783.3" y="1999.6" z="360.8" yaw="269.8" />
+			<position x="1661.4" y="1718.3" z="357.2" yaw="180.0" />
+		</waypoints>
+	</route>
+	<route id="138" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2104.0" y="1950.2" z="356.5" yaw="-0.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2104.0" y="1950.2" z="356.5" yaw="-0.2" />
+			<position x="2184.8" y="2200.6" z="359.9" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="139" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="1817.3" y="2063.3" z="362.0" yaw="179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1817.3" y="2063.3" z="362.0" yaw="179.8" />
+			<position x="1818.7" y="1951.3" z="360.0" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="140" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_5" type="BlockedIntersection">
+				<trigger_point x="2185.2" y="2494.0" z="365.0" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2185.2" y="2494.0" z="365.0" yaw="90.1" />
+			<position x="2158.1" y="2524.6" z="364.7" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="141" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="2653.2" y="2370.5" z="360.3" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2653.2" y="2370.5" z="360.3" yaw="89.9" />
+			<position x="2599.4" y="2408.6" z="362.3" yaw="179.8" />
+		</waypoints>
+	</route>
+	<route id="142" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2712.7" y="1947.2" z="350.8" yaw="-0.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2712.7" y="1947.2" z="350.8" yaw="-0.5" />
+			<position x="2771.9" y="2074.6" z="356.4" yaw="89.8" />
+		</waypoints>
+	</route>
+	<route id="143" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2709.7" y="1829.7" z="349.3" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2709.7" y="1829.7" z="349.3" yaw="179.7" />
+			<position x="2804.7" y="1712.2" z="344.2" yaw="-21.8" />
+		</waypoints>
+	</route>
+	<route id="144" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2680.7" y="2408.4" z="359.3" yaw="179.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2680.7" y="2408.4" z="359.3" yaw="179.8" />
+			<position x="2655.7" y="2358.4" z="360.3" yaw="269.9" />
+		</waypoints>
+	</route>
+	<route id="145" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="2652.2" y="1683.2" z="346.9" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2652.2" y="1683.2" z="346.9" yaw="89.9" />
+			<position x="2386.2" y="1761.6" z="355.3" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="146" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3521.2" y="-94.3" z="322.6" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3521.2" y="-94.3" z="322.6" yaw="180.0" />
+			<position x="3485.8" y="-196.7" z="323.5" yaw="269.5" />
+		</waypoints>
+	</route>
+	<route id="147" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="2395.9" y="-1678.3" z="335.1" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2395.9" y="-1678.3" z="335.1" yaw="179.7" />
+			<position x="2368.8" y="-1603.4" z="336.9" yaw="89.4" />
+		</waypoints>
+	</route>
+	<route id="148" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2400.3" y="-1458.4" z="339.8" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2400.3" y="-1458.4" z="339.8" yaw="180.0" />
+			<position x="2211.7" y="-1681.5" z="339.3" yaw="180.8" />
+		</waypoints>
+	</route>
+	<route id="149" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="747.3" y="-79.0" z="337.4" yaw="0.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="747.3" y="-79.0" z="337.4" yaw="0.0" />
+			<position x="781.7" y="120.7" z="337.3" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="150" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3338.8" y="1638.9" z="350.3" yaw="275.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3338.8" y="1638.9" z="350.3" yaw="275.2" />
+			<position x="-3280.1" y="1609.8" z="348.1" yaw="0.1" />
+		</waypoints>
+	</route>
+	<route id="151" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3100.4" y="5425.7" z="368.7" yaw="99.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3100.4" y="5425.7" z="368.7" yaw="99.2" />
+			<position x="3009.0" y="5442.5" z="369.2" yaw="189.0" />
+		</waypoints>
+	</route>
+	<route id="152" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-467.3" y="3979.1" z="370.3" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-467.3" y="3979.1" z="370.3" yaw="179.9" />
+			<position x="-498.0" y="3961.2" z="369.9" yaw="270.2" />
+		</waypoints>
+	</route>
+	<route id="153" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-820.1" y="6217.6" z="364.9" yaw="269.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-820.1" y="6217.6" z="364.9" yaw="269.9" />
+			<position x="-673.2" y="6231.1" z="360.9" />
+		</waypoints>
+	</route>
+	<route id="154" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3636.0" y="5024.4" z="367.9" yaw="99.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3636.0" y="5024.4" z="367.9" yaw="99.4" />
+			<position x="3165.0" y="5032.5" z="367.7" yaw="99.9" />
+		</waypoints>
+	</route>
+	<route id="155" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2729.5" y="5040.7" z="368.7" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2729.5" y="5040.7" z="368.7" yaw="189.2" />
+			<position x="2720.4" y="4900.2" z="367.5" yaw="279.0" />
+		</waypoints>
+	</route>
+	<route id="156" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1140.5" y="4080.3" z="366.1" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1140.5" y="4080.3" z="366.1" yaw="189.2" />
+			<position x="1095.3" y="4048.1" z="367.0" yaw="279.0" />
+		</waypoints>
+	</route>
+	<route id="157" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+			<position x="617.6" y="4082.9" z="370.9" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="158" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="1688.3" y="4146.4" z="360.4" yaw="99.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1688.3" y="4146.4" z="360.4" yaw="99.3" />
+			<position x="1690.3" y="4134.0" z="360.2" yaw="99.3" />
+		</waypoints>
+	</route>
+	<route id="159" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="420.1" y="4406.6" z="370.6" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="420.1" y="4406.6" z="370.6" yaw="-0.1" />
+			<position x="462.8" y="4441.5" z="370.4" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="160" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2475.6" y="3705.2" z="355.1" yaw="189.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2475.6" y="3705.2" z="355.1" yaw="189.3" />
+			<position x="2449.2" y="3672.0" z="355.0" yaw="279.6" />
+		</waypoints>
+	</route>
+	<route id="161" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="811.3" y="3676.1" z="371.4" yaw="189.6" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="811.3" y="3676.1" z="371.4" yaw="189.6" />
+			<position x="941.2" y="3541.3" z="370.8" yaw="279.1" />
+		</waypoints>
+	</route>
+	<route id="162" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-495.1" y="4552.0" z="374.6" yaw="269.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-495.1" y="4552.0" z="374.6" yaw="269.9" />
+			<position x="-174.5" y="4457.7" z="373.1" yaw="269.9" />
+		</waypoints>
+	</route>
+	<route id="163" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-177.1" y="4593.9" z="373.2" yaw="89.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-177.1" y="4593.9" z="373.2" yaw="89.9" />
+			<position x="-201.5" y="4619.5" z="373.4" yaw="179.9" />
+		</waypoints>
+	</route>
+	<route id="164" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="218.3" y="4407.0" z="371.3" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="218.3" y="4407.0" z="371.3" yaw="-0.1" />
+			<position x="291.6" y="4514.3" z="370.9" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="165" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="205.9" y="5915.5" z="361.1" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="205.9" y="5915.5" z="361.1" yaw="-179.5" />
+			<position x="235.0" y="6103.6" z="358.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="166" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="1935.0" y="5823.6" z="368.4" yaw="-0.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1935.0" y="5823.6" z="368.4" yaw="-0.0" />
+			<position x="2343.6" y="5698.6" z="370.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="167" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2214.9" y="2409.6" z="365.0" yaw="179.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2214.9" y="2409.6" z="365.0" yaw="179.9" />
+			<position x="2311.7" y="2064.0" z="359.2" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="168" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2849.0" y="1507.7" z="344.4" yaw="359.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2849.0" y="1507.7" z="344.4" yaw="359.9" />
+			<position x="2522.7" y="1408.9" z="355.4" yaw="247.6" />
+		</waypoints>
+	</route>
+	<route id="169" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="3993.7" y="4277.9" z="368.8" yaw="99.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="3993.7" y="4277.9" z="368.8" yaw="99.0" />
+			<position x="3912.1" y="4296.9" z="368.8" yaw="189.0" />
+		</waypoints>
+	</route>
+	<route id="170" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2522.9" y="4642.5" z="364.2" yaw="99.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2522.9" y="4642.5" z="364.2" yaw="99.4" />
+			<position x="2458.4" y="4649.2" z="364.5" yaw="189.3" />
+		</waypoints>
+	</route>
+	<route id="171" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-710.9" y="3726.7" z="366.9" yaw="-90.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-710.9" y="3726.7" z="366.9" yaw="-90.0" />
+			<position x="-532.2" y="3706.1" z="365.1" yaw="-0.0" />
+		</waypoints>
+	</route>
+	<route id="172" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="2375.8" y="-844.0" z="338.9" yaw="269.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2375.8" y="-844.0" z="338.9" yaw="269.8" />
+			<position x="2495.4" y="-906.9" z="335.0" yaw="-0.2" />
+		</waypoints>
+	</route>
+	<route id="173" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="2818.2" y="-94.2" z="326.8" yaw="180.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2818.2" y="-94.2" z="326.8" yaw="180.0" />
+			<position x="2783.3" y="-582.2" z="332.3" yaw="270.0" />
+		</waypoints>
+	</route>
+	<route id="174" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3109.7" y="3486.4" z="357.0" yaw="248.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3109.7" y="3486.4" z="357.0" yaw="248.2" />
+			<position x="-3043.0" y="3414.8" z="354.2" />
+		</waypoints>
+	</route>
+	<route id="175" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3251.5" y="3141.7" z="359.5" yaw="68.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3251.5" y="3141.7" z="359.5" yaw="68.2" />
+			<position x="-3302.4" y="3215.4" z="359.5" yaw="159.0" />
+		</waypoints>
+	</route>
+	<route id="176" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-3102.7" y="3503.8" z="356.8" yaw="248.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3102.7" y="3503.8" z="356.8" yaw="248.2" />
+			<position x="-3028.4" y="3408.3" z="353.5" yaw="-24.2" />
+		</waypoints>
+	</route>
+	<route id="177" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-3089.6" y="3432.5" z="356.2" yaw="155.8" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3089.6" y="3432.5" z="356.2" yaw="155.8" />
+			<position x="-3146.9" y="3393.4" z="357.7" />
+		</waypoints>
+	</route>
+	<route id="178" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-1732.6" y="1605.7" z="328.2" yaw="-179.5" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-1732.6" y="1605.7" z="328.2" yaw="-179.5" />
+			<position x="-1782.7" y="1504.8" z="330.1" yaw="238.2" />
+		</waypoints>
+	</route>
+	<route id="179" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_1" type="BlockedIntersection">
+				<trigger_point x="-3079.9" y="589.6" z="320.3" yaw="91.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3079.9" y="589.6" z="320.3" yaw="91.4" />
+			<position x="-3147.2" y="618.6" z="323.3" yaw="174.9" />
+		</waypoints>
+	</route>
+	<route id="180" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_4" type="BlockedIntersection">
+				<trigger_point x="-3623.4" y="411.4" z="333.2" yaw="-12.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3623.4" y="411.4" z="333.2" yaw="-12.7" />
+			<position x="-3592.7" y="436.2" z="332.2" yaw="74.8" />
+		</waypoints>
+	</route>
+	<route id="181" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_3" type="BlockedIntersection">
+				<trigger_point x="-3342.6" y="1641.5" z="350.3" yaw="95.9" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3342.6" y="1641.5" z="350.3" yaw="95.9" />
+			<position x="-3403.6" y="1668.2" z="351.5" yaw="188.0" />
+		</waypoints>
+	</route>
+	<route id="182" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="BlockedIntersection_2" type="BlockedIntersection">
+				<trigger_point x="-3460.7" y="1833.2" z="346.8" yaw="329.0" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-3460.7" y="1833.2" z="346.8" yaw="329.0" />
+			<position x="-3404.5" y="1876.6" z="348.9" />
+		</waypoints>
+	</route>
+</routes>

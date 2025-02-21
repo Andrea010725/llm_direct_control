@@ -1,0 +1,1571 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="125.50853729248047" y="-3.105781078338623" yaw="-179.14419555664062" z="0.08261441439390182"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="125.50853729248047" y="-3.105781078338623" yaw="-179.14419555664062" z="0.08261441439390182"/>
+         <position x="123.5087661743164" y="-3.135653018951416" yaw="-179.14419555664062" z="0.088038869202137"/>
+      </waypoints>
+   </route>
+   <route id="1" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="61.712127685546875" y="-202.95556640625" yaw="-178.56044006347656" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="61.712127685546875" y="-202.95556640625" yaw="-178.56044006347656" z="0.0"/>
+         <position x="59.71276092529297" y="-203.0058135986328" yaw="-178.56044006347656" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="2" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="101.51171875" y="4.536656379699707" yaw="0.855804443359375" z="0.13301999866962433"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="101.51171875" y="4.536656379699707" yaw="0.855804443359375" z="0.13301999866962433"/>
+         <position x="103.5114974975586" y="4.5665283203125" yaw="0.855804443359375" z="0.13191939890384674"/>
+      </waypoints>
+   </route>
+   <route id="3" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="4.992646217346191" y="-79.90499877929688" yaw="-88.58645629882812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="4.992646217346191" y="-79.90499877929688" yaw="-88.58645629882812" z="0.0"/>
+         <position x="5.041982650756836" y="-81.90438842773438" yaw="-88.58645629882812" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="4" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="239.24215698242188" y="118.36750030517578" yaw="271.3931884765625" z="0.6692150235176086"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="239.24215698242188" y="118.36750030517578" yaw="271.3931884765625" z="0.6692150235176086"/>
+         <position x="239.29078674316406" y="116.36808776855469" yaw="271.3931884765625" z="0.6282593607902527"/>
+      </waypoints>
+   </route>
+   <route id="5" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="195.270751953125" y="-2.06370210647583" yaw="-179.14419555664062" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="195.270751953125" y="-2.06370210647583" yaw="-179.14419555664062" z="0.0"/>
+         <position x="193.27096557617188" y="-2.093574047088623" yaw="-179.14419555664062" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="6" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-78.07613372802734" y="-77.42776489257812" yaw="269.84375" z="-0.8641320466995239"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-78.07613372802734" y="-77.42776489257812" yaw="269.84375" z="-0.8641320466995239"/>
+         <position x="-78.08158874511719" y="-79.42774963378906" yaw="269.84375" z="-0.8572145104408264"/>
+      </waypoints>
+   </route>
+   <route id="7" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-84.63709259033203" y="83.56072998046875" yaw="89.84373474121094" z="0.6554161310195923"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-84.63709259033203" y="83.56072998046875" yaw="89.84373474121094" z="0.6554161310195923"/>
+         <position x="-84.63163757324219" y="85.56072235107422" yaw="89.84373474121094" z="0.6200742125511169"/>
+      </waypoints>
+   </route>
+   <route id="8" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-73.76505279541016" y="-196.7862091064453" yaw="-223.6971435546875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-73.76505279541016" y="-196.7862091064453" yaw="-223.6971435546875" z="0.0"/>
+         <position x="-75.42772674560547" y="-195.076416015625" yaw="-227.90391540527344" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="9" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-70.68297576904297" y="181.33216857910156" yaw="235.84742736816406" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-70.68297576904297" y="181.33216857910156" yaw="235.84742736816406" z="0.0"/>
+         <position x="-71.65272521972656" y="179.83688354492188" yaw="238.22283935546875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="10" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-54.27429962158203" y="-198.61398315429688" yaw="-6.6563720703125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-54.27429962158203" y="-198.61398315429688" yaw="-6.6563720703125" z="0.0"/>
+         <position x="-52.40911102294922" y="-198.7624969482422" yaw="-2.4495697021484375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="11" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-77.68940734863281" y="64.37171173095703" yaw="269.84375" z="0.8248553276062012"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-77.68940734863281" y="64.37171173095703" yaw="269.84375" z="0.8248553276062012"/>
+         <position x="-77.69486236572266" y="62.37172317504883" yaw="269.84375" z="0.8108844757080078"/>
+      </waypoints>
+   </route>
+   <route id="12" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-84.98204040527344" y="-42.91879653930664" yaw="89.84373474121094" z="-0.4724501669406891"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-84.98204040527344" y="-42.91879653930664" yaw="89.84373474121094" z="-0.4724501669406891"/>
+         <position x="-84.9765853881836" y="-40.91880416870117" yaw="89.84373474121094" z="-0.4431418478488922"/>
+      </waypoints>
+   </route>
+   <route id="13" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="134.82904052734375" y="-201.1181182861328" yaw="-178.56044006347656" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="134.82904052734375" y="-201.1181182861328" yaw="-178.56044006347656" z="0.0"/>
+         <position x="132.8296661376953" y="-201.16836547851562" yaw="-178.56044006347656" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="14" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="236.66738891601562" y="-63.668914794921875" yaw="91.39320373535156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="236.66738891601562" y="-63.668914794921875" yaw="91.39320373535156" z="0.0"/>
+         <position x="236.61875915527344" y="-61.66950225830078" yaw="91.39320373535156" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="15" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="51.65997314453125" y="196.90216064453125" yaw="179.85702514648438" z="0.23566600680351257"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="51.65997314453125" y="196.90216064453125" yaw="179.85702514648438" z="0.23566600680351257"/>
+         <position x="49.65998077392578" y="196.9071502685547" yaw="179.85702514648438" z="0.19975678622722626"/>
+      </waypoints>
+   </route>
+   <route id="16" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="31.635713577270508" y="-196.7091827392578" yaw="1.4395599365234375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="31.635713577270508" y="-196.7091827392578" yaw="1.4395599365234375" z="0.0"/>
+         <position x="33.63507843017578" y="-196.658935546875" yaw="1.4395599365234375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="17" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="212.13414001464844" y="-202.17921447753906" yaw="199.010498046875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="212.13414001464844" y="-202.17921447753906" yaw="199.010498046875" z="0.0"/>
+         <position x="210.14169311523438" y="-202.80897521972656" yaw="196.06979370117188" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="18" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="99.25437927246094" y="-195.00991821289062" yaw="1.4395599365234375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="99.25437927246094" y="-195.00991821289062" yaw="1.4395599365234375" z="0.0"/>
+         <position x="101.25374603271484" y="-194.9596710205078" yaw="1.4395599365234375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="19" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="0.44361066818237305" y="-179.31747436523438" yaw="91.41354370117188" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="0.44361066818237305" y="-179.31747436523438" yaw="91.41354370117188" z="0.0"/>
+         <position x="0.3942742347717285" y="-177.31808471679688" yaw="91.41354370117188" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="20" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="189.38189697265625" y="5.8492255210876465" yaw="0.855804443359375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="189.38189697265625" y="5.8492255210876465" yaw="0.855804443359375" z="0.0"/>
+         <position x="191.38168334960938" y="5.879096984863281" yaw="0.855804443359375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="21" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-6.377408027648926" y="73.6057357788086" yaw="89.63745880126953" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-6.377408027648926" y="73.6057357788086" yaw="89.63745880126953" z="0.0"/>
+         <position x="-6.364753723144531" y="75.60569763183594" yaw="89.63745880126953" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="22" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-1.7849345207214355" y="-89.00495910644531" yaw="91.41354370117188" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-1.7849345207214355" y="-89.00495910644531" yaw="91.41354370117188" z="0.0"/>
+         <position x="-1.8342711925506592" y="-87.00556945800781" yaw="91.41354370117188" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="23" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-104.09818267822266" y="24.916175842285156" yaw="134.67684936523438" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-104.09818267822266" y="24.916175842285156" yaw="134.67684936523438" z="0.0"/>
+         <position x="-105.50440216064453" y="26.33834457397461" yaw="134.67684936523438" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="24" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-85.10578155517578" y="154.88880920410156" yaw="89.78770446777344" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-85.10578155517578" y="154.88880920410156" yaw="89.78770446777344" z="0.0"/>
+         <position x="-85.09837341308594" y="156.8887939453125" yaw="89.78770446777344" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="25" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="6.745090961456299" y="-150.9233856201172" yaw="-88.58645629882812" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="6.745090961456299" y="-150.9233856201172" yaw="-88.58645629882812" z="0.0"/>
+         <position x="6.794427871704102" y="-152.9227752685547" yaw="-88.58645629882812" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="26" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="124.58756256103516" y="-72.61546325683594" yaw="-178.49090576171875" z="8.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="124.58756256103516" y="-72.61546325683594" yaw="-178.49090576171875" z="8.0"/>
+         <position x="122.5882568359375" y="-72.66813659667969" yaw="-178.49090576171875" z="8.0"/>
+      </waypoints>
+   </route>
+   <route id="27" town="Town03">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="1.6839337348937988" y="83.27493286132812" yaw="269.637451171875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="1.6839337348937988" y="83.27493286132812" yaw="269.637451171875" z="0.0"/>
+         <position x="1.671278953552246" y="81.27497100830078" yaw="269.637451171875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="28" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-191.58358764648438" y="-45.27376937866211" yaw="89.98420715332031" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-191.58358764648438" y="-45.27376937866211" yaw="89.98420715332031" z="0.055450439453125"/>
+         <position x="-191.58303833007812" y="-43.27376937866211" yaw="89.98420715332031" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="29" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="77.28694152832031" y="-86.9081039428711" yaw="-154.4232940673828" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="77.28694152832031" y="-86.9081039428711" yaw="-154.4232940673828" z="0.0"/>
+         <position x="75.39228057861328" y="-87.76304626464844" yaw="-157.00294494628906" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="30" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-63.613487243652344" y="-132.51602172851562" yaw="219.2092742919922" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-63.613487243652344" y="-132.51602172851562" yaw="219.2092742919922" z="0.055450439453125"/>
+         <position x="-65.26190948486328" y="-133.7945098876953" yaw="216.38333129882812" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="31" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-31.657930374145508" y="205.0753936767578" yaw="-0.028712520375847816" z="1.4024417400360107"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-31.657930374145508" y="205.0753936767578" yaw="-0.028712520375847816" z="1.4024417400360107"/>
+         <position x="-29.657930374145508" y="205.0743865966797" yaw="-0.028712520375847816" z="1.201939344406128"/>
+      </waypoints>
+   </route>
+   <route id="32" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-173.88400268554688" y="-135.48533630371094" yaw="330.606201171875" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-173.88400268554688" y="-135.48533630371094" yaw="330.606201171875" z="0.055450439453125"/>
+         <position x="-172.21437072753906" y="-136.35311889648438" yaw="334.46807861328125" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="33" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="45.382911682128906" y="1.761574625968933" yaw="0.250274658203125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="45.382911682128906" y="1.761574625968933" yaw="0.250274658203125" z="0.0"/>
+         <position x="47.38289260864258" y="1.7703105211257935" yaw="0.250274658203125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="34" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-188.05809020996094" y="47.195255279541016" yaw="-90.01579284667969" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-188.05809020996094" y="47.195255279541016" yaw="-90.01579284667969" z="0.055450439453125"/>
+         <position x="-188.0586395263672" y="45.195255279541016" yaw="-90.01579284667969" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="35" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-28.300376892089844" y="91.53430938720703" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-28.300376892089844" y="91.53430938720703" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-26.30038070678711" y="91.5365982055664" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="36" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-58.47222137451172" y="138.41908264160156" yaw="313.0318298339844" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-58.47222137451172" y="138.41908264160156" yaw="313.0318298339844" z="0.055450439453125"/>
+         <position x="-57.08585739135742" y="136.85511779785156" yaw="310.0785827636719" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="37" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-106.38534545898438" y="2.808274030685425" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-106.38534545898438" y="2.808274030685425" yaw="359.86053466796875" z="0.0"/>
+         <position x="-104.38534545898438" y="2.803406000137329" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="38" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-143.7978973388672" y="87.90216064453125" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-143.7978973388672" y="87.90216064453125" yaw="-179.93443298339844" z="0.0"/>
+         <position x="-145.7978973388672" y="87.89987182617188" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="39" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-243.8658905029297" y="-87.24920654296875" yaw="-14.109222412109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-243.8658905029297" y="-87.24920654296875" yaw="-14.109222412109375" z="0.0"/>
+         <position x="-242.01126098632812" y="-87.65925598144531" yaw="-10.82476806640625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="40" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-245.92494201660156" y="3.147920608520508" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-245.92494201660156" y="3.147920608520508" yaw="359.86053466796875" z="0.0"/>
+         <position x="-243.92494201660156" y="3.143052339553833" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="41" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-186.58660888671875" y="135.15122985839844" yaw="418.3448486328125" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-186.58660888671875" y="135.15122985839844" yaw="418.3448486328125" z="0.055450439453125"/>
+         <position x="-185.4225311279297" y="136.9118194580078" yaw="414.7110595703125" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="42" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="32.16716003417969" y="-46.087493896484375" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="32.16716003417969" y="-46.087493896484375" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         <position x="32.22063446044922" y="-48.08677673339844" yaw="271.5320739746094" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="43" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="98.09632873535156" y="-57.94562530517578" yaw="72.70701599121094" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="98.09632873535156" y="-57.94562530517578" yaw="72.70701599121094" z="0.0"/>
+         <position x="98.62594604492188" y="-56.09902572631836" yaw="75.28667449951172" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="44" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-191.5602569580078" y="39.33622360229492" yaw="89.98420715332031" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-191.5602569580078" y="39.33622360229492" yaw="89.98420715332031" z="0.055450439453125"/>
+         <position x="-191.55970764160156" y="41.33622360229492" yaw="89.98420715332031" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="45" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="5.762661933898926" y="-91.38512420654297" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="5.762661933898926" y="-91.38512420654297" yaw="-179.9136962890625" z="0.0"/>
+         <position x="3.762664794921875" y="-91.38813018798828" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="46" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="81.00664520263672" y="80.30134582519531" yaw="144.46810913085938" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="81.00664520263672" y="80.30134582519531" yaw="144.46810913085938" z="0.0"/>
+         <position x="79.41756439208984" y="81.38426971435547" yaw="146.9843292236328" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="47" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-227.35350036621094" y="-0.3972935676574707" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-227.35350036621094" y="-0.3972935676574707" yaw="179.86053466796875" z="0.0"/>
+         <position x="-229.35350036621094" y="-0.392425537109375" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="48" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-123.5135498046875" y="135.6098175048828" yaw="-90.51139068603516" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-123.5135498046875" y="135.6098175048828" yaw="-90.51139068603516" z="0.0"/>
+         <position x="-123.53140258789062" y="133.60989379882812" yaw="-90.51139068603516" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="49" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-27.37557601928711" y="2.6159603595733643" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-27.37557601928711" y="2.6159603595733643" yaw="359.86053466796875" z="0.0"/>
+         <position x="-25.37558364868164" y="2.6110923290252686" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="50" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-268.59088134765625" y="58.81256103515625" yaw="-90.58375549316406" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-268.59088134765625" y="58.81256103515625" yaw="-90.58375549316406" z="0.0"/>
+         <position x="-268.6112365722656" y="56.81266784667969" yaw="-90.58375549316406" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="51" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-101.25247955322266" y="-88.04631042480469" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-101.25247955322266" y="-88.04631042480469" yaw="0.0863037109375" z="0.0"/>
+         <position x="-99.25248718261719" y="-88.04329681396484" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="52" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-238.29396057128906" y="91.29405975341797" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-238.29396057128906" y="91.29405975341797" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-236.29396057128906" y="91.29634857177734" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="53" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="87.56012725830078" y="-204.32423400878906" yaw="179.757080078125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="87.56012725830078" y="-204.32423400878906" yaw="179.757080078125" z="0.0"/>
+         <position x="85.56014251708984" y="-204.31576538085938" yaw="179.757080078125" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="54" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-10.758501052856445" y="-189.96340942382812" yaw="0.076446533203125" z="0.9315361380577087"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-10.758501052856445" y="-189.96340942382812" yaw="0.076446533203125" z="0.9315361380577087"/>
+         <position x="-8.758502960205078" y="-189.96075439453125" yaw="0.076446533203125" z="0.7627027630805969"/>
+      </waypoints>
+   </route>
+   <route id="55" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-188.0803680419922" y="-33.58474349975586" yaw="-90.01579284667969" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-188.0803680419922" y="-33.58474349975586" yaw="-90.01579284667969" z="0.055450439453125"/>
+         <position x="-188.08091735839844" y="-35.58474349975586" yaw="-90.01579284667969" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="56" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="4.322018146514893" y="88.0716323852539" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="4.322018146514893" y="88.0716323852539" yaw="-179.93443298339844" z="0.0"/>
+         <position x="2.322019100189209" y="88.06934356689453" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="57" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-171.34820556640625" y="-140.52796936035156" yaw="519.1796264648438" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-171.34820556640625" y="-140.52796936035156" yaw="519.1796264648438" z="0.055450439453125"/>
+         <position x="-173.30099487304688" y="-139.70904541015625" yaw="515.3177490234375" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="58" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-271.91253662109375" y="-51.0716438293457" yaw="90.41678619384766" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-271.91253662109375" y="-51.0716438293457" yaw="90.41678619384766" z="0.0"/>
+         <position x="-271.92706298828125" y="-49.07169723510742" yaw="90.41678619384766" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="59" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-77.75394439697266" y="-0.7614264488220215" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-77.75394439697266" y="-0.7614264488220215" yaw="179.86053466796875" z="0.0"/>
+         <position x="-79.75393676757812" y="-0.756558358669281" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="60" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-26.602571487426758" y="-87.93386840820312" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-26.602571487426758" y="-87.93386840820312" yaw="0.0863037109375" z="0.0"/>
+         <position x="-24.602575302124023" y="-87.93085479736328" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="61" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-66.29910278320312" y="140.69500732421875" yaw="143.92935180664062" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-66.29910278320312" y="140.69500732421875" yaw="143.92935180664062" z="0.055450439453125"/>
+         <position x="-67.8710708618164" y="141.77919006347656" yaw="146.88262939453125" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="62" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-127.88174438476562" y="38.35517883300781" yaw="89.48860931396484" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-127.88174438476562" y="38.35517883300781" yaw="89.48860931396484" z="0.0"/>
+         <position x="-127.86389923095703" y="40.3551025390625" yaw="89.48860931396484" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="63" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-104.6884765625" y="91.44691467285156" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-104.6884765625" y="91.44691467285156" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-102.6884765625" y="91.44920349121094" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="64" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-173.59432983398438" y="143.21365356445312" yaw="211.00051879882812" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-173.59432983398438" y="143.21365356445312" yaw="211.00051879882812" z="0.055450439453125"/>
+         <position x="-175.18161010742188" y="142.19003295898438" yaw="214.63430786132812" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="65" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-50.56657791137695" y="35.918392181396484" yaw="90.3792953491211" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-50.56657791137695" y="35.918392181396484" yaw="90.3792953491211" z="0.055450439453125"/>
+         <position x="-50.57981872558594" y="37.91835021972656" yaw="90.3792953491211" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="66" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-171.5524139404297" y="-88.15220642089844" yaw="0.0863037109375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-171.5524139404297" y="-88.15220642089844" yaw="0.0863037109375" z="0.0"/>
+         <position x="-169.5524139404297" y="-88.1491928100586" yaw="0.0863037109375" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="67" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-124.98942565917969" y="-28.91790771484375" yaw="270.3935546875" z="-1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-124.98942565917969" y="-28.91790771484375" yaw="270.3935546875" z="-1.52587890625e-05"/>
+         <position x="-124.97569274902344" y="-30.917861938476562" yaw="270.3935546875" z="-1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="68" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="0.17582295835018158" y="-0.951111376285553" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="0.17582295835018158" y="-0.951111376285553" yaw="179.86053466796875" z="0.0"/>
+         <position x="-1.824169397354126" y="-0.9462432861328125" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="69" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-50.559959411621094" y="34.91840744018555" yaw="90.3792953491211" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-50.559959411621094" y="34.91840744018555" yaw="90.3792953491211" z="0.055450439453125"/>
+         <position x="-50.57320022583008" y="36.91836929321289" yaw="90.3792953491211" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="70" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="88.05779266357422" y="-1.552054762840271" yaw="-179.74972534179688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="88.05779266357422" y="-1.552054762840271" yaw="-179.74972534179688" z="0.0"/>
+         <position x="86.05781555175781" y="-1.5607906579971313" yaw="-179.74972534179688" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="71" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-51.26971435546875" y="-51.646888732910156" yaw="89.66250610351562" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-51.26971435546875" y="-51.646888732910156" yaw="89.66250610351562" z="0.055450439453125"/>
+         <position x="-51.2579345703125" y="-49.64692687988281" yaw="89.66250610351562" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="72" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-72.499755859375" y="-134.1884002685547" yaw="27.39684295654297" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-72.499755859375" y="-134.1884002685547" yaw="27.39684295654297" z="0.055450439453125"/>
+         <position x="-70.82310485839844" y="-133.26629638671875" yaw="30.222782135009766" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="73" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="77.46514129638672" y="191.45375061035156" yaw="180.28781127929688" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="77.46514129638672" y="191.45375061035156" yaw="180.28781127929688" z="0.0"/>
+         <position x="75.46517181396484" y="191.44369506835938" yaw="180.28781127929688" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="74" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-47.162845611572266" y="50.47124481201172" yaw="270.3793029785156" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-47.162845611572266" y="50.47124481201172" yaw="270.3793029785156" z="0.055450439453125"/>
+         <position x="-47.14960479736328" y="48.47128677368164" yaw="270.3793029785156" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="75" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="31.59160041809082" y="51.217716217041016" yaw="-89.97710418701172" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="31.59160041809082" y="51.217716217041016" yaw="-89.97710418701172" z="1.52587890625e-05"/>
+         <position x="31.59239959716797" y="49.217716217041016" yaw="-89.97710418701172" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="76" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="28.100412368774414" y="29.164628982543945" yaw="90.02288818359375" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="28.100412368774414" y="29.164628982543945" yaw="90.02288818359375" z="1.52587890625e-05"/>
+         <position x="28.099613189697266" y="31.16463279724121" yaw="90.02289581298828" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="77" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-47.635379791259766" y="-28.851573944091797" yaw="269.6625061035156" z="0.055450439453125"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-47.635379791259766" y="-28.851573944091797" yaw="269.6625061035156" z="0.055450439453125"/>
+         <position x="-47.647159576416016" y="-30.851539611816406" yaw="269.6625061035156" z="0.055450439453125"/>
+      </waypoints>
+   </route>
+   <route id="78" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-73.637939453125" y="87.98242950439453" yaw="-179.93443298339844" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-73.637939453125" y="87.98242950439453" yaw="-179.93443298339844" z="0.0"/>
+         <position x="-75.637939453125" y="87.98014831542969" yaw="-179.93443298339844" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="79" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="28.097999572753906" y="35.19929885864258" yaw="90.02289581298828" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="28.097999572753906" y="35.19929885864258" yaw="90.02289581298828" z="1.52587890625e-05"/>
+         <position x="28.097200393676758" y="37.19929885864258" yaw="90.02289581298828" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="80" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-172.98187255859375" y="91.3687744140625" yaw="0.0655670166015625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-172.98187255859375" y="91.3687744140625" yaw="0.0655670166015625" z="0.0"/>
+         <position x="-170.98187255859375" y="91.37106323242188" yaw="0.0655670166015625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="81" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-124.28754425048828" y="48.89326095581055" yaw="-90.51139068603516" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-124.28754425048828" y="48.89326095581055" yaw="-90.51139068603516" z="0.0"/>
+         <position x="-124.3053970336914" y="46.893341064453125" yaw="-90.51139068603516" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="82" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-174.28514099121094" y="2.973545551300049" yaw="359.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-174.28514099121094" y="2.973545551300049" yaw="359.86053466796875" z="0.0"/>
+         <position x="-172.28515625" y="2.968677520751953" yaw="359.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="83" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-128.31112670898438" y="-54.88759994506836" yaw="90.39353942871094" z="-1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-128.31112670898438" y="-54.88759994506836" yaw="90.39353942871094" z="-1.52587890625e-05"/>
+         <position x="-128.3248748779297" y="-52.88764572143555" yaw="90.39353942871094" z="-1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="84" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="102.87088775634766" y="43.10956573486328" yaw="-89.30083465576172" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="102.87088775634766" y="43.10956573486328" yaw="-89.30083465576172" z="0.0"/>
+         <position x="102.89529418945312" y="41.109710693359375" yaw="-89.30083465576172" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="85" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-142.5187530517578" y="-91.60847473144531" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-142.5187530517578" y="-91.60847473144531" yaw="-179.9136962890625" z="0.0"/>
+         <position x="-144.5187530517578" y="-91.61148834228516" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="86" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-70.77725219726562" y="-91.50041198730469" yaw="-179.9136962890625" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-70.77725219726562" y="-91.50041198730469" yaw="-179.9136962890625" z="0.0"/>
+         <position x="-72.77725219726562" y="-91.50342559814453" yaw="-179.9136962890625" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="87" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-147.17373657226562" y="-0.5924551486968994" yaw="179.86053466796875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-147.17373657226562" y="-0.5924551486968994" yaw="179.86053466796875" z="0.0"/>
+         <position x="-149.17373657226562" y="-0.5875871181488037" yaw="179.86053466796875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="88" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="28.632009506225586" y="-44.81999588012695" yaw="91.53207397460938" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="28.632009506225586" y="-44.81999588012695" yaw="91.53207397460938" z="1.52587890625e-05"/>
+         <position x="28.578535079956055" y="-42.820709228515625" yaw="91.53207397460938" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="89" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-127.97992706298828" y="27.35561180114746" yaw="89.48860931396484" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-127.97992706298828" y="27.35561180114746" yaw="89.48860931396484" z="0.0"/>
+         <position x="-127.96207427978516" y="29.35553550720215" yaw="89.48860931396484" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="90" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="33.72040557861328" y="-104.1610107421875" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="33.72040557861328" y="-104.1610107421875" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         <position x="33.77388000488281" y="-106.1603012084961" yaw="271.5320739746094" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="91" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-127.28484344482422" y="105.2305908203125" yaw="89.48860931396484" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-127.28484344482422" y="105.2305908203125" yaw="89.48860931396484" z="0.0"/>
+         <position x="-127.2669906616211" y="107.23050689697266" yaw="89.48860931396484" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="92" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="31.006912231445312" y="-133.6140899658203" yaw="91.53207397460938" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="31.006912231445312" y="-133.6140899658203" yaw="91.53207397460938" z="1.52587890625e-05"/>
+         <position x="30.953441619873047" y="-131.61480712890625" yaw="91.53207397460938" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="93" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="31.7393741607666" y="-30.093210220336914" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="31.7393741607666" y="-30.093210220336914" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         <position x="31.792848587036133" y="-32.09249496459961" yaw="271.5320739746094" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="94" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="33.75355911254883" y="-105.40056610107422" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="33.75355911254883" y="-105.40056610107422" yaw="271.5320739746094" z="1.52587890625e-05"/>
+         <position x="33.80703353881836" y="-107.39985656738281" yaw="271.5320739746094" z="1.52587890625e-05"/>
+      </waypoints>
+   </route>
+   <route id="95" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-107.03852844238281" y="85.38319396972656" yaw="262.75860595703125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-107.03852844238281" y="85.38319396972656" yaw="262.75860595703125" z="0.0"/>
+         <position x="-107.25736999511719" y="83.44448852539062" yaw="264.3602294921875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="96" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-48.71815490722656" y="-33.35417556762695" yaw="90.43231964111328" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-48.71815490722656" y="-33.35417556762695" yaw="90.43231964111328" z="0.0"/>
+         <position x="-48.733245849609375" y="-31.354232788085938" yaw="90.43231964111328" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="97" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="6.389715671539307" y="133.7753448486328" yaw="180.9241180419922" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="6.389715671539307" y="133.7753448486328" yaw="180.9241180419922" z="0.0"/>
+         <position x="4.382917404174805" y="133.74697875976562" yaw="180.69493103027344" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="98" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="7.435792446136475" y="16.704652786254883" yaw="180.15919494628906" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="7.435792446136475" y="16.704652786254883" yaw="180.15919494628906" z="0.0"/>
+         <position x="5.435800075531006" y="16.6990966796875" yaw="180.15919494628906" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="99" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="98.77120208740234" y="-40.57011795043945" yaw="62.639923095703125" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="98.77120208740234" y="-40.57011795043945" yaw="62.639923095703125" z="0.0"/>
+         <position x="99.60610961914062" y="-38.851165771484375" yaw="65.54741668701172" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="100" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-107.74221801757812" y="-36.013458251953125" yaw="107.68688201904297" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-107.74221801757812" y="-36.013458251953125" yaw="107.68688201904297" z="0.0"/>
+         <position x="-108.32975006103516" y="-34.022335052490234" yaw="105.19325256347656" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="101" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-102.83592987060547" y="110.38685607910156" yaw="422.53802490234375" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-102.83592987060547" y="110.38685607910156" yaw="422.53802490234375" z="0.0"/>
+         <position x="-101.86576080322266" y="112.19145202636719" yaw="420.9364013671875" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="102" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="18.811246871948242" y="-64.40465545654297" yaw="179.97657775878906" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="18.811246871948242" y="-64.40465545654297" yaw="179.97657775878906" z="0.0"/>
+         <position x="16.811246871948242" y="-64.40383911132812" yaw="179.97657775878906" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="103" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="91.00971984863281" y="127.32025909423828" yaw="-43.387229919433594" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="91.00971984863281" y="127.32025909423828" yaw="-43.387229919433594" z="0.0"/>
+         <position x="92.4928207397461" y="125.83889770507812" yaw="-46.54536819458008" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="104" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-45.32000732421875" y="-4.804924488067627" yaw="-90.1612319946289" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-45.32000732421875" y="-4.804924488067627" yaw="-90.1612319946289" z="0.0"/>
+         <position x="-45.32563400268555" y="-6.8049163818359375" yaw="-90.1612319946289" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="105" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="4.427052974700928" y="-64.41388702392578" yaw="180.55682373046875" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="4.427052974700928" y="-64.41388702392578" yaw="180.55682373046875" z="0.0"/>
+         <position x="2.438164472579956" y="-64.43988800048828" yaw="-179.0850372314453" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="106" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-9.716368675231934" y="24.657024383544922" yaw="0.15919755399227142" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-9.716368675231934" y="24.657024383544922" yaw="0.15919755399227142" z="0.0"/>
+         <position x="-7.716375827789307" y="24.662582397460938" yaw="0.15919755399227142" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="107" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-45.34989547729492" y="-11.80675220489502" yaw="269.7766418457031" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-45.34989547729492" y="-11.80675220489502" yaw="269.7766418457031" z="0.0"/>
+         <position x="-45.353424072265625" y="-13.799324035644531" yaw="270.0196838378906" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="108" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-95.11111450195312" y="-51.11969757080078" yaw="-47.258975982666016" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-95.11111450195312" y="-51.11969757080078" yaw="-47.258975982666016" z="0.0"/>
+         <position x="-93.78266143798828" y="-52.476802825927734" yaw="-43.9636344909668" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="109" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-44.988624572753906" y="112.95515441894531" yaw="-90.1612319946289" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-44.988624572753906" y="112.95515441894531" yaw="-90.1612319946289" z="0.0"/>
+         <position x="-44.99425506591797" y="110.95516204833984" yaw="-90.1612319946289" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="110" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="20.29977035522461" y="133.96522521972656" yaw="180.32044982910156" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="20.29977035522461" y="133.96522521972656" yaw="180.32044982910156" z="0.0"/>
+         <position x="18.299793243408203" y="133.9540252685547" yaw="180.32044982910156" z="0.0"/>
+      </waypoints>
+   </route>
+   <route id="111" town="Town10HD">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="GhostA_0" type="GhostA">
+            <trigger_point x="-48.57111740112305" y="83.64511108398438" yaw="89.8387680053711" z="0.0"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="-48.57111740112305" y="83.64511108398438" yaw="89.8387680053711" z="0.0"/>
+         <position x="-48.56549072265625" y="85.64510345458984" yaw="89.8387680053711" z="0.0"/>
+      </waypoints>
+   </route>
+</routes>

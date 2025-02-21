@@ -1,0 +1,590 @@
+<routes>
+	<route id="0" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="-566.7" y="3925.9" z="370.0" yaw="-0.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-566.7" y="3925.9" z="370.0" yaw="-0.3" />
+			<position x="-500.6" y="3946.2" z="369.6" yaw="90.2" />
+		</waypoints>
+	</route>
+	<route id="1" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="301.7" y="3915.3" z="366.0" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="301.7" y="3915.3" z="366.0" yaw="179.7" />
+			<position x="246.2" y="3945.6" z="365.7" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="2" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="-562.5" y="3925.9" z="370.0" yaw="-0.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-562.5" y="3925.9" z="370.0" yaw="-0.3" />
+			<position x="-458.4" y="3981.8" z="370.4" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="3" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="1703.4" y="4998.2" z="368.6" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1703.4" y="4998.2" z="368.6" yaw="-0.1" />
+			<position x="1748.9" y="5158.0" z="368.5" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="4" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="2547.5" y="4193.9" z="359.3" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2547.5" y="4193.9" z="359.3" yaw="189.2" />
+			<position x="2253.9" y="4434.7" z="360.6" yaw="99.5" />
+		</waypoints>
+	</route>
+	<route id="5" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="2388.3" y="4164.8" z="358.6" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2388.3" y="4164.8" z="358.6" yaw="189.2" />
+			<position x="2312.6" y="4074.2" z="357.2" yaw="277.8" />
+		</waypoints>
+	</route>
+	<route id="6" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="1775.1" y="4068.7" z="359.0" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1775.1" y="4068.7" z="359.0" yaw="189.2" />
+			<position x="1432.3" y="4127.7" z="362.1" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="7" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_3" type="CrossingBicycleFlow">
+				<trigger_point x="1244.5" y="3985.9" z="364.7" yaw="9.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1244.5" y="3985.9" z="364.7" yaw="9.2" />
+			<position x="1081.5" y="3837.2" z="368.2" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="8" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_3" type="CrossingBicycleFlow">
+				<trigger_point x="821.7" y="3915.5" z="370.7" yaw="185.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="821.7" y="3915.5" z="370.7" yaw="185.4" />
+			<position x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="9" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_4" type="CrossingBicycleFlow">
+				<trigger_point x="455.3" y="5088.9" z="369.5" yaw="164.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="455.3" y="5088.9" z="369.5" yaw="164.3" />
+			<position x="359.5" y="5290.6" z="368.1" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="10" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_5" type="CrossingBicycleFlow">
+				<trigger_point x="58.6" y="5209.4" z="370.5" yaw="156.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="58.6" y="5209.4" z="370.5" yaw="156.7" />
+			<position x="-42.7" y="5161.1" z="371.9" yaw="245.7" />
+		</waypoints>
+	</route>
+	<route id="11" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="0.0" precipitation_deposits="50.0" wetness="20.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_5" type="CrossingBicycleFlow">
+				<trigger_point x="37.6" y="5229.0" z="370.7" yaw="-23.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="37.6" y="5229.0" z="370.7" yaw="-23.3" />
+			<position x="2251.7" y="4466.1" z="361.0" yaw="-80.5" />
+		</waypoints>
+	</route>
+	<route id="12" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="918.7" y="4996.9" z="371.3" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="918.7" y="4996.9" z="371.3" yaw="-0.1" />
+			<position x="1555.1" y="4814.6" z="369.3" yaw="90.3" />
+		</waypoints>
+	</route>
+	<route id="13" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="60.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="1693.5" y="4998.3" z="368.8" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1693.5" y="4998.3" z="368.8" yaw="-0.1" />
+			<position x="1751.1" y="5509.1" z="368.3" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="14" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="-566.7" y="3925.9" z="370.0" yaw="-0.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-566.7" y="3925.9" z="370.0" yaw="-0.3" />
+			<position x="-500.6" y="3946.2" z="369.6" yaw="90.2" />
+		</waypoints>
+	</route>
+	<route id="15" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="301.7" y="3915.3" z="366.0" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="301.7" y="3915.3" z="366.0" yaw="179.7" />
+			<position x="246.2" y="3945.6" z="365.7" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="16" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="0.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="8.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="-562.5" y="3925.9" z="370.0" yaw="-0.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-562.5" y="3925.9" z="370.0" yaw="-0.3" />
+			<position x="-458.4" y="3981.8" z="370.4" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="17" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="70.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="1703.4" y="4998.2" z="368.6" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1703.4" y="4998.2" z="368.6" yaw="-0.1" />
+			<position x="1748.9" y="5158.0" z="368.5" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="18" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="2547.5" y="4193.9" z="359.3" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2547.5" y="4193.9" z="359.3" yaw="189.2" />
+			<position x="2253.9" y="4434.7" z="360.6" yaw="99.5" />
+		</waypoints>
+	</route>
+	<route id="19" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="2388.3" y="4164.8" z="358.6" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2388.3" y="4164.8" z="358.6" yaw="189.2" />
+			<position x="2312.6" y="4074.2" z="357.2" yaw="277.8" />
+		</waypoints>
+	</route>
+	<route id="20" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="1775.1" y="4068.7" z="359.0" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1775.1" y="4068.7" z="359.0" yaw="189.2" />
+			<position x="1432.3" y="4127.7" z="362.1" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="21" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_3" type="CrossingBicycleFlow">
+				<trigger_point x="1244.5" y="3985.9" z="364.7" yaw="9.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1244.5" y="3985.9" z="364.7" yaw="9.2" />
+			<position x="1081.5" y="3837.2" z="368.2" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="22" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_3" type="CrossingBicycleFlow">
+				<trigger_point x="821.7" y="3915.5" z="370.7" yaw="185.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="821.7" y="3915.5" z="370.7" yaw="185.4" />
+			<position x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="23" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_4" type="CrossingBicycleFlow">
+				<trigger_point x="455.3" y="5088.9" z="369.5" yaw="164.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="455.3" y="5088.9" z="369.5" yaw="164.3" />
+			<position x="359.5" y="5290.6" z="368.1" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="24" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_5" type="CrossingBicycleFlow">
+				<trigger_point x="58.6" y="5209.4" z="370.5" yaw="156.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="58.6" y="5209.4" z="370.5" yaw="156.7" />
+			<position x="-42.7" y="5161.1" z="371.9" yaw="245.7" />
+		</waypoints>
+	</route>
+	<route id="25" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="5.0" precipitation="0.0" precipitation_deposits="0.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="15.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_5" type="CrossingBicycleFlow">
+				<trigger_point x="37.6" y="5229.0" z="370.7" yaw="-23.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="37.6" y="5229.0" z="370.7" yaw="-23.3" />
+			<position x="2251.7" y="4466.1" z="361.0" yaw="-80.5" />
+		</waypoints>
+	</route>
+	<route id="26" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="918.7" y="4996.9" z="371.3" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="918.7" y="4996.9" z="371.3" yaw="-0.1" />
+			<position x="1555.1" y="4814.6" z="369.3" yaw="90.3" />
+		</waypoints>
+	</route>
+	<route id="27" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="60.0" precipitation_deposits="60.0" wetness="0.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="45.0" fog_density="50.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="1693.5" y="4998.3" z="368.8" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1693.5" y="4998.3" z="368.8" yaw="-0.1" />
+			<position x="1751.1" y="5509.1" z="368.3" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="28" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="-566.7" y="3925.9" z="370.0" yaw="-0.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-566.7" y="3925.9" z="370.0" yaw="-0.3" />
+			<position x="-500.6" y="3946.2" z="369.6" yaw="90.2" />
+		</waypoints>
+	</route>
+	<route id="29" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="301.7" y="3915.3" z="366.0" yaw="179.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="301.7" y="3915.3" z="366.0" yaw="179.7" />
+			<position x="246.2" y="3945.6" z="365.7" yaw="90.0" />
+		</waypoints>
+	</route>
+	<route id="30" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="100.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="-562.5" y="3925.9" z="370.0" yaw="-0.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="-562.5" y="3925.9" z="370.0" yaw="-0.3" />
+			<position x="-458.4" y="3981.8" z="370.4" yaw="-0.1" />
+		</waypoints>
+	</route>
+	<route id="31" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="40.0" precipitation="0.0" precipitation_deposits="50.0" wetness="0.0" wind_intensity="10.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="1703.4" y="4998.2" z="368.6" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1703.4" y="4998.2" z="368.6" yaw="-0.1" />
+			<position x="1748.9" y="5158.0" z="368.5" yaw="89.6" />
+		</waypoints>
+	</route>
+	<route id="32" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="2547.5" y="4193.9" z="359.3" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2547.5" y="4193.9" z="359.3" yaw="189.2" />
+			<position x="2253.9" y="4434.7" z="360.6" yaw="99.5" />
+		</waypoints>
+	</route>
+	<route id="33" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="2388.3" y="4164.8" z="358.6" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="2388.3" y="4164.8" z="358.6" yaw="189.2" />
+			<position x="2312.6" y="4074.2" z="357.2" yaw="277.8" />
+		</waypoints>
+	</route>
+	<route id="34" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="1775.1" y="4068.7" z="359.0" yaw="189.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1775.1" y="4068.7" z="359.0" yaw="189.2" />
+			<position x="1432.3" y="4127.7" z="362.1" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="35" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_3" type="CrossingBicycleFlow">
+				<trigger_point x="1244.5" y="3985.9" z="364.7" yaw="9.2" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1244.5" y="3985.9" z="364.7" yaw="9.2" />
+			<position x="1081.5" y="3837.2" z="368.2" yaw="189.2" />
+		</waypoints>
+	</route>
+	<route id="36" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_3" type="CrossingBicycleFlow">
+				<trigger_point x="821.7" y="3915.5" z="370.7" yaw="185.4" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="821.7" y="3915.5" z="370.7" yaw="185.4" />
+			<position x="782.4" y="4049.2" z="370.4" yaw="90.1" />
+		</waypoints>
+	</route>
+	<route id="37" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_4" type="CrossingBicycleFlow">
+				<trigger_point x="455.3" y="5088.9" z="369.5" yaw="164.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="455.3" y="5088.9" z="369.5" yaw="164.3" />
+			<position x="359.5" y="5290.6" z="368.1" yaw="89.7" />
+		</waypoints>
+	</route>
+	<route id="38" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_5" type="CrossingBicycleFlow">
+				<trigger_point x="58.6" y="5209.4" z="370.5" yaw="156.7" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="58.6" y="5209.4" z="370.5" yaw="156.7" />
+			<position x="-42.7" y="5161.1" z="371.9" yaw="245.7" />
+		</waypoints>
+	</route>
+	<route id="39" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="80.0" precipitation="60.0" precipitation_deposits="60.0" wetness="80.0" wind_intensity="60.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="60.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_5" type="CrossingBicycleFlow">
+				<trigger_point x="37.6" y="5229.0" z="370.7" yaw="-23.3" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="37.6" y="5229.0" z="370.7" yaw="-23.3" />
+			<position x="2251.7" y="4466.1" z="361.0" yaw="-80.5" />
+		</waypoints>
+	</route>
+	<route id="40" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_1" type="CrossingBicycleFlow">
+				<trigger_point x="918.7" y="4996.9" z="371.3" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="918.7" y="4996.9" z="371.3" yaw="-0.1" />
+			<position x="1555.1" y="4814.6" z="369.3" yaw="90.3" />
+		</waypoints>
+	</route>
+	<route id="41" town="Town12">
+		<weathers>
+			<weather route_percentage="100" cloudiness="100.0" precipitation="100.0" precipitation_deposits="90.0" wetness="100.0" wind_intensity="100.0" sun_azimuth_angle="-1.0" sun_altitude_angle="-90.0" fog_density="3.0" fog_distance="0.75" fog_falloff="0.1" scattering_intensity="1.0" mie_scattering_scale="0.03" />
+		</weathers>
+		<scenarios>
+			<scenario name="CrossingBicycleFlow_2" type="CrossingBicycleFlow">
+				<trigger_point x="1693.5" y="4998.3" z="368.8" yaw="-0.1" />
+			</scenario>
+		</scenarios>
+		<waypoints>
+			<position x="1693.5" y="4998.3" z="368.8" yaw="-0.1" />
+			<position x="1751.1" y="5509.1" z="368.3" yaw="89.6" />
+		</waypoints>
+	</route>
+</routes>

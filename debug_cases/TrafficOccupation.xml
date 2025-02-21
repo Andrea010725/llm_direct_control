@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<routes>
+   <route id="0" town="Town05">
+      <weathers>
+         <weather cloudiness="5.0" fog_density="2.0" fog_distance="0.75" fog_falloff="0.1" mie_scattering_scale="0.03" precipitation="0.0" precipitation_deposits="0.0" route_percentage="0" scattering_intensity="1.0" sun_altitude_angle="90.0" sun_azimuth_angle="-1.0" wetness="0.0" wind_intensity="10.0"/>
+      </weathers>
+      <scenarios>
+         <scenario name="TrafficOccupation_0" type="TrafficOccupation">
+            <trigger_point x="41.046043395996094" y="-182.90447998046875" yaw="86.89049530029297" z="5.4820380210876465"/>
+         </scenario>
+      </scenarios>
+      <waypoints>
+         <position x="41.046043395996094" y="-182.90447998046875" yaw="86.89049530029297" z="5.4820380210876465"/>
+         <position x="41.1545295715332" y="-180.9074249267578" yaw="86.89049530029297" z="5.638667583465576"/>
+      </waypoints>
+   </route>
+</routes>
